@@ -1263,7 +1263,7 @@
 |**2025-12-04**|**Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain**|Haroon Hublikar et.al.|[2512.05008](http://arxiv.org/abs/2512.05008)|null|
 |**2025-12-04**|**A meta-GGA perspective on the altermagnetism of RuO2**|Markus Meinert et.al.|[2512.04995](http://arxiv.org/abs/2512.04995)|null|
 |**2025-12-04**|**Operator Formalism for Laser-Plasma Wakefield Acceleration**|Mostafa Behtouei et.al.|[2512.04982](http://arxiv.org/abs/2512.04982)|null|
-|**2025-12-04**|**Hoi! - A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
+|**2025-12-04**|**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
 |**2025-12-04**|**Isostructural phase transition and equation of state of type-I and type-VIII metallic sodium borosilicide clathrates**|M. Demoucron et.al.|[2512.04878](http://arxiv.org/abs/2512.04878)|null|
 |**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[2512.04771](http://arxiv.org/abs/2512.04771)|null|
 |**2025-12-04**|**ALMA-QUARKS: Few-Thousand-Year Hatching out of "Egg": The Supersonic Breakout of a Hypercompact H II Region from Its Parental Hot Core**|Siju Zhang et.al.|[2512.04744](http://arxiv.org/abs/2512.04744)|null|

@@ -3,8 +3,8 @@ description: Automatically Update CV Papers Daily using Github Actions (Update E
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Blake-Jiang/ad-arxiv-daily
-  another_url: https://github.com/Blake-Jiang/ad-arxiv-daily
+  zip_url: https://github.com/sjh04/ad-arxiv-daily
+  another_url: https://github.com/sjh04/ad-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -12,8 +12,8 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  twitter: Blake-Jiang
-  github: Blake-Jiang
+  twitter: sjh04
+  github: sjh04
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one

@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 */5 * *"
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -49,9 +49,10 @@ jobs:
           python daily_arxiv.py
           
       - name: Push new ad-arxiv-daily.md
-        run: |
-          git config --local user.email "${{ env.GITHUB_USER_EMAIL }}"
-          git config --local user.name "${{ env.GITHUB_USER_NAME }}"
-          git add README.md docs/ad-arxiv-daily.json
-          git commit -m "Github Action Automatic Update AD Arxiv Papers"
-          git push
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Github Action Automatic Update AD Arxiv Papers"
+          files: README.md docs/ad-arxiv-daily.json docs/ad-arxiv-daily-web.json docs/index.md
+          name: ${{ env.GITHUB_USER_NAME }}
+          email: ${{ env.GITHUB_USER_EMAIL }}

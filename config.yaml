@@ -8,7 +8,7 @@ show_badge: True
 max_results: 15
 
 publish_readme: True
-publish_gitpage: False
+publish_gitpage: True
 publish_wechat: False
 
 # file paths

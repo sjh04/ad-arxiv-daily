@@ -22,18 +22,54 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
+    "Diffusion & Priors (General)":
+        filters: 
+            - "Noise Prior"
+            - "Informative Prior"
+            - "Learned Prior"
+            - "Shifted Noise"
+            - "Offset Noise"
+            - "Gaussian Mixture Prior"
+            - "Terminal Distribution"
+            - "Diffusion Bridge"
+            - "Truncated Diffusion"  # Often used to start from a noisy prior rather than pure noise
+
     "Planning & Control":
-        filters: ["Motion Planning", "Path Planning", "Trajectory Planning",
-                 "Vehicle Control"]
-    "End-to-end Driving":
-        filters: ["End-to-end Autonomous Driving"]
+        filters: 
+            - "Trajectory Anchor"    # "Noise prior" in planning is often an "anchor"
+            - "Reference Line Prior"
+            - "Kinematic Prior"      # Physics-based constraints acting as priors
+            - "Goal Prior"           # Conditioning on a predicted goal state
+            - "Action Prior"
+            - "Path Planning with Diffusion"
+            - "Guided Sampling"
+
     "Prediction":
-        filters: ["Trajectory Prediction", "Behavior Prediction",
-                 "Interactive Prediction"]
-    "Autonomous Driving":
-        filters: ["Autonomous Driving", "Self-driving", "Autonomous Vehicle"]
-    "Simulation":
-        filters: ["Driving Simulation", "Scenario Generation"]
+        filters: 
+            - "Motion Prediction"
+            - "Trajectory Prediction"
+            - "Anchor-based Prediction"
+            - "Intention Prior"      # High-level intent acting as a prior
+            - "Goal-conditioned Prediction"
+            - "Behavior Prior"
+            - "Multi-modal Prior"
+
     "Perception":
-        filters: ["3D Detection", "Multi-Object Tracking", "BEV Perception",
-                 "Camera-LiDAR Fusion"]
+        filters: 
+            - "Map Prior"            # Specific to HD Map generation (e.g., DiffMap)
+            - "Detection Prior"
+            - "Bounding Box Prior"   # Used in 3D detection/amodal segmentation
+            - "Tracking Prior"       # Used in MOT (e.g., DexTrack)
+            - "Normality Prior"      # Used in Anomaly Detection
+            - "Shape Prior"
+            - "Depth Prior"
+
+    "Simulation & Generation":
+        filters: 
+            - "Scenario Prior"
+            - "Traffic Prior"        # Learned distribution of traffic patterns
+            - "Scene Prior"          # For 3D scene reconstruction/generation
+            - "Layout Prior"
+            - "Background Prior"
+            - "Scene-Consistent Prior"
+            - "Video Noise Prior"    # Specific to temporal consistency in video generation

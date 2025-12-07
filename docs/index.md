@@ -9,20 +9,33 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
 |**2025-12-04**|**On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator**|Matteo Masoni et.al.|[2512.04917](http://arxiv.org/abs/2512.04917)|null|
 |**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
 |**2025-12-04**|**The Stagnant Persistence Paradox: Survival Analysis and Temporal Efficiency in Exact Sciences and Engineering Education**|H. R. Paz et.al.|[2512.04828](http://arxiv.org/abs/2512.04828)|null|
+|**2025-12-04**|**LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation**|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|
+|**2025-12-04**|**SIMA 2: A Generalist Embodied Agent for Virtual Worlds**|SIMA team et.al.|[2512.04797](http://arxiv.org/abs/2512.04797)|null|
 |**2025-12-04**|**E3AD: An Emotion-Aware Vision-Language-Action Model for Human-Centric End-to-End Autonomous Driving**|Yihong Tang et.al.|[2512.04733](http://arxiv.org/abs/2512.04733)|null|
+|**2025-12-04**|**CIG-MAE: Cross-Modal Information-Guided Masked Autoencoder for Self-Supervised WiFi Sensing**|Gang Liu et.al.|[2512.04723](http://arxiv.org/abs/2512.04723)|null|
 |**2025-12-04**|**Quantised Academic Mobility: Network and Cluster Analysis of Degree Switching, Plan Changes, and Re-entries in an Engineering Faculty (1980-2019)**|H. R. Paz et.al.|[2512.04652](http://arxiv.org/abs/2512.04652)|null|
+|**2025-12-04**|**On Tight FPT Time Approximation Algorithms for k-Clustering Problems**|Han Dai et.al.|[2512.04614](http://arxiv.org/abs/2512.04614)|null|
 |**2025-12-04**|**Efficient Safety Verification of Autonomous Vehicles with Neural Network Operator**|Lingxiang Fan et.al.|[2512.04557](http://arxiv.org/abs/2512.04557)|null|
+|**2025-12-04**|**BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models**|Yu-Wei Zhan et.al.|[2512.04513](http://arxiv.org/abs/2512.04513)|null|
 |**2025-12-04**|**Adaptive Time-Domain Harmonic Control for Noise-Vibration-Harshness Reduction of Electric Drives**|Klaus Herburger et.al.|[2512.04512](http://arxiv.org/abs/2512.04512)|null|
 |**2025-12-04**|**dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning**|Yingzi Ma et.al.|[2512.04459](http://arxiv.org/abs/2512.04459)|null|
+|**2025-12-04**|**RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning**|Guoshenghui Zhao et.al.|[2512.04457](http://arxiv.org/abs/2512.04457)|null|
+|**2025-12-04**|**Open-Ended Goal Inference through Actions and Language for Human-Robot Collaboration**|Debasmita Ghose et.al.|[2512.04453](http://arxiv.org/abs/2512.04453)|null|
 |**2025-12-04**|**Vision-Language-Action Models for Selective Robotic Disassembly: A Case Study on Critical Component Extraction from Desktops**|Chang Liu et.al.|[2512.04446](http://arxiv.org/abs/2512.04446)|null|
 |**2025-12-04**|**Automating Complex Document Workflows via Stepwise and Rollback-Enabled Operation Orchestration**|Yanbin Zhang et.al.|[2512.04445](http://arxiv.org/abs/2512.04445)|null|
 |**2025-12-04**|**MindDrive: An All-in-One Framework Bridging World Models and Vision-Language Model for End-to-End Autonomous Driving**|Bin Suna et.al.|[2512.04441](http://arxiv.org/abs/2512.04441)|null|
 |**2025-12-04**|**Vertical Planetary Landing on Sloped Terrain Using Optical Flow Divergence Estimates**|Hann Woei Ho et.al.|[2512.04373](http://arxiv.org/abs/2512.04373)|null|
+|**2025-12-04**|**Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment**|Kai-Po Chang et.al.|[2512.04356](http://arxiv.org/abs/2512.04356)|null|
+|**2025-12-03**|**MANTRA: a Framework for Multi-stage Adaptive Noise TReAtment During Training**|Zixiao Zhao et.al.|[2512.04319](http://arxiv.org/abs/2512.04319)|null|
 |**2025-12-03**|**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**|Gasser Elazab et.al.|[2512.04303](http://arxiv.org/abs/2512.04303)|null|
 |**2025-12-03**|**The Geometry of Benchmarks: A New Path Toward AGI**|Przemyslaw Chojecki et.al.|[2512.04276](http://arxiv.org/abs/2512.04276)|null|
+|**2025-12-03**|**RELIC: Interactive Video World Model with Long-Horizon Memory**|Yicong Hong et.al.|[2512.04040](http://arxiv.org/abs/2512.04040)|null|
+|**2025-12-03**|**Non-Linear Determinants of Pedestrian Injury Severity: Evidence from Administrative Data in Great Britain**|Yifei Tong et.al.|[2512.04022](http://arxiv.org/abs/2512.04022)|null|
+|**2025-12-03**|**Learning Group Actions In Disentangled Latent Image Representations**|Farhana Hossain Swarnali et.al.|[2512.04015](http://arxiv.org/abs/2512.04015)|null|
 |**2025-12-03**|**Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response**|Aron Distelzweig et.al.|[2512.03936](http://arxiv.org/abs/2512.03936)|null|
 |**2025-12-03**|**Digital Twin-based Control Co-Design of Full Vehicle Active Suspensions via Deep Reinforcement Learning**|Ying-Kuan Tsai et.al.|[2512.03891](http://arxiv.org/abs/2512.03891)|null|
 |**2025-12-03**|**A Modular Architecture Design for Autonomous Driving Racing in Controlled Environments**|Brais Fontan-Costas et.al.|[2512.03886](http://arxiv.org/abs/2512.03886)|null|
@@ -1247,19 +1260,31 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**On six-loop scaling dimensions of $(φ^2)^n$ operators in $d=3$**|A. V. Bednyakov et.al.|[2512.05059](http://arxiv.org/abs/2512.05059)|null|
+|**2025-12-04**|**QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory**|Yu-Chao Hsu et.al.|[2512.05049](http://arxiv.org/abs/2512.05049)|null|
 |**2025-12-04**|**Prediction of Novel Li-AgII-F Compounds using Evolutionary Algorithms**|Katarzyna Kuder et.al.|[2512.05048](http://arxiv.org/abs/2512.05048)|null|
+|**2025-12-04**|**Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding**|Abhigyan Bhattacharya et.al.|[2512.05039](http://arxiv.org/abs/2512.05039)|null|
 |**2025-12-04**|**Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain**|Haroon Hublikar et.al.|[2512.05008](http://arxiv.org/abs/2512.05008)|null|
 |**2025-12-04**|**A meta-GGA perspective on the altermagnetism of RuO2**|Markus Meinert et.al.|[2512.04995](http://arxiv.org/abs/2512.04995)|null|
 |**2025-12-04**|**Operator Formalism for Laser-Plasma Wakefield Acceleration**|Mostafa Behtouei et.al.|[2512.04982](http://arxiv.org/abs/2512.04982)|null|
+|**2025-12-04**|**Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models**|NaHyeon Park et.al.|[2512.04981](http://arxiv.org/abs/2512.04981)|null|
+|**2025-12-04**|**Learning Causality for Longitudinal Data**|Mouad EL Bouchattaoui et.al.|[2512.04980](http://arxiv.org/abs/2512.04980)|null|
+|**2025-12-04**|**Preliminary Analysis and Simulation of a Compact Variable Stiffness Wrist**|Giuseppe Milazzo et.al.|[2512.04973](http://arxiv.org/abs/2512.04973)|null|
 |**2025-12-04**|**Hoi! -- A Multimodal Dataset for Force-Grounded, Cross-View Articulated Manipulation**|Tim Engelbracht et.al.|[2512.04884](http://arxiv.org/abs/2512.04884)|null|
 |**2025-12-04**|**Isostructural phase transition and equation of state of type-I and type-VIII metallic sodium borosilicide clathrates**|M. Demoucron et.al.|[2512.04878](http://arxiv.org/abs/2512.04878)|null|
+|**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871](http://arxiv.org/abs/2512.04871)|null|
+|**2025-12-04**|**Movable Antenna Assisted Flexible Beamforming for Integrated Sensing and Communication in Vehicular Networks**|Luyang Sun et.al.|[2512.04802](http://arxiv.org/abs/2512.04802)|null|
 |**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[2512.04771](http://arxiv.org/abs/2512.04771)|null|
+|**2025-12-04**|**Order Matters: 3D Shape Generation from Sequential VR Sketches**|Yizi Chen et.al.|[2512.04761](http://arxiv.org/abs/2512.04761)|null|
+|**2025-12-04**|**EtCon: Edit-then-Consolidate for Reliable Knowledge Editing**|Ruilin Li et.al.|[2512.04753](http://arxiv.org/abs/2512.04753)|null|
 |**2025-12-04**|**ALMA-QUARKS: Few-Thousand-Year Hatching out of "Egg": The Supersonic Breakout of a Hypercompact H II Region from Its Parental Hot Core**|Siju Zhang et.al.|[2512.04744](http://arxiv.org/abs/2512.04744)|null|
 |**2025-12-04**|**POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?**|Divyansh Pandey et.al.|[2512.04702](http://arxiv.org/abs/2512.04702)|null|
 |**2025-12-04**|**Towards Cross-View Point Correspondence in Vision-Language Models**|Yipu Wang et.al.|[2512.04686](http://arxiv.org/abs/2512.04686)|null|
+|**2025-12-04**|**Cross-Task Benchmarking and Evaluation of General-Purpose and Code-Specific Large Language Models**|Gunjan Das et.al.|[2512.04673](http://arxiv.org/abs/2512.04673)|null|
 |**2025-12-04**|**Quantised Academic Mobility: Network and Cluster Analysis of Degree Switching, Plan Changes, and Re-entries in an Engineering Faculty (1980-2019)**|H. R. Paz et.al.|[2512.04652](http://arxiv.org/abs/2512.04652)|null|
 |**2025-12-04**|**Probing false vacuum decay and bubble nucleation in a Rydberg atom array**|Yu-Xin Chao et.al.|[2512.04637](http://arxiv.org/abs/2512.04637)|null|
 |**2025-12-04**|**QoSDiff: An Implicit Topological Embedding Learning Framework Leveraging Denoising Diffusion and Adversarial Attention for Robust QoS Prediction**|Guanchen Du et.al.|[2512.04596](http://arxiv.org/abs/2512.04596)|null|
+|**2025-12-04**|**A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations**|Akash K. Meel et.al.|[2512.04546](http://arxiv.org/abs/2512.04546)|null|
+|**2025-12-04**|**BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models**|Yu-Wei Zhan et.al.|[2512.04513](http://arxiv.org/abs/2512.04513)|null|
 |**2025-12-03**|**Learning Steerable Clarification Policies with Collaborative Self-play**|Jonathan Berant et.al.|[2512.04068](http://arxiv.org/abs/2512.04068)|null|
 |**2025-12-03**|**Fully quantum theory of strong-field driven tunable entangled multi-photon states in HHG**|Sebastián de-la-Peña et.al.|[2512.03987](http://arxiv.org/abs/2512.03987)|null|
 |**2025-12-03**|**Sponsored Questions and How to Auction Them**|Kshipra Bhawalkar et.al.|[2512.03975](http://arxiv.org/abs/2512.03975)|null|
@@ -3837,11 +3862,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
 |**2025-12-04**|**Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting**|Hao-Jen Chien et.al.|[2512.05113](http://arxiv.org/abs/2512.05113)|null|
+|**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](http://arxiv.org/abs/2512.04963)|null|
+|**2025-12-04**|**FENCE: Flexible Electric Noise Cancellation Endo-shield for the Suppression of Electromagnetic Interference in Low-Field MRI**|Julia Pfitzer et.al.|[2512.04889](http://arxiv.org/abs/2512.04889)|null|
+|**2025-12-04**|**Beampattern Synthesis for Discrete Phase RIS in Communication and Sensing Systems**|Xiao Cai et.al.|[2512.04881](http://arxiv.org/abs/2512.04881)|null|
+|**2025-12-04**|**LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation**|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|
 |**2025-12-04**|**Unveiling gravitational waves from core-collapse supernovae with MUSE**|Alessandro Veutro et.al.|[2512.04804](http://arxiv.org/abs/2512.04804)|null|
 |**2025-12-04**|**TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards**|Mauro Martini et.al.|[2512.04772](http://arxiv.org/abs/2512.04772)|null|
+|**2025-12-04**|**Order Matters: 3D Shape Generation from Sequential VR Sketches**|Yizi Chen et.al.|[2512.04761](http://arxiv.org/abs/2512.04761)|null|
+|**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Spectral micro-CT for quantitative analysis of calcification in fibrocartilage**|Vittoria Mazzini et.al.|[2512.04662](http://arxiv.org/abs/2512.04662)|null|
+|**2025-12-04**|**Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence**|Tianyu Yuan et.al.|[2512.04619](http://arxiv.org/abs/2512.04619)|null|
+|**2025-12-04**|**Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation**|Houzhang Fang et.al.|[2512.04581](http://arxiv.org/abs/2512.04581)|null|
+|**2025-12-04**|**Omniscient Attacker in Stochastic Security Games with Interdependent Nodes**|Yuksel Arslantas et.al.|[2512.04561](http://arxiv.org/abs/2512.04561)|null|
 |**2025-12-04**|**Detection of Intoxicated Individuals from Facial Video Sequences via a Recurrent Fusion Model**|Bita Baroutian et.al.|[2512.04536](http://arxiv.org/abs/2512.04536)|null|
 |**2025-12-03**|**SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting**|Yonghan Lee et.al.|[2512.04315](http://arxiv.org/abs/2512.04315)|null|
 |**2025-12-03**|**Evaluating Long-Context Reasoning in LLM-Based WebAgents**|Andy Chung et.al.|[2512.04307](http://arxiv.org/abs/2512.04307)|null|
@@ -4190,6 +4229,46 @@ layout: default
 |**2022-08-29**|**DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association**|Xiyang Wang et.al.|[2202.12100](http://arxiv.org/abs/2202.12100)|null|
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
+
+## Diffusion & Priors (General)
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Value Gradient Guidance for Flow Matching Alignment**|Zhen Liu et.al.|[2512.05116](http://arxiv.org/abs/2512.05116)|null|
+|**2025-12-04**|**Gradient Descent with Provably Tuned Learning-rate Schedules**|Dravyansh Sharma et.al.|[2512.05084](http://arxiv.org/abs/2512.05084)|null|
+|**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|
+|**2025-12-04**|**Control Consistency Losses for Diffusion Bridges**|Samuel Howard et.al.|[2512.05070](http://arxiv.org/abs/2512.05070)|null|
+|**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|null|
+|**2025-12-04**|**A Randomized Scheduling Framework for Privacy-Preserving Multi-robot Rendezvous given Prior Information**|Le Liu et.al.|[2512.05053](http://arxiv.org/abs/2512.05053)|null|
+|**2025-12-04**|**The position and resolvability of blended point sources**|Zephyr Penoyre et.al.|[2512.05047](http://arxiv.org/abs/2512.05047)|null|
+|**2025-12-04**|**Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding**|Abhigyan Bhattacharya et.al.|[2512.05039](http://arxiv.org/abs/2512.05039)|null|
+|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
+|**2025-12-04**|**Millimetre-Wave Comb Generated by an Optical Microcomb**|Luke Peters et.al.|[2512.05005](http://arxiv.org/abs/2512.05005)|null|
+|**2025-12-04**|**Learning Causality for Longitudinal Data**|Mouad EL Bouchattaoui et.al.|[2512.04980](http://arxiv.org/abs/2512.04980)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|**2025-12-04**|**Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion**|Yueming Pan et.al.|[2512.04926](http://arxiv.org/abs/2512.04926)|null|
+|**2025-12-04**|**Doppler Shift Mitigation in a Chip-Scale Atomic Beam Clock**|Alexander Staron et.al.|[2512.04905](http://arxiv.org/abs/2512.04905)|null|
+|**2025-12-04**|**ReflexFlow: Rethinking Learning Objective for Exposure Bias Alleviation in Flow Matching**|Guanbo Huang et.al.|[2512.04904](http://arxiv.org/abs/2512.04904)|null|
+
+## Simulation & Generation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
+|**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|
+|**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**Semantic-Guided Two-Stage GAN for Face Inpainting with Hybrid Perceptual Encoding**|Abhigyan Bhattacharya et.al.|[2512.05039](http://arxiv.org/abs/2512.05039)|null|
+|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|
+|**2025-12-04**|**Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels**|Guangming Liang et.al.|[2512.04966](http://arxiv.org/abs/2512.04966)|null|
+|**2025-12-04**|**FENCE: Flexible Electric Noise Cancellation Endo-shield for the Suppression of Electromagnetic Interference in Low-Field MRI**|Julia Pfitzer et.al.|[2512.04889](http://arxiv.org/abs/2512.04889)|null|
+|**2025-12-04**|**Exact 3-D Channel Impulse Response for Spherical Receivers with Arbitrary Drift Directions**|Yen-Chi Lee et.al.|[2512.04858](http://arxiv.org/abs/2512.04858)|null|
+|**2025-12-04**|**FreeGen: Feed-Forward Reconstruction-Generation Co-Training for Free-Viewpoint Driving Scene Synthesis**|Shijie Chen et.al.|[2512.04830](http://arxiv.org/abs/2512.04830)|null|
+|**2025-12-04**|**EtCon: Edit-then-Consolidate for Reliable Knowledge Editing**|Ruilin Li et.al.|[2512.04753](http://arxiv.org/abs/2512.04753)|null|
+|**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](http://arxiv.org/abs/2512.04734)|null|
+|**2025-12-04**|**Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence**|Tianyu Yuan et.al.|[2512.04619](http://arxiv.org/abs/2512.04619)|null|
+|**2025-12-04**|**Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation**|Houzhang Fang et.al.|[2512.04581](http://arxiv.org/abs/2512.04581)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors

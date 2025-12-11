@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1273,6 +1273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
+|**2025-12-08**|**The interstellar signature: A computational framework for open source interstellar tracking**|Pancha Narayan Sahu et.al.|[2512.07910](http://arxiv.org/abs/2512.07910)|null|
 |**2025-12-05**|**Multi-Modal Zero-Shot Prediction of Color Trajectories in Food Drying**|Shichen Li et.al.|[2512.06190](http://arxiv.org/abs/2512.06190)|null|
 |**2025-12-05**|**Scenario-aware Uncertainty Quantification for Trajectory Prediction with Statistical Guarantees**|Yiming Shu et.al.|[2512.05682](http://arxiv.org/abs/2512.05682)|null|
 |**2025-12-04**|**XR-DT: Extended Reality-Enhanced Digital Twin for Agentic Mobile Robots**|Tianyi Wang et.al.|[2512.05270](http://arxiv.org/abs/2512.05270)|null|
@@ -1321,7 +1323,7 @@ layout: default
 |**2025-12-02**|**CogDrive: Cognition-Driven Multimodal Prediction-Planning Fusion for Safe Autonomy**|Heye Huang et.al.|[2512.02777](http://arxiv.org/abs/2512.02777)|null|
 |**2025-12-02**|**Multi-Domain Enhanced Map-Free Trajectory Prediction with Selective Attention**|Wenyi Xiong et.al.|[2512.02368](http://arxiv.org/abs/2512.02368)|null|
 |**2025-12-01**|**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**|Chenyi Wang et.al.|[2512.01934](http://arxiv.org/abs/2512.01934)|null|
-|**2025-12-01**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
+|**2025-12-09**|**CourtMotion: Learning Event-Driven Motion Representations from Skeletal Data for Basketball**|Omer Sela et.al.|[2512.01478](http://arxiv.org/abs/2512.01478)|null|
 |**2025-12-01**|**RoboDriveVLM: A Novel Benchmark and Baseline towards Robust Vision-Language Models for Autonomous Driving**|Dacheng Liao et.al.|[2512.01300](http://arxiv.org/abs/2512.01300)|null|
 |**2025-11-30**|**Euclid Structural-Thermal-Optical Performance**|Euclid Collaboration et.al.|[2512.01075](http://arxiv.org/abs/2512.01075)|null|
 |**2025-11-30**|**On The Finetuning of MLIPs Through the Lens of Iterated Maps With BPTT**|Evan Dramko et.al.|[2512.01067](http://arxiv.org/abs/2512.01067)|null|
@@ -4276,6 +4278,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Self-Reinforced Deep Priors for Reparameterized Full Waveform Inversion**|Guangyuan Zou et.al.|[2512.08284](http://arxiv.org/abs/2512.08284)|null|
+|**2025-12-08**|**Provable Diffusion Posterior Sampling for Bayesian Inversion**|Jinyuan Chang et.al.|[2512.08022](http://arxiv.org/abs/2512.08022)|null|
 |**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
 |**2025-12-08**|**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation**|Zhaoyang Liu et.al.|[2512.07212](http://arxiv.org/abs/2512.07212)|null|
 |**2025-12-05**|**Diffusion bridge with misspecification: theory construction and application to high-resolution fish count data**|Hidekazu Yoshioka et.al.|[2512.06216](http://arxiv.org/abs/2512.06216)|null|

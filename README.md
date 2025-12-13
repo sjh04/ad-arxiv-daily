@@ -1,4 +1,4 @@
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-07**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
+|**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
 |**2025-12-04**|**On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator**|Matteo Masoni et.al.|[2512.04917](http://arxiv.org/abs/2512.04917)|null|
 |**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
@@ -1203,7 +1203,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1281,12 +1281,13 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels**|Quanjun Lang et.al.|[2512.10256](http://arxiv.org/abs/2512.10256)|null|
 |**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
 |**2025-12-10**|**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**|Marco Pegoraro et.al.|[2512.09423](http://arxiv.org/abs/2512.09423)|null|
 |**2025-12-10**|**From Forecast to Action: Uncertainty-Aware UAV Deployment for Ocean Drifter Recovery**|Jingeun Kim et.al.|[2512.09260](http://arxiv.org/abs/2512.09260)|null|
@@ -1879,7 +1880,7 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3483,7 +3484,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Simulation
 
@@ -3906,7 +3907,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Perception
 
@@ -4070,7 +4071,7 @@
 |**2025-11-11**|**3D Guard-Layer: An Integrated Agentic AI Safety System for Edge Artificial Intelligence**|Eren Kurshan et.al.|[2511.08842](http://arxiv.org/abs/2511.08842)|null|
 |**2025-11-10**|**On the Joint Minimization of Regularization Loss Functions in Deep Variational Bayesian Methods for Attribute-Controlled Symbolic Music Generation**|Matteo Pettenó et.al.|[2511.07118](http://arxiv.org/abs/2511.07118)|null|
 |**2025-11-06**|**Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection**|Sanjay Kumar et.al.|[2511.04347](http://arxiv.org/abs/2511.04347)|null|
-|**2025-11-24**|**Dynamical Masses and Radiative Transfer Modeling of HD 698: a Be Binary in Evolutionary Transition**|Ilfa A. Gabitova et.al.|[2511.02523](http://arxiv.org/abs/2511.02523)|null|
+|**2025-12-11**|**Dynamical Masses and Radiative Transfer Modeling of HD 698: a Be Binary in Evolutionary Transition**|Ilfa A. Gabitova et.al.|[2511.02523](http://arxiv.org/abs/2511.02523)|null|
 |**2025-11-04**|**MM-2FSK: Multimodal Frequency Shift Keying for Ultra-Efficient and Robust High-Resolution MIMO Radar Imaging**|Vanessa Wirth et.al.|[2511.01405](http://arxiv.org/abs/2511.01405)|null|
 |**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
 |**2025-10-31**|**M^3Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3D Object Detection with Camera and 4D Imaging Radar**|Xiaozhi Li et.al.|[2510.27166](http://arxiv.org/abs/2510.27166)|null|
@@ -4297,12 +4298,15 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Diffusion & Priors (General)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-11**|**Applying the BF method on the DESI evidence for dynamical dark energy models**|Ziad Sakr et.al.|[2512.10763](http://arxiv.org/abs/2512.10763)|null|
+|**2025-12-11**|**A Bayesian Two-Sample Mean Test for High-Dimensional Data**|Daojiang He et.al.|[2512.10537](http://arxiv.org/abs/2512.10537)|null|
+|**2025-12-11**|**Improved Identification of Strongly Lensed Gravitational Waves with Host Galaxy Locations**|Tonghua Liu et.al.|[2512.10344](http://arxiv.org/abs/2512.10344)|null|
 |**2025-12-09**|**Self-Reinforced Deep Priors for Reparameterized Full Waveform Inversion**|Guangyuan Zou et.al.|[2512.08284](http://arxiv.org/abs/2512.08284)|null|
 |**2025-12-08**|**Provable Diffusion Posterior Sampling for Bayesian Inversion**|Jinyuan Chang et.al.|[2512.08022](http://arxiv.org/abs/2512.08022)|null|
 |**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
@@ -4337,7 +4341,7 @@
 |**2025-11-28**|**Incorporating neutron star physics into gravitational wave inference with neural priors**|Thibeau Wouters et.al.|[2511.22987](http://arxiv.org/abs/2511.22987)|null|
 |**2025-11-27**|**Data-driven informative priors for Bayesian inference with quasi-periodic data**|Javier Lopez-Santiago et.al.|[2511.22296](http://arxiv.org/abs/2511.22296)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 ## Simulation & Generation
 
@@ -4375,7 +4379,7 @@
 |**2025-08-31**|**Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion**|Xueyang Kang et.al.|[2509.00843](http://arxiv.org/abs/2509.00843)|null|
 |**2025-09-25**|**FastTracker: Real-Time and Accurate Visual Tracking**|Hamidreza Hashempoor et.al.|[2508.14370](http://arxiv.org/abs/2508.14370)|null|
 
-<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors

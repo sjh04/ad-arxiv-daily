@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.12
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-07**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
+|**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
 |**2025-12-04**|**On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator**|Matteo Masoni et.al.|[2512.04917](http://arxiv.org/abs/2512.04917)|null|
 |**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](http://arxiv.org/abs/2512.04883)|null|
@@ -1273,6 +1273,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels**|Quanjun Lang et.al.|[2512.10256](http://arxiv.org/abs/2512.10256)|null|
 |**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
 |**2025-12-10**|**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**|Marco Pegoraro et.al.|[2512.09423](http://arxiv.org/abs/2512.09423)|null|
 |**2025-12-10**|**From Forecast to Action: Uncertainty-Aware UAV Deployment for Ocean Drifter Recovery**|Jingeun Kim et.al.|[2512.09260](http://arxiv.org/abs/2512.09260)|null|
@@ -4050,7 +4051,7 @@ layout: default
 |**2025-11-11**|**3D Guard-Layer: An Integrated Agentic AI Safety System for Edge Artificial Intelligence**|Eren Kurshan et.al.|[2511.08842](http://arxiv.org/abs/2511.08842)|null|
 |**2025-11-10**|**On the Joint Minimization of Regularization Loss Functions in Deep Variational Bayesian Methods for Attribute-Controlled Symbolic Music Generation**|Matteo Pettenó et.al.|[2511.07118](http://arxiv.org/abs/2511.07118)|null|
 |**2025-11-06**|**Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection**|Sanjay Kumar et.al.|[2511.04347](http://arxiv.org/abs/2511.04347)|null|
-|**2025-11-24**|**Dynamical Masses and Radiative Transfer Modeling of HD 698: a Be Binary in Evolutionary Transition**|Ilfa A. Gabitova et.al.|[2511.02523](http://arxiv.org/abs/2511.02523)|null|
+|**2025-12-11**|**Dynamical Masses and Radiative Transfer Modeling of HD 698: a Be Binary in Evolutionary Transition**|Ilfa A. Gabitova et.al.|[2511.02523](http://arxiv.org/abs/2511.02523)|null|
 |**2025-11-04**|**MM-2FSK: Multimodal Frequency Shift Keying for Ultra-Efficient and Robust High-Resolution MIMO Radar Imaging**|Vanessa Wirth et.al.|[2511.01405](http://arxiv.org/abs/2511.01405)|null|
 |**2025-10-31**|**VessShape: Few-shot 2D blood vessel segmentation by leveraging shape priors from synthetic images**|Cesar H. Comin et.al.|[2510.27646](http://arxiv.org/abs/2510.27646)|null|
 |**2025-10-31**|**M^3Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3D Object Detection with Camera and 4D Imaging Radar**|Xiaozhi Li et.al.|[2510.27166](http://arxiv.org/abs/2510.27166)|null|
@@ -4281,6 +4282,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Applying the BF method on the DESI evidence for dynamical dark energy models**|Ziad Sakr et.al.|[2512.10763](http://arxiv.org/abs/2512.10763)|null|
+|**2025-12-11**|**A Bayesian Two-Sample Mean Test for High-Dimensional Data**|Daojiang He et.al.|[2512.10537](http://arxiv.org/abs/2512.10537)|null|
+|**2025-12-11**|**Improved Identification of Strongly Lensed Gravitational Waves with Host Galaxy Locations**|Tonghua Liu et.al.|[2512.10344](http://arxiv.org/abs/2512.10344)|null|
 |**2025-12-09**|**Self-Reinforced Deep Priors for Reparameterized Full Waveform Inversion**|Guangyuan Zou et.al.|[2512.08284](http://arxiv.org/abs/2512.08284)|null|
 |**2025-12-08**|**Provable Diffusion Posterior Sampling for Bayesian Inversion**|Jinyuan Chang et.al.|[2512.08022](http://arxiv.org/abs/2512.08022)|null|
 |**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|

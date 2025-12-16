@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.12.15
+## Updated on 2025.12.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu et.al.|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
 |**2025-12-04**|**On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator**|Matteo Masoni et.al.|[2512.04917](http://arxiv.org/abs/2512.04917)|null|
@@ -233,7 +234,7 @@ layout: default
 |**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](http://arxiv.org/abs/2511.09724)|null|
 |**2025-11-12**|**A Shared-Autonomy Construction Robotic System for Overhead Works**|David Minkwan Kim et.al.|[2511.09695](http://arxiv.org/abs/2511.09695)|null|
 |**2025-11-12**|**Security Index from Input/Output Data: Theory and Computation**|Takumi Shinohara et.al.|[2511.09524](http://arxiv.org/abs/2511.09524)|null|
-|**2025-11-12**|**Designing Efficient Hybrid and Single-Arm Trials: External Control Borrowing and Sample Size Calculation**|Yujing Gao et.al.|[2511.09353](http://arxiv.org/abs/2511.09353)|null|
+|**2025-12-12**|**Designing Efficient Hybrid and Single-Arm Trials: External Control Borrowing and Sample Size Calculation**|Yujing Gao et.al.|[2511.09353](http://arxiv.org/abs/2511.09353)|null|
 |**2025-11-12**|**Distributionally Robust Joint Planning of Coastal Distribution Network and PV-Storage-EV Stations**|Wenhao Gao et.al.|[2511.09321](http://arxiv.org/abs/2511.09321)|null|
 |**2025-11-12**|**Controllable protein design through Feynman-Kac steering**|Erik Hartman et.al.|[2511.09216](http://arxiv.org/abs/2511.09216)|null|
 |**2025-11-19**|**APEX: Action Priors Enable Efficient Exploration for Robust Motion Tracking on Legged Robots**|Shivam Sood et.al.|[2511.09091](http://arxiv.org/abs/2511.09091)|null|
@@ -1273,6 +1274,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**Taiji Patterns Swirled Out of Magnetic Liquid Metal Fluids under Rotating Magnets**|Wentao Xiang et.al.|[2512.11330](http://arxiv.org/abs/2512.11330)|null|
 |**2025-12-11**|**Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels**|Quanjun Lang et.al.|[2512.10256](http://arxiv.org/abs/2512.10256)|null|
 |**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
 |**2025-12-10**|**FunPhase: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds**|Marco Pegoraro et.al.|[2512.09423](http://arxiv.org/abs/2512.09423)|null|
@@ -3893,6 +3895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance**|Tzu-Hsien Lee et.al.|[2512.11173](http://arxiv.org/abs/2512.11173)|null|
 |**2025-12-07**|**Monotone data augmentation algorithm for longitudinal continuous, binary and ordinal outcomes: a unifying approach**|Yongqiang Tang et.al.|[2512.06621](http://arxiv.org/abs/2512.06621)|null|
 |**2025-12-05**|**Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation**|Su Sun et.al.|[2512.06158](http://arxiv.org/abs/2512.06158)|null|
 |**2025-12-05**|**See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors**|Kunyi Yang et.al.|[2512.05529](http://arxiv.org/abs/2512.05529)|null|

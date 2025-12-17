@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1274,6 +1274,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**A Coulomb-included model for high-order harmonic generation from atoms**|Yigen Peng et.al.|[2512.12724](http://arxiv.org/abs/2512.12724)|null|
+|**2025-12-14**|**HMPCC: Human-Aware Model Predictive Coverage Control**|Mattia Catellani et.al.|[2512.12717](http://arxiv.org/abs/2512.12717)|null|
+|**2025-12-13**|**Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving**|Longchao Da et.al.|[2512.12211](http://arxiv.org/abs/2512.12211)|null|
+|**2025-12-12**|**Learning to Extract Context for Context-Aware LLM Inference**|Minseon Kim et.al.|[2512.11986](http://arxiv.org/abs/2512.11986)|null|
+|**2025-12-06**|**WAM-Diff: A Masked Diffusion VLA Framework with MoE and Online Reinforcement Learning for Autonomous Driving**|Mingwang Xu et.al.|[2512.11872](http://arxiv.org/abs/2512.11872)|null|
 |**2025-12-12**|**Taiji Patterns Swirled Out of Magnetic Liquid Metal Fluids under Rotating Magnets**|Wentao Xiang et.al.|[2512.11330](http://arxiv.org/abs/2512.11330)|null|
 |**2025-12-11**|**Error Analysis of Generalized Langevin Equations with Approximated Memory Kernels**|Quanjun Lang et.al.|[2512.10256](http://arxiv.org/abs/2512.10256)|null|
 |**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
@@ -4285,6 +4290,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**A Regime-Switching Approach to the Unbalanced Schrödinger Bridge Problem**|Andrei Zlotchevski et.al.|[2512.12971](http://arxiv.org/abs/2512.12971)|null|
+|**2025-12-14**|**Diffusion Model-Based Posterior Sampling in Full Waveform Inversion**|Mohammad H. Taufik et.al.|[2512.12797](http://arxiv.org/abs/2512.12797)|null|
+|**2025-12-14**|**On Approaches to Building Surrogate ODE Models for Diffusion Bridges**|Maria Khilchuk et.al.|[2512.12671](http://arxiv.org/abs/2512.12671)|null|
+|**2025-12-12**|**A Stochastic Approach to Terrain Maps for Safe Lunar Landing**|Anja Sheppard et.al.|[2512.12058](http://arxiv.org/abs/2512.12058)|null|
+|**2025-12-05**|**Generative Stochastic Optimal Transport: Guided Harmonic Path-Integral Diffusion**|Michael Chertkov et.al.|[2512.11859](http://arxiv.org/abs/2512.11859)|null|
+|**2025-12-05**|**Adaptive Path Integral Diffusion: AdaPID**|Michael Chertkov et.al.|[2512.11858](http://arxiv.org/abs/2512.11858)|null|
 |**2025-12-11**|**Applying the BF method on the DESI evidence for dynamical dark energy models**|Ziad Sakr et.al.|[2512.10763](http://arxiv.org/abs/2512.10763)|null|
 |**2025-12-11**|**A Bayesian Two-Sample Mean Test for High-Dimensional Data**|Daojiang He et.al.|[2512.10537](http://arxiv.org/abs/2512.10537)|null|
 |**2025-12-11**|**Improved Identification of Strongly Lensed Gravitational Waves with Host Galaxy Locations**|Tonghua Liu et.al.|[2512.10344](http://arxiv.org/abs/2512.10344)|null|
@@ -4326,6 +4337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
 |**2025-12-04**|**Uncovering Students' Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining**|Jiameng Wei et.al.|[2512.06018](http://arxiv.org/abs/2512.06018)|null|
 |**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
 |**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|

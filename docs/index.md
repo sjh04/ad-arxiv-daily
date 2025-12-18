@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.17
+## Updated on 2025.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1274,6 +1274,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models**|Keiichi Ishikawa et.al.|[2512.14161](http://arxiv.org/abs/2512.14161)|null|
+|**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
 |**2025-12-14**|**A Coulomb-included model for high-order harmonic generation from atoms**|Yigen Peng et.al.|[2512.12724](http://arxiv.org/abs/2512.12724)|null|
 |**2025-12-14**|**HMPCC: Human-Aware Model Predictive Coverage Control**|Mattia Catellani et.al.|[2512.12717](http://arxiv.org/abs/2512.12717)|null|
 |**2025-12-13**|**Measuring What Matters: Scenario-Driven Evaluation for Trajectory Predictors in Autonomous Driving**|Longchao Da et.al.|[2512.12211](http://arxiv.org/abs/2512.12211)|null|

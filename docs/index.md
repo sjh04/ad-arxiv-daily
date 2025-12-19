@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.18
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1274,6 +1274,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Zhenhan Yin et.al.|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
 |**2025-12-16**|**Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models**|Keiichi Ishikawa et.al.|[2512.14161](http://arxiv.org/abs/2512.14161)|null|
 |**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
 |**2025-12-14**|**A Coulomb-included model for high-order harmonic generation from atoms**|Yigen Peng et.al.|[2512.12724](http://arxiv.org/abs/2512.12724)|null|
@@ -3902,6 +3903,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Statistics of Min-max Normalized Eigenvalues in Random Matrices**|Hyakka Nakada et.al.|[2512.15427](http://arxiv.org/abs/2512.15427)|null|
 |**2025-12-11**|**Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance**|Tzu-Hsien Lee et.al.|[2512.11173](http://arxiv.org/abs/2512.11173)|null|
 |**2025-12-07**|**Monotone data augmentation algorithm for longitudinal continuous, binary and ordinal outcomes: a unifying approach**|Yongqiang Tang et.al.|[2512.06621](http://arxiv.org/abs/2512.06621)|null|
 |**2025-12-05**|**Tracking-Guided 4D Generation: Foundation-Tracker Motion Priors for 3D Model Animation**|Su Sun et.al.|[2512.06158](http://arxiv.org/abs/2512.06158)|null|

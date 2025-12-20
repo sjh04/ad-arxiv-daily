@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.19
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
+|**2025-12-18**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling (Copy)**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu et.al.|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
@@ -1274,6 +1276,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|
 |**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Zhenhan Yin et.al.|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
 |**2025-12-16**|**Transfer Learning-Based Surrogate Modeling for Nonlinear Time-History Response Analysis of High-Fidelity Structural Models**|Keiichi Ishikawa et.al.|[2512.14161](http://arxiv.org/abs/2512.14161)|null|
 |**2025-12-15**|**PrediFlow: A Flow-Based Prediction-Refinement Framework for Real-Time Human Motion Prediction in Human-Robot Collaboration**|Sibo Tian et.al.|[2512.13903](http://arxiv.org/abs/2512.13903)|null|
@@ -4294,6 +4297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
 |**2025-12-15**|**A Regime-Switching Approach to the Unbalanced Schrödinger Bridge Problem**|Andrei Zlotchevski et.al.|[2512.12971](http://arxiv.org/abs/2512.12971)|null|
 |**2025-12-14**|**Diffusion Model-Based Posterior Sampling in Full Waveform Inversion**|Mohammad H. Taufik et.al.|[2512.12797](http://arxiv.org/abs/2512.12797)|null|
 |**2025-12-14**|**On Approaches to Building Surrogate ODE Models for Diffusion Bridges**|Maria Khilchuk et.al.|[2512.12671](http://arxiv.org/abs/2512.12671)|null|

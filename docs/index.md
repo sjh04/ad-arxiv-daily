@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.24
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1277,6 +1277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**The Seismic Wavefield Common Task Framework**|Alexey Yermakov et.al.|[2512.19927](http://arxiv.org/abs/2512.19927)|null|
+|**2025-12-22**|**Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra**|Maxime Lacour et.al.|[2512.19909](http://arxiv.org/abs/2512.19909)|null|
 |**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](http://arxiv.org/abs/2512.18211)|null|
 |**2025-12-22**|**Predictive Modeling of Maritime Radar Data Using Transformer Architecture**|Bjorna Qesaraku et.al.|[2512.17098](http://arxiv.org/abs/2512.17098)|null|
 |**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|

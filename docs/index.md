@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Kangchen Lv et.al.|[2512.17568](http://arxiv.org/abs/2512.17568)|null|
 |**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
-|**2025-12-19**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
+|**2025-12-24**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu et.al.|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
@@ -1277,6 +1277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
+|**2025-12-24**|**Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction**|Siqi Mu et.al.|[2512.20902](http://arxiv.org/abs/2512.20902)|null|
 |**2025-12-22**|**The Seismic Wavefield Common Task Framework**|Alexey Yermakov et.al.|[2512.19927](http://arxiv.org/abs/2512.19927)|null|
 |**2025-12-22**|**Modeling Non-Ergodic Path Effects Using Conditional Generative Model for Fourier Amplitude Spectra**|Maxime Lacour et.al.|[2512.19909](http://arxiv.org/abs/2512.19909)|null|
 |**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](http://arxiv.org/abs/2512.18211)|null|

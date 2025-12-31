@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.12.30
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
+|**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
+|**2025-12-27**|**Energy-Guided Flow Matching Enables Few-Step Conformer Generation and Ground-State Identification**|Guikun Xu et.al.|[2512.22597](http://arxiv.org/abs/2512.22597)|null|
+|**2025-12-27**|**Collaborative Optimization of Multiclass Imbalanced Learning: Density-Aware and Region-Guided Boosting**|Chuantao Li et.al.|[2512.22478](http://arxiv.org/abs/2512.22478)|null|
 |**2025-12-25**|**Diffusion Posterior Sampling for Super-Resolution under Gaussian Measurement Noise**|Abu Hanif Muhammad Syarubany et.al.|[2512.21797](http://arxiv.org/abs/2512.21797)|null|
 |**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Kangchen Lv et.al.|[2512.17568](http://arxiv.org/abs/2512.17568)|null|
 |**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
@@ -1278,6 +1282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
 |**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
 |**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
 |**2025-12-24**|**Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction**|Siqi Mu et.al.|[2512.20902](http://arxiv.org/abs/2512.20902)|null|
@@ -3915,6 +3920,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Search for Annual Modulation in Combined ANAIS 112 and COSINE 100 Data using Bayesian Model Comparison**|Om Godse et.al.|[2512.23191](http://arxiv.org/abs/2512.23191)|null|
+|**2025-12-25**|**GeCo: A Differentiable Geometric Consistency Metric for Video Generation**|Leslie Gu et.al.|[2512.22274](http://arxiv.org/abs/2512.22274)|null|
 |**2025-12-17**|**Statistics of Min-max Normalized Eigenvalues in Random Matrices**|Hyakka Nakada et.al.|[2512.15427](http://arxiv.org/abs/2512.15427)|null|
 |**2025-12-11**|**Learning Category-level Last-meter Navigation from RGB Demonstrations of a Single-instance**|Tzu-Hsien Lee et.al.|[2512.11173](http://arxiv.org/abs/2512.11173)|null|
 |**2025-12-20**|**Monotone data augmentation algorithm for longitudinal continuous, binary and ordinal outcomes: a unifying approach**|Yongqiang Tang et.al.|[2512.06621](http://arxiv.org/abs/2512.06621)|null|
@@ -4306,6 +4313,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Dynamic Channel Knowledge Map Construction in MIMO-OFDM Systems**|Wenjun Jiang et.al.|[2512.23470](http://arxiv.org/abs/2512.23470)|null|
+|**2025-12-29**|**SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems**|Minwoo Kim et.al.|[2512.23232](http://arxiv.org/abs/2512.23232)|null|
 |**2025-12-25**|**Physics-informed Diffusion Models for Multi-scale Prediction of Reference Signal Received Power in Wireless Networks**|Xiaoqian Qi et.al.|[2512.21475](http://arxiv.org/abs/2512.21475)|null|
 |**2025-12-19**|**Constrained Brownian-bridge prior for neutron-star equation-of-state inference**|Tyler Gorda et.al.|[2512.18044](http://arxiv.org/abs/2512.18044)|null|
 |**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|

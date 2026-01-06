@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1283,6 +1283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
 |**2025-12-30**|**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**|Wendong Yao et.al.|[2512.23906](http://arxiv.org/abs/2512.23906)|null|
 |**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
 |**2025-12-25**|**Spatiotemporal-Untrammelled Mixture of Experts for Multi-Person Motion Prediction**|Zheng Yin et.al.|[2512.21707](http://arxiv.org/abs/2512.21707)|null|
@@ -3922,6 +3923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Compressed Map Priors for 3D Perception**|Brady Zhou et.al.|[2601.00139](http://arxiv.org/abs/2601.00139)|null|
 |**2025-12-29**|**Search for Annual Modulation in Combined ANAIS 112 and COSINE 100 Data using Bayesian Model Comparison**|Om Godse et.al.|[2512.23191](http://arxiv.org/abs/2512.23191)|null|
 |**2025-12-25**|**GeCo: A Differentiable Geometric Consistency Metric for Video Generation**|Leslie Gu et.al.|[2512.22274](http://arxiv.org/abs/2512.22274)|null|
 |**2025-12-17**|**Statistics of Min-max Normalized Eigenvalues in Random Matrices**|Hyakka Nakada et.al.|[2512.15427](http://arxiv.org/abs/2512.15427)|null|
@@ -4315,6 +4317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-02**|**Bayesian Inverse Games with High-Dimensional Multi-Modal Observations**|Yash Jain et.al.|[2601.00696](http://arxiv.org/abs/2601.00696)|null|
 |**2025-12-31**|**An Adaptive, Disentangled Representation for Multidimensional MRI Reconstruction**|Ruiyang Zhao et.al.|[2512.24674](http://arxiv.org/abs/2512.24674)|null|
 |**2025-12-30**|**Score-based sampling without diffusions: Guidance from a simple and modular scheme**|M. J. Wainwright et.al.|[2512.24152](http://arxiv.org/abs/2512.24152)|null|
 |**2025-12-29**|**Deep learning methods for inverse problems using connections between proximal operators and Hamilton-Jacobi equations**|Oluwatosin Akande et.al.|[2512.23829](http://arxiv.org/abs/2512.23829)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.06
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1283,6 +1283,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-04**|**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**|Tianjun Gu et.al.|[2601.01547](http://arxiv.org/abs/2601.01547)|null|
+|**2026-01-03**|**Towards reliable subsea object recovery: a simulation study of an auv with a suction-actuated end effector**|Michele Grimaldi et.al.|[2601.01106](http://arxiv.org/abs/2601.01106)|null|
 |**2026-01-02**|**DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction**|Jiacheng Sui et.al.|[2601.00542](http://arxiv.org/abs/2601.00542)|null|
 |**2025-12-30**|**A multimodal Transformer for InSAR-based ground deformation forecasting with cross-site generalization across Europe**|Wendong Yao et.al.|[2512.23906](http://arxiv.org/abs/2512.23906)|null|
 |**2025-12-27**|**Autoregressive Flow Matching for Motion Prediction**|Johnathan Xie et.al.|[2512.22688](http://arxiv.org/abs/2512.22688)|null|
@@ -3923,6 +3925,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**On regional treatment effect assessment using robust MAP priors**|Xin Zhang et.al.|[2601.01811](http://arxiv.org/abs/2601.01811)|null|
+|**2026-01-04**|**ShadowGS: Shadow-Aware 3D Gaussian Splatting for Satellite Imagery**|Feng Luo et.al.|[2601.00939](http://arxiv.org/abs/2601.00939)|null|
 |**2025-12-31**|**Compressed Map Priors for 3D Perception**|Brady Zhou et.al.|[2601.00139](http://arxiv.org/abs/2601.00139)|null|
 |**2025-12-29**|**Search for Annual Modulation in Combined ANAIS 112 and COSINE 100 Data using Bayesian Model Comparison**|Om Godse et.al.|[2512.23191](http://arxiv.org/abs/2512.23191)|null|
 |**2025-12-25**|**GeCo: A Differentiable Geometric Consistency Metric for Video Generation**|Leslie Gu et.al.|[2512.22274](http://arxiv.org/abs/2512.22274)|null|
@@ -4317,6 +4321,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-05**|**Feature-based Inversion of 2.5D Controlled Source Electromagnetic Data using Generative Priors**|Hongyu Zhou et.al.|[2601.02145](http://arxiv.org/abs/2601.02145)|null|
+|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-03**|**Crowded Video Individual Counting Informed by Social Grouping and Spatial-Temporal Displacement Priors**|Hao Lu et.al.|[2601.01192](http://arxiv.org/abs/2601.01192)|null|
+|**2026-01-03**|**Matrix Decomposition-Based Approach to Estimate the STARTS Model**|Satoshi Usami et.al.|[2601.01163](http://arxiv.org/abs/2601.01163)|null|
 |**2026-01-02**|**Bayesian Inverse Games with High-Dimensional Multi-Modal Observations**|Yash Jain et.al.|[2601.00696](http://arxiv.org/abs/2601.00696)|null|
 |**2025-12-31**|**An Adaptive, Disentangled Representation for Multidimensional MRI Reconstruction**|Ruiyang Zhao et.al.|[2512.24674](http://arxiv.org/abs/2512.24674)|null|
 |**2025-12-30**|**Score-based sampling without diffusions: Guidance from a simple and modular scheme**|M. J. Wainwright et.al.|[2512.24152](http://arxiv.org/abs/2512.24152)|null|

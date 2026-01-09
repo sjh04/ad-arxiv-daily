@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1283,6 +1283,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
 |**2026-01-06**|**Conditioning Aircraft Trajectory Prediction on Meteorological Data with a Physics-Informed Machine Learning Approach**|Amy Hodgkin et.al.|[2601.03152](http://arxiv.org/abs/2601.03152)|null|
 |**2026-01-06**|**Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace**|Nick Pepper et.al.|[2601.03075](http://arxiv.org/abs/2601.03075)|null|
 |**2026-01-04**|**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**|Tianjun Gu et.al.|[2601.01547](http://arxiv.org/abs/2601.01547)|null|
@@ -4384,7 +4385,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-15**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
+|**2026-01-07**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
 |**2025-12-04**|**Uncovering Students' Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining**|Jiameng Wei et.al.|[2512.06018](http://arxiv.org/abs/2512.06018)|null|
 |**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|
 |**2025-12-04**|**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation**|Yiming Wang et.al.|[2512.05076](http://arxiv.org/abs/2512.05076)|null|

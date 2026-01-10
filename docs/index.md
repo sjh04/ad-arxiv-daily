@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.09
+## Updated on 2026.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -17,7 +17,7 @@ layout: default
 |**2025-12-25**|**Diffusion Posterior Sampling for Super-Resolution under Gaussian Measurement Noise**|Abu Hanif Muhammad Syarubany et.al.|[2512.21797](http://arxiv.org/abs/2512.21797)|null|
 |**2025-12-19**|**Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation**|Kangchen Lv et.al.|[2512.17568](http://arxiv.org/abs/2512.17568)|null|
 |**2025-12-18**|**KineST: A Kinematics-guided Spatiotemporal State Space Model for Human Motion Tracking from Sparse Signals**|Shuting Zhao et.al.|[2512.16791](http://arxiv.org/abs/2512.16791)|null|
-|**2025-12-24**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
+|**2026-01-08**|**LLM4Perf: Large Language Models Are Effective Samplers for Multi-Objective Performance Modeling**|Xin Wang et.al.|[2512.16070](http://arxiv.org/abs/2512.16070)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu et.al.|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-11**|**LLM-Driven Composite Neural Architecture Search for Multi-Source RL State Encoding**|Yu Yu et.al.|[2512.06982](http://arxiv.org/abs/2512.06982)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
@@ -3928,6 +3928,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
+|**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
 |**2026-01-05**|**On regional treatment effect assessment using robust MAP priors**|Xin Zhang et.al.|[2601.01811](http://arxiv.org/abs/2601.01811)|null|
 |**2026-01-04**|**ShadowGS: Shadow-Aware 3D Gaussian Splatting for Satellite Imagery**|Feng Luo et.al.|[2601.00939](http://arxiv.org/abs/2601.00939)|null|
 |**2025-12-31**|**Compressed Map Priors for 3D Perception**|Brady Zhou et.al.|[2601.00139](http://arxiv.org/abs/2601.00139)|null|
@@ -4324,9 +4326,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity**|Tommaso Moretti et.al.|[2601.05145](http://arxiv.org/abs/2601.05145)|null|
+|**2026-01-08**|**Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation**|Xiaowei Mao et.al.|[2601.04572](http://arxiv.org/abs/2601.04572)|null|
+|**2026-01-08**|**Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation**|Zimo Yan et.al.|[2601.04517](http://arxiv.org/abs/2601.04517)|null|
 |**2026-01-05**|**VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses**|Maryam Abbasihafshejani et.al.|[2601.02444](http://arxiv.org/abs/2601.02444)|null|
 |**2026-01-05**|**Feature-based Inversion of 2.5D Controlled Source Electromagnetic Data using Generative Priors**|Hongyu Zhou et.al.|[2601.02145](http://arxiv.org/abs/2601.02145)|null|
-|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-08**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
 |**2026-01-03**|**Crowded Video Individual Counting Informed by Social Grouping and Spatial-Temporal Displacement Priors**|Hao Lu et.al.|[2601.01192](http://arxiv.org/abs/2601.01192)|null|
 |**2026-01-03**|**Matrix Decomposition-Based Approach to Estimate the STARTS Model**|Satoshi Usami et.al.|[2601.01163](http://arxiv.org/abs/2601.01163)|null|
 |**2026-01-02**|**Bayesian Inverse Games with High-Dimensional Multi-Modal Observations**|Yash Jain et.al.|[2601.00696](http://arxiv.org/abs/2601.00696)|null|

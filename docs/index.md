@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-04**|**COVR:Collaborative Optimization of VLMs and RL Agent for Visual-Based Control**|Canming Xia et.al.|[2601.06122](http://arxiv.org/abs/2601.06122)|null|
 |**2025-12-31**|**ArtiSG: Functional 3D Scene Graph Construction via Human-demonstrated Articulated Objects Manipulation**|Qiuyi Gu et.al.|[2512.24845](http://arxiv.org/abs/2512.24845)|null|
-|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
+|**2026-01-12**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
 |**2025-12-30**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](http://arxiv.org/abs/2512.23054)|null|
 |**2025-12-27**|**Energy-Guided Flow Matching Enables Few-Step Conformer Generation and Ground-State Identification**|Guikun Xu et.al.|[2512.22597](http://arxiv.org/abs/2512.22597)|null|
 |**2025-12-27**|**Collaborative Optimization of Multiclass Imbalanced Learning: Density-Aware and Region-Guided Boosting**|Chuantao Li et.al.|[2512.22478](http://arxiv.org/abs/2512.22478)|null|
@@ -1283,6 +1284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP**|Ruiqi Li et.al.|[2601.07395](http://arxiv.org/abs/2601.07395)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models**|Tassallah Abdullahi et.al.|[2601.05376](http://arxiv.org/abs/2601.05376)|null|
 |**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
@@ -3930,6 +3932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-11**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
 |**2026-01-09**|**SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances**|Qiwei Yang et.al.|[2601.05535](http://arxiv.org/abs/2601.05535)|null|
 |**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
 |**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
@@ -4329,6 +4332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Euclid preparation. Calibrated intrinsic galaxy alignments in the Euclid Flagship simulation**|Euclid Collaboration et.al.|[2601.07785](http://arxiv.org/abs/2601.07785)|null|
 |**2026-01-08**|**How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity**|Tommaso Moretti et.al.|[2601.05145](http://arxiv.org/abs/2601.05145)|null|
 |**2026-01-08**|**Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation**|Xiaowei Mao et.al.|[2601.04572](http://arxiv.org/abs/2601.04572)|null|
 |**2026-01-08**|**Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation**|Zimo Yan et.al.|[2601.04517](http://arxiv.org/abs/2601.04517)|null|

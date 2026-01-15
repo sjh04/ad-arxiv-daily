@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1284,6 +1284,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**How vehicles change lanes after encountering crashes: Empirical analysis and modeling**|Kequan Chen et.al.|[2601.08125](http://arxiv.org/abs/2601.08125)|null|
 |**2026-01-12**|**MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP**|Ruiqi Li et.al.|[2601.07395](http://arxiv.org/abs/2601.07395)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models**|Tassallah Abdullahi et.al.|[2601.05376](http://arxiv.org/abs/2601.05376)|null|

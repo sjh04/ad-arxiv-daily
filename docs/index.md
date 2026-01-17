@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.16
+## Updated on 2026.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Difficulty-guided Sampling: Bridging the Target Gap between Dataset Distillation and Downstream Tasks**|Mingzhuo Li et.al.|[2601.10090](http://arxiv.org/abs/2601.10090)|null|
 |**2026-01-13**|**Obfuscation of Arbitrary Quantum Circuits**|Miryam Mi-Ying Huang et.al.|[2601.08969](http://arxiv.org/abs/2601.08969)|null|
 |**2026-01-04**|**COVR:Collaborative Optimization of VLMs and RL Agent for Visual-Based Control**|Canming Xia et.al.|[2601.06122](http://arxiv.org/abs/2601.06122)|null|
 |**2025-12-31**|**ArtiSG: Functional 3D Scene Graph Construction via Human-demonstrated Articulated Objects Manipulation**|Qiuyi Gu et.al.|[2512.24845](http://arxiv.org/abs/2512.24845)|null|
@@ -1285,8 +1286,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
+|**2026-01-15**|**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**|Yifan Xue et.al.|[2601.10233](http://arxiv.org/abs/2601.10233)|null|
+|**2026-01-14**|**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**|Andrew Stratton et.al.|[2601.09856](http://arxiv.org/abs/2601.09856)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
-|**2026-01-14**|**Reward Learning through Ranking Mean Squared Error**|Chaitanya Kharyal et.al.|[2601.09236](http://arxiv.org/abs/2601.09236)|null|
+|**2026-01-15**|**Reward Learning through Ranking Mean Squared Error**|Chaitanya Kharyal et.al.|[2601.09236](http://arxiv.org/abs/2601.09236)|null|
 |**2026-01-13**|**How vehicles change lanes after encountering crashes: Empirical analysis and modeling**|Kequan Chen et.al.|[2601.08125](http://arxiv.org/abs/2601.08125)|null|
 |**2026-01-12**|**MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP**|Ruiqi Li et.al.|[2601.07395](http://arxiv.org/abs/2601.07395)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
@@ -4336,6 +4340,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Andrew F. Ilersich et.al.|[2601.10690](http://arxiv.org/abs/2601.10690)|null|
+|**2026-01-15**|**Dynamic reinsurance via martingale transport**|Beatrice Acciaio et.al.|[2601.10375](http://arxiv.org/abs/2601.10375)|null|
+|**2026-01-15**|**Joint Bayesian inference of Earth's magnetic field and core surface flow on millennial timescales**|Andreas Nilsson et.al.|[2601.10344](http://arxiv.org/abs/2601.10344)|null|
+|**2026-01-14**|**Diffusion-based Frameworks for Unsupervised Speech Enhancement**|Jean-Eudes Ayilo et.al.|[2601.09931](http://arxiv.org/abs/2601.09931)|null|
 |**2026-01-12**|**Euclid preparation. Calibrated intrinsic galaxy alignments in the Euclid Flagship simulation**|Euclid Collaboration et.al.|[2601.07785](http://arxiv.org/abs/2601.07785)|null|
 |**2026-01-08**|**How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity**|Tommaso Moretti et.al.|[2601.05145](http://arxiv.org/abs/2601.05145)|null|
 |**2026-01-08**|**Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation**|Xiaowei Mao et.al.|[2601.04572](http://arxiv.org/abs/2601.04572)|null|
@@ -4401,6 +4409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](http://arxiv.org/abs/2601.10117)|null|
 |**2026-01-07**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
 |**2025-12-04**|**Uncovering Students' Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining**|Jiameng Wei et.al.|[2512.06018](http://arxiv.org/abs/2512.06018)|null|
 |**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|

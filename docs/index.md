@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-15**|**Difficulty-guided Sampling: Bridging the Target Gap between Dataset Distillation and Downstream Tasks**|Mingzhuo Li et.al.|[2601.10090](http://arxiv.org/abs/2601.10090)|null|
 |**2026-01-13**|**Obfuscation of Arbitrary Quantum Circuits**|Miryam Mi-Ying Huang et.al.|[2601.08969](http://arxiv.org/abs/2601.08969)|null|
 |**2026-01-04**|**COVR:Collaborative Optimization of VLMs and RL Agent for Visual-Based Control**|Canming Xia et.al.|[2601.06122](http://arxiv.org/abs/2601.06122)|null|
@@ -1286,6 +1287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|null|
 |**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-15**|**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**|Yifan Xue et.al.|[2601.10233](http://arxiv.org/abs/2601.10233)|null|
 |**2026-01-14**|**How Human Motion Prediction Quality Shapes Social Robot Navigation Performance in Constrained Spaces**|Andrew Stratton et.al.|[2601.09856](http://arxiv.org/abs/2601.09856)|null|

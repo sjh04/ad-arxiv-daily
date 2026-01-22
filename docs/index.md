@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-18**|**ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents**|Dawei Li et.al.|[2601.12294](http://arxiv.org/abs/2601.12294)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-15**|**Difficulty-guided Sampling: Bridging the Target Gap between Dataset Distillation and Downstream Tasks**|Mingzhuo Li et.al.|[2601.10090](http://arxiv.org/abs/2601.10090)|null|
 |**2026-01-13**|**Obfuscation of Arbitrary Quantum Circuits**|Miryam Mi-Ying Huang et.al.|[2601.08969](http://arxiv.org/abs/2601.08969)|null|
@@ -1287,6 +1288,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
+|**2026-01-17**|**CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction**|Xiaotong Zhou et.al.|[2601.12119](http://arxiv.org/abs/2601.12119)|null|
+|**2026-01-14**|**Verifying Physics-Informed Neural Network Fidelity using Classical Fisher Information from Differentiable Dynamical System**|Josafat Ribeiro Leal Filho et.al.|[2601.11638](http://arxiv.org/abs/2601.11638)|null|
 |**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](http://arxiv.org/abs/2601.10781)|null|
 |**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-15**|**Proactive Local-Minima-Free Robot Navigation: Blending Motion Prediction with Safe Control**|Yifan Xue et.al.|[2601.10233](http://arxiv.org/abs/2601.10233)|null|
@@ -1298,7 +1302,7 @@ layout: default
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models**|Tassallah Abdullahi et.al.|[2601.05376](http://arxiv.org/abs/2601.05376)|null|
 |**2026-01-07**|**Semantic Belief-State World Model for 3D Human Motion Prediction**|Sarim Chaudhry et.al.|[2601.03517](http://arxiv.org/abs/2601.03517)|null|
-|**2026-01-06**|**Conditioning Aircraft Trajectory Prediction on Meteorological Data with a Physics-Informed Machine Learning Approach**|Amy Hodgkin et.al.|[2601.03152](http://arxiv.org/abs/2601.03152)|null|
+|**2026-01-20**|**Conditioning Aircraft Trajectory Prediction on Meteorological Data with a Physics-Informed Machine Learning Approach**|Amy Hodgkin et.al.|[2601.03152](http://arxiv.org/abs/2601.03152)|null|
 |**2026-01-06**|**Fast Surrogate Models for Adaptive Aircraft Trajectory Prediction in En route Airspace**|Nick Pepper et.al.|[2601.03075](http://arxiv.org/abs/2601.03075)|null|
 |**2026-01-04**|**EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding**|Tianjun Gu et.al.|[2601.01547](http://arxiv.org/abs/2601.01547)|null|
 |**2026-01-03**|**Towards reliable subsea object recovery: a simulation study of an auv with a suction-actuated end effector**|Michele Grimaldi et.al.|[2601.01106](http://arxiv.org/abs/2601.01106)|null|
@@ -3942,9 +3946,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-11**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
+|**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
 |**2026-01-09**|**SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances**|Qiwei Yang et.al.|[2601.05535](http://arxiv.org/abs/2601.05535)|null|
-|**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
+|**2026-01-19**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
 |**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860](http://arxiv.org/abs/2601.04860)|null|
 |**2026-01-05**|**On regional treatment effect assessment using robust MAP priors**|Xin Zhang et.al.|[2601.01811](http://arxiv.org/abs/2601.01811)|null|
 |**2026-01-04**|**ShadowGS: Shadow-Aware 3D Gaussian Splatting for Satellite Imagery**|Feng Luo et.al.|[2601.00939](http://arxiv.org/abs/2601.00939)|null|
@@ -4342,6 +4346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-19**|**KaoLRM: Repurposing Pre-trained Large Reconstruction Models for Parametric 3D Face Reconstruction**|Qingtian Zhu et.al.|[2601.12736](http://arxiv.org/abs/2601.12736)|null|
 |**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Andrew F. Ilersich et.al.|[2601.10690](http://arxiv.org/abs/2601.10690)|null|
 |**2026-01-15**|**Dynamic reinsurance via martingale transport**|Beatrice Acciaio et.al.|[2601.10375](http://arxiv.org/abs/2601.10375)|null|
 |**2026-01-15**|**Joint Bayesian inference of Earth's magnetic field and core surface flow on millennial timescales**|Andreas Nilsson et.al.|[2601.10344](http://arxiv.org/abs/2601.10344)|null|

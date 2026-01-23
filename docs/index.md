@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.22
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models**|Mengyu Sun et.al.|[2601.14330](http://arxiv.org/abs/2601.14330)|null|
+|**2026-01-18**|**Guided by the Plan: Enhancing Faithful Autoregressive Text-to-Audio Generation with Guided Decoding**|Juncheng Wang et.al.|[2601.14304](http://arxiv.org/abs/2601.14304)|null|
 |**2026-01-18**|**ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents**|Dawei Li et.al.|[2601.12294](http://arxiv.org/abs/2601.12294)|null|
 |**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
 |**2026-01-15**|**Difficulty-guided Sampling: Bridging the Target Gap between Dataset Distillation and Downstream Tasks**|Mingzhuo Li et.al.|[2601.10090](http://arxiv.org/abs/2601.10090)|null|
@@ -4346,6 +4348,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Lineup Regularized Adjusted Plus-Minus (L-RAPM): Basketball Lineup Ratings with Informed Priors**|Christos Petridis et.al.|[2601.15000](http://arxiv.org/abs/2601.15000)|null|
 |**2026-01-19**|**KaoLRM: Repurposing Pre-trained Large Reconstruction Models for Parametric 3D Face Reconstruction**|Qingtian Zhu et.al.|[2601.12736](http://arxiv.org/abs/2601.12736)|null|
 |**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Andrew F. Ilersich et.al.|[2601.10690](http://arxiv.org/abs/2601.10690)|null|
 |**2026-01-15**|**Dynamic reinsurance via martingale transport**|Beatrice Acciaio et.al.|[2601.10375](http://arxiv.org/abs/2601.10375)|null|

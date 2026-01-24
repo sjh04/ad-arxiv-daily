@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.23
+## Updated on 2026.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models**|Hanwen Zhang et.al.|[2601.16073](http://arxiv.org/abs/2601.16073)|null|
 |**2026-01-20**|**LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models**|Mengyu Sun et.al.|[2601.14330](http://arxiv.org/abs/2601.14330)|null|
 |**2026-01-18**|**Guided by the Plan: Enhancing Faithful Autoregressive Text-to-Audio Generation with Guided Decoding**|Juncheng Wang et.al.|[2601.14304](http://arxiv.org/abs/2601.14304)|null|
 |**2026-01-18**|**ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents**|Dawei Li et.al.|[2601.12294](http://arxiv.org/abs/2601.12294)|null|
@@ -1290,6 +1291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
 |**2026-01-17**|**CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction**|Xiaotong Zhou et.al.|[2601.12119](http://arxiv.org/abs/2601.12119)|null|
 |**2026-01-14**|**Verifying Physics-Informed Neural Network Fidelity using Classical Fisher Information from Differentiable Dynamical System**|Josafat Ribeiro Leal Filho et.al.|[2601.11638](http://arxiv.org/abs/2601.11638)|null|
@@ -4348,6 +4350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Large-scale real-time signal processing in physics experiments: The ALICE TPC FPGA pipeline**|J. Alme et.al.|[2601.15868](http://arxiv.org/abs/2601.15868)|null|
+|**2026-01-21**|**Bayesian identification of fibrous insulation thermal conductivity towards design of spacecraft thermal protection systems**|Alex Alberts et.al.|[2601.15427](http://arxiv.org/abs/2601.15427)|null|
 |**2026-01-21**|**Lineup Regularized Adjusted Plus-Minus (L-RAPM): Basketball Lineup Ratings with Informed Priors**|Christos Petridis et.al.|[2601.15000](http://arxiv.org/abs/2601.15000)|null|
 |**2026-01-19**|**KaoLRM: Repurposing Pre-trained Large Reconstruction Models for Parametric 3D Face Reconstruction**|Qingtian Zhu et.al.|[2601.12736](http://arxiv.org/abs/2601.12736)|null|
 |**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Andrew F. Ilersich et.al.|[2601.10690](http://arxiv.org/abs/2601.10690)|null|

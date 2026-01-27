@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1291,7 +1291,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-22**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
+|**2026-01-23**|**Predicting Networks Before They Happen: Experimentation on a Real-Time V2X Digital Twin**|Roberto Pegurri et.al.|[2601.16559](http://arxiv.org/abs/2601.16559)|null|
+|**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
 |**2026-01-17**|**CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction**|Xiaotong Zhou et.al.|[2601.12119](http://arxiv.org/abs/2601.12119)|null|
 |**2026-01-14**|**Verifying Physics-Informed Neural Network Fidelity using Classical Fisher Information from Differentiable Dynamical System**|Josafat Ribeiro Leal Filho et.al.|[2601.11638](http://arxiv.org/abs/2601.11638)|null|
@@ -3950,6 +3951,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Directional Asymmetry in Edge BasedSpatial Models via a Skew Normal Prior**|Danna L. Cruz-Reyes et.al.|[2601.16829](http://arxiv.org/abs/2601.16829)|null|
 |**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
 |**2026-01-09**|**SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances**|Qiwei Yang et.al.|[2601.05535](http://arxiv.org/abs/2601.05535)|null|
 |**2026-01-19**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon et.al.|[2601.04984](http://arxiv.org/abs/2601.04984)|null|
@@ -4350,6 +4352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**Bayesian Experimental Design for Model Discrepancy Calibration: A Rivalry between Kullback--Leibler Divergence and Wasserstein Distance**|Huchen Yang et.al.|[2601.16425](http://arxiv.org/abs/2601.16425)|null|
 |**2026-01-22**|**Large-scale real-time signal processing in physics experiments: The ALICE TPC FPGA pipeline**|J. Alme et.al.|[2601.15868](http://arxiv.org/abs/2601.15868)|null|
 |**2026-01-21**|**Bayesian identification of fibrous insulation thermal conductivity towards design of spacecraft thermal protection systems**|Alex Alberts et.al.|[2601.15427](http://arxiv.org/abs/2601.15427)|null|
 |**2026-01-21**|**Lineup Regularized Adjusted Plus-Minus (L-RAPM): Basketball Lineup Ratings with Informed Priors**|Christos Petridis et.al.|[2601.15000](http://arxiv.org/abs/2601.15000)|null|

@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation**|Devon Levy et.al.|[2601.18532](http://arxiv.org/abs/2601.18532)|null|
 |**2026-01-22**|**DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models**|Hanwen Zhang et.al.|[2601.16073](http://arxiv.org/abs/2601.16073)|null|
 |**2026-01-20**|**LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models**|Mengyu Sun et.al.|[2601.14330](http://arxiv.org/abs/2601.14330)|null|
 |**2026-01-18**|**Guided by the Plan: Enhancing Faithful Autoregressive Text-to-Audio Generation with Guided Decoding**|Juncheng Wang et.al.|[2601.14304](http://arxiv.org/abs/2601.14304)|null|
@@ -1291,6 +1292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
+|**2026-01-26**|**Generative Chain of Behavior for User Trajectory Prediction**|Chengkai Huang et.al.|[2601.18213](http://arxiv.org/abs/2601.18213)|null|
 |**2026-01-23**|**Predicting Networks Before They Happen: Experimentation on a Real-Time V2X Digital Twin**|Roberto Pegurri et.al.|[2601.16559](http://arxiv.org/abs/2601.16559)|null|
 |**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
 |**2026-01-20**|**Rigid Body Dynamics in Ambient Fluids**|Marcel Padilla et.al.|[2601.13971](http://arxiv.org/abs/2601.13971)|null|
@@ -4352,6 +4355,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-26**|**Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning**|Manjie Xu et.al.|[2601.18352](http://arxiv.org/abs/2601.18352)|null|
+|**2026-01-25**|**MlPET: A Localized Neural Network Approach for Probabilistic Post-Reconstruction PET Image Analysis Using Informed Priors**|Thomas Mejer Hansen et.al.|[2601.18021](http://arxiv.org/abs/2601.18021)|null|
+|**2026-01-24**|**What Language Models Know But Don't Say: Non-Generative Prior Extraction for Generalization**|Sara Rezaeimanesh et.al.|[2601.17609](http://arxiv.org/abs/2601.17609)|null|
 |**2026-01-23**|**Bayesian Experimental Design for Model Discrepancy Calibration: A Rivalry between Kullback--Leibler Divergence and Wasserstein Distance**|Huchen Yang et.al.|[2601.16425](http://arxiv.org/abs/2601.16425)|null|
 |**2026-01-22**|**Large-scale real-time signal processing in physics experiments: The ALICE TPC FPGA pipeline**|J. Alme et.al.|[2601.15868](http://arxiv.org/abs/2601.15868)|null|
 |**2026-01-21**|**Bayesian identification of fibrous insulation thermal conductivity towards design of spacecraft thermal protection systems**|Alex Alberts et.al.|[2601.15427](http://arxiv.org/abs/2601.15427)|null|
@@ -4360,7 +4366,7 @@ layout: default
 |**2026-01-15**|**Data-driven stochastic reduced-order modeling of parametrized dynamical systems**|Andrew F. Ilersich et.al.|[2601.10690](http://arxiv.org/abs/2601.10690)|null|
 |**2026-01-15**|**Dynamic reinsurance via martingale transport**|Beatrice Acciaio et.al.|[2601.10375](http://arxiv.org/abs/2601.10375)|null|
 |**2026-01-15**|**Joint Bayesian inference of Earth's magnetic field and core surface flow on millennial timescales**|Andreas Nilsson et.al.|[2601.10344](http://arxiv.org/abs/2601.10344)|null|
-|**2026-01-14**|**Diffusion-based Frameworks for Unsupervised Speech Enhancement**|Jean-Eudes Ayilo et.al.|[2601.09931](http://arxiv.org/abs/2601.09931)|null|
+|**2026-01-26**|**Diffusion-based Frameworks for Unsupervised Speech Enhancement**|Jean-Eudes Ayilo et.al.|[2601.09931](http://arxiv.org/abs/2601.09931)|null|
 |**2026-01-12**|**Euclid preparation. Calibrated intrinsic galaxy alignments in the Euclid Flagship simulation**|Euclid Collaboration et.al.|[2601.07785](http://arxiv.org/abs/2601.07785)|null|
 |**2026-01-08**|**How deep can a cosmic void be? Voids-informed theoretical bounds in Galileon gravity**|Tommaso Moretti et.al.|[2601.05145](http://arxiv.org/abs/2601.05145)|null|
 |**2026-01-08**|**Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation**|Xiaowei Mao et.al.|[2601.04572](http://arxiv.org/abs/2601.04572)|null|

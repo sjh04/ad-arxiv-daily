@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Sim-and-Human Co-training for Data-Efficient and Generalizable Robotic Manipulation**|Kaipeng Fang et.al.|[2601.19406](http://arxiv.org/abs/2601.19406)|null|
 |**2026-01-26**|**From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation**|Devon Levy et.al.|[2601.18532](http://arxiv.org/abs/2601.18532)|null|
 |**2026-01-22**|**DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models**|Hanwen Zhang et.al.|[2601.16073](http://arxiv.org/abs/2601.16073)|null|
 |**2026-01-20**|**LURE: Latent Space Unblocking for Multi-Concept Reawakening in Diffusion Models**|Mengyu Sun et.al.|[2601.14330](http://arxiv.org/abs/2601.14330)|null|
@@ -1292,6 +1293,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**APC-RL: Exceeding Data-Driven Behavior Priors with Adaptive Policy Composition**|Finn Rietz et.al.|[2601.19452](http://arxiv.org/abs/2601.19452)|null|
+|**2026-01-27**|**Perception-to-Pursuit: Track-Centric Temporal Reasoning for Open-World Drone Detection and Autonomous Chasing**|Venkatakrishna Reddy Oruganti et.al.|[2601.19318](http://arxiv.org/abs/2601.19318)|null|
 |**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
 |**2026-01-26**|**Generative Chain of Behavior for User Trajectory Prediction**|Chengkai Huang et.al.|[2601.18213](http://arxiv.org/abs/2601.18213)|null|
 |**2026-01-23**|**Predicting Networks Before They Happen: Experimentation on a Real-Time V2X Digital Twin**|Roberto Pegurri et.al.|[2601.16559](http://arxiv.org/abs/2601.16559)|null|

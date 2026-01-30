@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments**|Zhuang Chen et.al.|[2601.20330](http://arxiv.org/abs/2601.20330)|null|
+|**2026-01-27**|**E2HiL: Entropy-Guided Sample Selection for Efficient Real-World Human-in-the-Loop Reinforcement Learning**|Haoyuan Deng et.al.|[2601.19969](http://arxiv.org/abs/2601.19969)|null|
 |**2026-01-27**|**Sim-and-Human Co-training for Data-Efficient and Generalizable Robotic Manipulation**|Kaipeng Fang et.al.|[2601.19406](http://arxiv.org/abs/2601.19406)|null|
 |**2026-01-26**|**From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation**|Devon Levy et.al.|[2601.18532](http://arxiv.org/abs/2601.18532)|null|
 |**2026-01-22**|**DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual Distillation Between Foundation and Lightweight Models**|Hanwen Zhang et.al.|[2601.16073](http://arxiv.org/abs/2601.16073)|null|
@@ -1293,6 +1295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction**|Matej Halinkovic et.al.|[2601.20720](http://arxiv.org/abs/2601.20720)|null|
+|**2026-01-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al.|[2601.20367](http://arxiv.org/abs/2601.20367)|null|
 |**2026-01-27**|**APC-RL: Exceeding Data-Driven Behavior Priors with Adaptive Policy Composition**|Finn Rietz et.al.|[2601.19452](http://arxiv.org/abs/2601.19452)|null|
 |**2026-01-27**|**Perception-to-Pursuit: Track-Centric Temporal Reasoning for Open-World Drone Detection and Autonomous Chasing**|Venkatakrishna Reddy Oruganti et.al.|[2601.19318](http://arxiv.org/abs/2601.19318)|null|
 |**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
@@ -3957,6 +3961,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction**|Mai Su et.al.|[2601.20331](http://arxiv.org/abs/2601.20331)|null|
 |**2026-01-23**|**Directional Asymmetry in Edge BasedSpatial Models via a Skew Normal Prior**|Danna L. Cruz-Reyes et.al.|[2601.16829](http://arxiv.org/abs/2601.16829)|null|
 |**2026-01-18**|**UDPNet: Unleashing Depth-based Priors for Robust Image Dehazing**|Zengyuan Zuo et.al.|[2601.06909](http://arxiv.org/abs/2601.06909)|null|
 |**2026-01-09**|**SAS-VPReID: A Scale-Adaptive Framework with Shape Priors for Video-based Person Re-Identification at Extreme Far Distances**|Qiwei Yang et.al.|[2601.05535](http://arxiv.org/abs/2601.05535)|null|
@@ -4358,6 +4363,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Gen-SER: When the generative model meets speech emotion recognition**|Taihui Wang et.al.|[2601.20573](http://arxiv.org/abs/2601.20573)|null|
+|**2026-01-27**|**Two-Step Diffusion: Fast Sampling and Reliable Prediction for 3D Keller--Segel and KPP Equations in Fluid Flows**|Zhenda Shen et.al.|[2601.20024](http://arxiv.org/abs/2601.20024)|null|
 |**2026-01-26**|**Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning**|Manjie Xu et.al.|[2601.18352](http://arxiv.org/abs/2601.18352)|null|
 |**2026-01-25**|**MlPET: A Localized Neural Network Approach for Probabilistic Post-Reconstruction PET Image Analysis Using Informed Priors**|Thomas Mejer Hansen et.al.|[2601.18021](http://arxiv.org/abs/2601.18021)|null|
 |**2026-01-24**|**What Language Models Know But Don't Say: Non-Generative Prior Extraction for Generalization**|Sara Rezaeimanesh et.al.|[2601.17609](http://arxiv.org/abs/2601.17609)|null|

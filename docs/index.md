@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.30
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Influence Guided Sampling for Domain Adaptation of Text Retrievers**|Meet Doshi et.al.|[2601.21759](http://arxiv.org/abs/2601.21759)|null|
 |**2026-01-28**|**PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments**|Zhuang Chen et.al.|[2601.20330](http://arxiv.org/abs/2601.20330)|null|
 |**2026-01-27**|**E2HiL: Entropy-Guided Sample Selection for Efficient Real-World Human-in-the-Loop Reinforcement Learning**|Haoyuan Deng et.al.|[2601.19969](http://arxiv.org/abs/2601.19969)|null|
 |**2026-01-27**|**Sim-and-Human Co-training for Data-Efficient and Generalizable Robotic Manipulation**|Kaipeng Fang et.al.|[2601.19406](http://arxiv.org/abs/2601.19406)|null|
@@ -1295,11 +1296,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control**|Wei Zuo et.al.|[2601.21346](http://arxiv.org/abs/2601.21346)|null|
 |**2026-01-28**|**Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction**|Matej Halinkovic et.al.|[2601.20720](http://arxiv.org/abs/2601.20720)|null|
 |**2026-01-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al.|[2601.20367](http://arxiv.org/abs/2601.20367)|null|
 |**2026-01-27**|**APC-RL: Exceeding Data-Driven Behavior Priors with Adaptive Policy Composition**|Finn Rietz et.al.|[2601.19452](http://arxiv.org/abs/2601.19452)|null|
 |**2026-01-27**|**Perception-to-Pursuit: Track-Centric Temporal Reasoning for Open-World Drone Detection and Autonomous Chasing**|Venkatakrishna Reddy Oruganti et.al.|[2601.19318](http://arxiv.org/abs/2601.19318)|null|
-|**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
+|**2026-01-29**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
 |**2026-01-26**|**Generative Chain of Behavior for User Trajectory Prediction**|Chengkai Huang et.al.|[2601.18213](http://arxiv.org/abs/2601.18213)|null|
 |**2026-01-23**|**Predicting Networks Before They Happen: Experimentation on a Real-Time V2X Digital Twin**|Roberto Pegurri et.al.|[2601.16559](http://arxiv.org/abs/2601.16559)|null|
 |**2026-01-23**|**Masked Modeling for Human Motion Recovery Under Occlusions**|Zhiyin Qian et.al.|[2601.16079](http://arxiv.org/abs/2601.16079)|null|
@@ -4363,6 +4365,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization**|Leonard Papenmeier et.al.|[2601.22131](http://arxiv.org/abs/2601.22131)|null|
+|**2026-01-29**|**Amortized Spectral Kernel Discovery via Prior-Data Fitted Network**|Kaustubh Sharma et.al.|[2601.21731](http://arxiv.org/abs/2601.21731)|null|
+|**2026-01-29**|**Expected Return Causes Outcome-Level Mode Collapse in Reinforcement Learning and How to Fix It with Inverse Probability Scaling**|Abhijeet Sinha et.al.|[2601.21669](http://arxiv.org/abs/2601.21669)|null|
+|**2026-01-29**|**Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration**|Luwei Tu et.al.|[2601.21592](http://arxiv.org/abs/2601.21592)|null|
+|**2026-01-29**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
+|**2026-01-28**|**Adaptive Dirichlet Process mixture model with unknown concentration parameter and variance: Scaling high dimensional clustering via collapsed variational inference**|Annesh Pal et.al.|[2601.21106](http://arxiv.org/abs/2601.21106)|null|
 |**2026-01-28**|**Gen-SER: When the generative model meets speech emotion recognition**|Taihui Wang et.al.|[2601.20573](http://arxiv.org/abs/2601.20573)|null|
 |**2026-01-27**|**Two-Step Diffusion: Fast Sampling and Reliable Prediction for 3D Keller--Segel and KPP Equations in Fluid Flows**|Zhenda Shen et.al.|[2601.20024](http://arxiv.org/abs/2601.20024)|null|
 |**2026-01-26**|**Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning**|Manjie Xu et.al.|[2601.18352](http://arxiv.org/abs/2601.18352)|null|

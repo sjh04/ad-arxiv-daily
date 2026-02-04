@@ -1,4 +1,4 @@
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Cost-Aware Bayesian Optimization for Prototyping Interactive Devices**|Thomas Langerak et.al.|[2602.01774](http://arxiv.org/abs/2602.01774)|null|
+|**2026-02-02**|**Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets**|Taihei Oki et.al.|[2602.01682](http://arxiv.org/abs/2602.01682)|null|
+|**2026-01-31**|**Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization**|Jatan Shrestha et.al.|[2602.00737](http://arxiv.org/abs/2602.00737)|null|
+|**2026-01-31**|**Small Shifts, Large Gains: Unlocking Traditional TSP Heuristic Guided-Sampling via Unsupervised Neural Instance Modification**|Wei Huang et.al.|[2602.00580](http://arxiv.org/abs/2602.00580)|null|
 |**2026-01-29**|**Influence Guided Sampling for Domain Adaptation of Text Retrievers**|Meet Doshi et.al.|[2601.21759](http://arxiv.org/abs/2601.21759)|null|
 |**2026-01-28**|**PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments**|Zhuang Chen et.al.|[2601.20330](http://arxiv.org/abs/2601.20330)|null|
 |**2026-01-27**|**E2HiL: Entropy-Guided Sample Selection for Efficient Real-World Human-in-the-Loop Reinforcement Learning**|Haoyuan Deng et.al.|[2601.19969](http://arxiv.org/abs/2601.19969)|null|
@@ -1226,7 +1230,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1304,12 +1308,17 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|
+|**2026-02-01**|**ASTER: Agentic Scaling with Tool-integrated Extended Reasoning**|Xuqin Zhang et.al.|[2602.01204](http://arxiv.org/abs/2602.01204)|null|
+|**2026-01-31**|**Physics-informed Diffusion Mamba Transformer for Real-world Driving**|Hang Zhou et.al.|[2602.00808](http://arxiv.org/abs/2602.00808)|null|
+|**2026-01-31**|**DISK: Dynamic Inference SKipping for World Models**|Anugunj Naman et.al.|[2602.00440](http://arxiv.org/abs/2602.00440)|null|
+|**2026-01-26**|**Efficient UAV trajectory prediction: A multi-modal deep diffusion framework**|Yuan Gao et.al.|[2602.00107](http://arxiv.org/abs/2602.00107)|null|
 |**2026-01-30**|**Character as a Latent Variable in Large Language Models: A Mechanistic Account of Emergent Misalignment and Conditional Safety Failures**|Yanghao Su et.al.|[2601.23081](http://arxiv.org/abs/2601.23081)|null|
 |**2026-01-30**|**Real-Time Aligned Reward Model beyond Semantics**|Zixuan Huang et.al.|[2601.22664](http://arxiv.org/abs/2601.22664)|null|
 |**2026-01-29**|**HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control**|Wei Zuo et.al.|[2601.21346](http://arxiv.org/abs/2601.21346)|null|
@@ -1952,7 +1961,7 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3556,7 +3565,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Simulation
 
@@ -3979,12 +3988,15 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](http://arxiv.org/abs/2602.02356)|null|
+|**2026-02-02**|**Enhancing Indoor Occupancy Prediction via Sparse Query-Based Multi-Level Consistent Knowledge Distillation**|Xiang Li et.al.|[2602.02318](http://arxiv.org/abs/2602.02318)|null|
+|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
 |**2026-01-30**|**Differences in Performance of Bayesian Dynamic Borrowing and Synthetic Control Methods: A Case Study of Pediatric Atopic Dermatitis**|Nicole Cizauskas et.al.|[2601.23021](http://arxiv.org/abs/2601.23021)|null|
 |**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808](http://arxiv.org/abs/2601.22808)|null|
 |**2026-01-30**|**DAVIS: OOD Detection via Dominant Activations and Variance for Increased Separation**|Abid Hassan et.al.|[2601.22703](http://arxiv.org/abs/2601.22703)|null|
@@ -4386,12 +4398,15 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Diffusion & Priors (General)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**On Stability and Robustness of Diffusion Posterior Sampling for Bayesian Inverse Problems**|Yiming Yang et.al.|[2602.02045](http://arxiv.org/abs/2602.02045)|null|
+|**2026-02-02**|**Propagating the prior from far to near offset: A self-supervised diffusion framework for progressively recovering near-offsets of towed-streamer data**|Shijun Cheng et.al.|[2602.01909](http://arxiv.org/abs/2602.01909)|null|
+|**2026-02-02**|**Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data**|Jiaming Liu et.al.|[2602.01808](http://arxiv.org/abs/2602.01808)|null|
 |**2026-01-29**|**Gaussian Process Bandit Optimization with Machine Learning Predictions and Application to Hypothesis Generation**|Xin Jennifer Chen et.al.|[2601.22315](http://arxiv.org/abs/2601.22315)|null|
 |**2026-01-29**|**SMOG: Scalable Meta-Learning for Multi-Objective Bayesian Optimization**|Leonard Papenmeier et.al.|[2601.22131](http://arxiv.org/abs/2601.22131)|null|
 |**2026-01-29**|**Amortized Spectral Kernel Discovery via Prior-Data Fitted Network**|Kaustubh Sharma et.al.|[2601.21731](http://arxiv.org/abs/2601.21731)|null|
@@ -4401,7 +4416,7 @@
 |**2026-01-28**|**Adaptive Dirichlet Process mixture model with unknown concentration parameter and variance: Scaling high dimensional clustering via collapsed variational inference**|Annesh Pal et.al.|[2601.21106](http://arxiv.org/abs/2601.21106)|null|
 |**2026-01-28**|**Gen-SER: When the generative model meets speech emotion recognition**|Taihui Wang et.al.|[2601.20573](http://arxiv.org/abs/2601.20573)|null|
 |**2026-01-27**|**Two-Step Diffusion: Fast Sampling and Reliable Prediction for 3D Keller--Segel and KPP Equations in Fluid Flows**|Zhenda Shen et.al.|[2601.20024](http://arxiv.org/abs/2601.20024)|null|
-|**2026-01-26**|**Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning**|Manjie Xu et.al.|[2601.18352](http://arxiv.org/abs/2601.18352)|null|
+|**2026-02-02**|**Code over Words: Overcoming Semantic Inertia via Code-Grounded Reasoning**|Manjie Xu et.al.|[2601.18352](http://arxiv.org/abs/2601.18352)|null|
 |**2026-01-25**|**MlPET: A Localized Neural Network Approach for Probabilistic Post-Reconstruction PET Image Analysis Using Informed Priors**|Thomas Mejer Hansen et.al.|[2601.18021](http://arxiv.org/abs/2601.18021)|null|
 |**2026-01-24**|**What Language Models Know But Don't Say: Non-Generative Prior Extraction for Generalization**|Sara Rezaeimanesh et.al.|[2601.17609](http://arxiv.org/abs/2601.17609)|null|
 |**2026-01-23**|**Bayesian Experimental Design for Model Discrepancy Calibration: A Rivalry between Kullback--Leibler Divergence and Wasserstein Distance**|Huchen Yang et.al.|[2601.16425](http://arxiv.org/abs/2601.16425)|null|
@@ -4474,7 +4489,7 @@
 |**2025-11-28**|**Incorporating neutron star physics into gravitational wave inference with neural priors**|Thibeau Wouters et.al.|[2511.22987](http://arxiv.org/abs/2511.22987)|null|
 |**2025-11-27**|**Data-driven informative priors for Bayesian inference with quasi-periodic data**|Javier Lopez-Santiago et.al.|[2511.22296](http://arxiv.org/abs/2511.22296)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 ## Simulation & Generation
 
@@ -4507,14 +4522,14 @@
 |**2025-10-26**|**LO-SDA: Latent Optimization for Score-based Atmospheric Data Assimilation**|Jing-An Sun et.al.|[2510.22562](http://arxiv.org/abs/2510.22562)|null|
 |**2025-10-22**|**I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs**|John Burden et.al.|[2510.19678](http://arxiv.org/abs/2510.19678)|null|
 |**2025-10-16**|**TGT: Text-Grounded Trajectories for Locally Controlled Video Generation**|Guofeng Zhang et.al.|[2510.15104](http://arxiv.org/abs/2510.15104)|null|
-|**2025-10-15**|**UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy**|Tianshuo Xu et.al.|[2510.13745](http://arxiv.org/abs/2510.13745)|null|
+|**2026-02-02**|**UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy**|Tianshuo Xu et.al.|[2510.13745](http://arxiv.org/abs/2510.13745)|null|
 |**2025-10-03**|**UniVerse: Unleashing the Scene Prior of Video Diffusion Models for Robust Radiance Field Reconstruction**|Jin Cao et.al.|[2510.01669](http://arxiv.org/abs/2510.01669)|null|
 |**2025-09-29**|**Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency**|Jiaqi Tan et.al.|[2509.24514](http://arxiv.org/abs/2509.24514)|null|
 |**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|Hao Jiang et.al.|[2509.14303](http://arxiv.org/abs/2509.14303)|null|
 |**2025-08-31**|**Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion**|Xueyang Kang et.al.|[2509.00843](http://arxiv.org/abs/2509.00843)|null|
 |**2025-09-25**|**FastTracker: Real-Time and Accurate Visual Tracking**|Hamidreza Hashempoor et.al.|[2508.14370](http://arxiv.org/abs/2508.14370)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors

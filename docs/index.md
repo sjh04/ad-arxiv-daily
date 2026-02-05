@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126](http://arxiv.org/abs/2602.03126)|null|
+|**2026-02-02**|**Manifold-Constrained Energy-Based Transition Models for Offline Reinforcement Learning**|Zeyu Fang et.al.|[2602.02900](http://arxiv.org/abs/2602.02900)|null|
 |**2026-02-02**|**Cost-Aware Bayesian Optimization for Prototyping Interactive Devices**|Thomas Langerak et.al.|[2602.01774](http://arxiv.org/abs/2602.01774)|null|
 |**2026-02-02**|**Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets**|Taihei Oki et.al.|[2602.01682](http://arxiv.org/abs/2602.01682)|null|
 |**2026-01-31**|**Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization**|Jatan Shrestha et.al.|[2602.00737](http://arxiv.org/abs/2602.00737)|null|
@@ -1300,6 +1302,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**PlanTRansformer: Unified Prediction and Planning with Goal-conditioned Transformer**|Constantin Selzer et.al.|[2602.03376](http://arxiv.org/abs/2602.03376)|null|
+|**2026-02-03**|**Exploring the Role of Tracing in AI-Supported Planning for Algorithmic Reasoning**|Yoshee Jain et.al.|[2602.03197](http://arxiv.org/abs/2602.03197)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|
 |**2026-02-01**|**ASTER: Agentic Scaling with Tool-integrated Extended Reasoning**|Xuqin Zhang et.al.|[2602.01204](http://arxiv.org/abs/2602.01204)|null|
 |**2026-01-31**|**Physics-informed Diffusion Mamba Transformer for Real-world Driving**|Hang Zhou et.al.|[2602.00808](http://arxiv.org/abs/2602.00808)|null|
@@ -4382,6 +4386,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Function-Space Empirical Bayes Regularisation with Large Vision-Language Model Priors**|Pengcheng Hao et.al.|[2602.03119](http://arxiv.org/abs/2602.03119)|null|
+|**2026-02-02**|**Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data**|Stefanos Pertigkiozoglou et.al.|[2602.02853](http://arxiv.org/abs/2602.02853)|null|
+|**2026-02-01**|**StepNav: Structured Trajectory Priors for Efficient and Multimodal Visual Navigation**|Xubo Luo et.al.|[2602.02590](http://arxiv.org/abs/2602.02590)|null|
+|**2026-01-30**|**Auditing Sybil: Explaining Deep Lung Cancer Risk Prediction Through Generative Interventional Attributions**|Bartlomiej Sobieski et.al.|[2602.02560](http://arxiv.org/abs/2602.02560)|null|
 |**2026-02-02**|**On Stability and Robustness of Diffusion Posterior Sampling for Bayesian Inverse Problems**|Yiming Yang et.al.|[2602.02045](http://arxiv.org/abs/2602.02045)|null|
 |**2026-02-02**|**Propagating the prior from far to near offset: A self-supervised diffusion framework for progressively recovering near-offsets of towed-streamer data**|Shijun Cheng et.al.|[2602.01909](http://arxiv.org/abs/2602.01909)|null|
 |**2026-02-02**|**Physics Informed Bayesian Machine Learning of Sparse and Imperfect Nuclear Data**|Jiaming Liu et.al.|[2602.01808](http://arxiv.org/abs/2602.01808)|null|

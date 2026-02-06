@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1302,6 +1302,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**From Data to Behavior: Predicting Unintended Model Behaviors Before Training**|Mengru Wang et.al.|[2602.04735](http://arxiv.org/abs/2602.04735)|null|
+|**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
+|**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
+|**2026-02-03**|**eCP: Informative uncertainty quantification via Equivariantized Conformal Prediction with pre-trained models**|Nikolaos Bousias et.al.|[2602.03986](http://arxiv.org/abs/2602.03986)|null|
 |**2026-02-03**|**PlanTRansformer: Unified Prediction and Planning with Goal-conditioned Transformer**|Constantin Selzer et.al.|[2602.03376](http://arxiv.org/abs/2602.03376)|null|
 |**2026-02-03**|**Exploring the Role of Tracing in AI-Supported Planning for Algorithmic Reasoning**|Yoshee Jain et.al.|[2602.03197](http://arxiv.org/abs/2602.03197)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](http://arxiv.org/abs/2602.02401)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.07
+## Updated on 2026.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1302,6 +1302,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
 |**2026-02-04**|**From Data to Behavior: Predicting Unintended Model Behaviors Before Training**|Mengru Wang et.al.|[2602.04735](http://arxiv.org/abs/2602.04735)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
 |**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
@@ -3982,6 +3983,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[2602.05884](http://arxiv.org/abs/2602.05884)|null|
+|**2026-02-05**|**Thermal Eclipse Observation of the Young Hot Neptune AU Mic b with Spitzer**|Kevin I. Collins et.al.|[2602.05168](http://arxiv.org/abs/2602.05168)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](http://arxiv.org/abs/2602.02356)|null|
 |**2026-02-02**|**Enhancing Indoor Occupancy Prediction via Sparse Query-Based Multi-Level Consistent Knowledge Distillation**|Xiang Li et.al.|[2602.02318](http://arxiv.org/abs/2602.02318)|null|
 |**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](http://arxiv.org/abs/2602.01268)|null|
@@ -4390,6 +4393,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Distributional Reinforcement Learning with Diffusion Bridge Critics**|Shutong Ding et.al.|[2602.05783](http://arxiv.org/abs/2602.05783)|null|
 |**2026-02-03**|**Function-Space Empirical Bayes Regularisation with Large Vision-Language Model Priors**|Pengcheng Hao et.al.|[2602.03119](http://arxiv.org/abs/2602.03119)|null|
 |**2026-02-02**|**Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data**|Stefanos Pertigkiozoglou et.al.|[2602.02853](http://arxiv.org/abs/2602.02853)|null|
 |**2026-02-01**|**StepNav: Structured Trajectory Priors for Efficient and Multimodal Visual Navigation**|Xubo Luo et.al.|[2602.02590](http://arxiv.org/abs/2602.02590)|null|
@@ -4402,7 +4406,7 @@ layout: default
 |**2026-01-29**|**Amortized Spectral Kernel Discovery via Prior-Data Fitted Network**|Kaustubh Sharma et.al.|[2601.21731](http://arxiv.org/abs/2601.21731)|null|
 |**2026-01-29**|**Expected Return Causes Outcome-Level Mode Collapse in Reinforcement Learning and How to Fix It with Inverse Probability Scaling**|Abhijeet Sinha et.al.|[2601.21669](http://arxiv.org/abs/2601.21669)|null|
 |**2026-01-29**|**Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration**|Luwei Tu et.al.|[2601.21592](http://arxiv.org/abs/2601.21592)|null|
-|**2026-01-29**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
+|**2026-02-04**|**Statsformer: Validated Ensemble Learning with LLM-Derived Semantic Priors**|Erica Zhang et.al.|[2601.21410](http://arxiv.org/abs/2601.21410)|null|
 |**2026-01-28**|**Adaptive Dirichlet Process mixture model with unknown concentration parameter and variance: Scaling high dimensional clustering via collapsed variational inference**|Annesh Pal et.al.|[2601.21106](http://arxiv.org/abs/2601.21106)|null|
 |**2026-01-28**|**Gen-SER: When the generative model meets speech emotion recognition**|Taihui Wang et.al.|[2601.20573](http://arxiv.org/abs/2601.20573)|null|
 |**2026-01-27**|**Two-Step Diffusion: Fast Sampling and Reliable Prediction for 3D Keller--Segel and KPP Equations in Fluid Flows**|Zhenda Shen et.al.|[2601.20024](http://arxiv.org/abs/2601.20024)|null|

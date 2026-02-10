@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Clinical-Prior Guided Multi-Modal Learning with Latent Attention Pooling for Gait-Based Scoliosis Screening**|Dong Chen et.al.|[2602.06743](http://arxiv.org/abs/2602.06743)|null|
 |**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126](http://arxiv.org/abs/2602.03126)|null|
 |**2026-02-02**|**Manifold-Constrained Energy-Based Transition Models for Offline Reinforcement Learning**|Zeyu Fang et.al.|[2602.02900](http://arxiv.org/abs/2602.02900)|null|
 |**2026-02-02**|**Cost-Aware Bayesian Optimization for Prototyping Interactive Devices**|Thomas Langerak et.al.|[2602.01774](http://arxiv.org/abs/2602.01774)|null|
@@ -1305,7 +1306,7 @@ layout: default
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
 |**2026-02-04**|**From Data to Behavior: Predicting Unintended Model Behaviors Before Training**|Mengru Wang et.al.|[2602.04735](http://arxiv.org/abs/2602.04735)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
-|**2026-02-04**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
+|**2026-02-06**|**DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding**|Ning Zhang et.al.|[2602.04188](http://arxiv.org/abs/2602.04188)|null|
 |**2026-02-03**|**eCP: Informative uncertainty quantification via Equivariantized Conformal Prediction with pre-trained models**|Nikolaos Bousias et.al.|[2602.03986](http://arxiv.org/abs/2602.03986)|null|
 |**2026-02-03**|**PlanTRansformer: Unified Prediction and Planning with Goal-conditioned Transformer**|Constantin Selzer et.al.|[2602.03376](http://arxiv.org/abs/2602.03376)|null|
 |**2026-02-03**|**Exploring the Role of Tracing in AI-Supported Planning for Algorithmic Reasoning**|Yoshee Jain et.al.|[2602.03197](http://arxiv.org/abs/2602.03197)|null|
@@ -4393,6 +4394,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
+|**2026-02-06**|**Multiple timescales in collective motion: daily and intraday upstream fish migration focusing on Feller condition**|Hidekazu Yoshioka et.al.|[2602.06606](http://arxiv.org/abs/2602.06606)|null|
+|**2026-02-05**|**SCONE: A Practical, Constraint-Aware Plug-in for Latent Encoding in Learned DNA Storage**|Cihan Ruan et.al.|[2602.06157](http://arxiv.org/abs/2602.06157)|null|
 |**2026-02-05**|**Distributional Reinforcement Learning with Diffusion Bridge Critics**|Shutong Ding et.al.|[2602.05783](http://arxiv.org/abs/2602.05783)|null|
 |**2026-02-03**|**Function-Space Empirical Bayes Regularisation with Large Vision-Language Model Priors**|Pengcheng Hao et.al.|[2602.03119](http://arxiv.org/abs/2602.03119)|null|
 |**2026-02-02**|**Recurrent Equivariant Constraint Modulation: Learning Per-Layer Symmetry Relaxation from Data**|Stefanos Pertigkiozoglou et.al.|[2602.02853](http://arxiv.org/abs/2602.02853)|null|
@@ -4487,6 +4491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search**|Hongcheng Wang et.al.|[2602.06459](http://arxiv.org/abs/2602.06459)|null|
 |**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](http://arxiv.org/abs/2601.10117)|null|
 |**2026-01-07**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](http://arxiv.org/abs/2512.13683)|null|
 |**2025-12-04**|**Uncovering Students' Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining**|Jiameng Wei et.al.|[2512.06018](http://arxiv.org/abs/2512.06018)|null|

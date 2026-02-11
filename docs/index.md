@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|null|
 |**2026-02-06**|**Clinical-Prior Guided Multi-Modal Learning with Latent Attention Pooling for Gait-Based Scoliosis Screening**|Dong Chen et.al.|[2602.06743](http://arxiv.org/abs/2602.06743)|null|
 |**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126](http://arxiv.org/abs/2602.03126)|null|
 |**2026-02-02**|**Manifold-Constrained Energy-Based Transition Models for Offline Reinforcement Learning**|Zeyu Fang et.al.|[2602.02900](http://arxiv.org/abs/2602.02900)|null|
@@ -1303,6 +1304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-08**|**Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2602.07938](http://arxiv.org/abs/2602.07938)|null|
+|**2026-02-07**|**RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving**|Ruturaj Reddy et.al.|[2602.07339](http://arxiv.org/abs/2602.07339)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
 |**2026-02-04**|**From Data to Behavior: Predicting Unintended Model Behaviors Before Training**|Mengru Wang et.al.|[2602.04735](http://arxiv.org/abs/2602.04735)|null|
 |**2026-02-04**|**A Unified Complementarity-based Approach for Rigid-Body Manipulation and Motion Prediction**|Bingkun Huang et.al.|[2602.04522](http://arxiv.org/abs/2602.04522)|null|
@@ -3984,6 +3987,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Graph-Loc: Robust Graph-Based LiDAR Pose Tracking with Compact Structural Map Priors under Low Observability and Occlusion**|Wentao Zhao et.al.|[2602.08417](http://arxiv.org/abs/2602.08417)|null|
+|**2026-02-06**|**Continuum Robot Localization using Distributed Time-of-Flight Sensors**|Spencer Teetaert et.al.|[2602.07209](http://arxiv.org/abs/2602.07209)|null|
 |**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[2602.05884](http://arxiv.org/abs/2602.05884)|null|
 |**2026-02-05**|**Thermal Eclipse Observation of the Young Hot Neptune AU Mic b with Spitzer**|Kevin I. Collins et.al.|[2602.05168](http://arxiv.org/abs/2602.05168)|null|
 |**2026-02-02**|**NAB: Neural Adaptive Binning for Sparse-View CT reconstruction**|Wangduo Xie et.al.|[2602.02356](http://arxiv.org/abs/2602.02356)|null|
@@ -4394,6 +4399,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Discrete Bridges for Mutual Information Estimation**|Iryna Zabarianska et.al.|[2602.08894](http://arxiv.org/abs/2602.08894)|null|
+|**2026-02-09**|**Amortising Inference and Meta-Learning Priors in Neural Networks**|Tommy Rochussen et.al.|[2602.08782](http://arxiv.org/abs/2602.08782)|null|
+|**2026-02-09**|**Improved Conditional Logistic Regression using Information in Concordant Pairs with Software**|Jacob Tennenbaum et.al.|[2602.08212](http://arxiv.org/abs/2602.08212)|null|
+|**2026-02-07**|**HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology**|Yixin Chen et.al.|[2602.07608](http://arxiv.org/abs/2602.07608)|null|
 |**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
 |**2026-02-06**|**Multiple timescales in collective motion: daily and intraday upstream fish migration focusing on Feller condition**|Hidekazu Yoshioka et.al.|[2602.06606](http://arxiv.org/abs/2602.06606)|null|
 |**2026-02-05**|**SCONE: A Practical, Constraint-Aware Plug-in for Latent Encoding in Learned DNA Storage**|Cihan Ruan et.al.|[2602.06157](http://arxiv.org/abs/2602.06157)|null|

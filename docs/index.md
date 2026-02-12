@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design**|Prin Phunyaphibarn et.al.|[2602.09424](http://arxiv.org/abs/2602.09424)|null|
 |**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|null|
 |**2026-02-06**|**Clinical-Prior Guided Multi-Modal Learning with Latent Attention Pooling for Gait-Based Scoliosis Screening**|Dong Chen et.al.|[2602.06743](http://arxiv.org/abs/2602.06743)|null|
 |**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126](http://arxiv.org/abs/2602.03126)|null|
@@ -1304,6 +1305,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
+|**2026-02-09**|**Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception**|Nhat Le et.al.|[2602.09076](http://arxiv.org/abs/2602.09076)|null|
 |**2026-02-08**|**Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2602.07938](http://arxiv.org/abs/2602.07938)|null|
 |**2026-02-07**|**RAPiD: Real-time Deterministic Trajectory Planning via Diffusion Behavior Priors for Safe and Efficient Autonomous Driving**|Ruturaj Reddy et.al.|[2602.07339](http://arxiv.org/abs/2602.07339)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](http://arxiv.org/abs/2602.05638)|null|
@@ -4399,6 +4402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Beyond the Unit Hypersphere: Embedding Magnitude in Contrastive Learning**|Xincan Feng et.al.|[2602.09229](http://arxiv.org/abs/2602.09229)|null|
 |**2026-02-09**|**Discrete Bridges for Mutual Information Estimation**|Iryna Zabarianska et.al.|[2602.08894](http://arxiv.org/abs/2602.08894)|null|
 |**2026-02-09**|**Amortising Inference and Meta-Learning Priors in Neural Networks**|Tommy Rochussen et.al.|[2602.08782](http://arxiv.org/abs/2602.08782)|null|
 |**2026-02-09**|**Improved Conditional Logistic Regression using Information in Concordant Pairs with Software**|Jacob Tennenbaum et.al.|[2602.08212](http://arxiv.org/abs/2602.08212)|null|

@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation**|Jie Jiang et.al.|[2602.10699](http://arxiv.org/abs/2602.10699)|null|
+|**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
+|**2026-02-11**|**Driving Reaction Trajectories via Latent Flow Matching**|Yili Shen et.al.|[2602.10476](http://arxiv.org/abs/2602.10476)|null|
+|**2026-02-10**|**Flow Matching with Uncertainty Quantification and Guidance**|Juyeop Han et.al.|[2602.10326](http://arxiv.org/abs/2602.10326)|null|
 |**2026-02-10**|**Reward-Guided Discrete Diffusion via Clean-Sample Markov Chain for Molecule and Biological Sequence Design**|Prin Phunyaphibarn et.al.|[2602.09424](http://arxiv.org/abs/2602.09424)|null|
 |**2026-02-08**|**Picasso: Holistic Scene Reconstruction with Physics-Constrained Sampling**|Xihang Yu et.al.|[2602.08058](http://arxiv.org/abs/2602.08058)|null|
 |**2026-02-06**|**Clinical-Prior Guided Multi-Modal Learning with Latent Attention Pooling for Gait-Based Scoliosis Screening**|Dong Chen et.al.|[2602.06743](http://arxiv.org/abs/2602.06743)|null|
@@ -1305,6 +1309,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Trajectory-based data-driven predictive control and the state-space predictor**|Levi D. Reyes Premer et.al.|[2602.10936](http://arxiv.org/abs/2602.10936)|null|
+|**2026-02-11**|**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**|Jinqing Zhang et.al.|[2602.10884](http://arxiv.org/abs/2602.10884)|null|
+|**2026-02-11**|**Boundary-Aware Multi-Behavior Dynamic Graph Transformer for Sequential Recommendation**|Jingsong Su et.al.|[2602.10493](http://arxiv.org/abs/2602.10493)|null|
 |**2026-02-10**|**ST4VLA: Spatially Guided Training for Vision-Language-Action Models**|Jinhui Ye et.al.|[2602.10109](http://arxiv.org/abs/2602.10109)|null|
 |**2026-02-09**|**Legs Over Arms: On the Predictive Value of Lower-Body Pose for Human Trajectory Prediction from Egocentric Robot Perception**|Nhat Le et.al.|[2602.09076](http://arxiv.org/abs/2602.09076)|null|
 |**2026-02-08**|**Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2602.07938](http://arxiv.org/abs/2602.07938)|null|
@@ -3990,6 +3997,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**(MGS) $^2$ -Net: Unifying Micro-Geometric Scale and Macro-Geometric Structure for Cross-View Geo-Localization**|Minglei Li et.al.|[2602.10704](http://arxiv.org/abs/2602.10704)|null|
 |**2026-02-09**|**Graph-Loc: Robust Graph-Based LiDAR Pose Tracking with Compact Structural Map Priors under Low Observability and Occlusion**|Wentao Zhao et.al.|[2602.08417](http://arxiv.org/abs/2602.08417)|null|
 |**2026-02-06**|**Continuum Robot Localization using Distributed Time-of-Flight Sensors**|Spencer Teetaert et.al.|[2602.07209](http://arxiv.org/abs/2602.07209)|null|
 |**2026-02-05**|**Neural Implicit 3D Cardiac Shape Reconstruction from Sparse CT Angiography Slices Mimicking 2D Transthoracic Echocardiography Views**|Gino E. Jansen et.al.|[2602.05884](http://arxiv.org/abs/2602.05884)|null|

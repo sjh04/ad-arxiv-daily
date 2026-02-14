@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-11**|**Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation**|Jie Jiang et.al.|[2602.10699](http://arxiv.org/abs/2602.10699)|null|
+|**2026-02-12**|**Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation**|Jie Jiang et.al.|[2602.10699](http://arxiv.org/abs/2602.10699)|null|
 |**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
 |**2026-02-11**|**Driving Reaction Trajectories via Latent Flow Matching**|Yili Shen et.al.|[2602.10476](http://arxiv.org/abs/2602.10476)|null|
 |**2026-02-10**|**Flow Matching with Uncertainty Quantification and Guidance**|Juyeop Han et.al.|[2602.10326](http://arxiv.org/abs/2602.10326)|null|
@@ -1309,6 +1309,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video**|Mrinal Verghese et.al.|[2602.11393](http://arxiv.org/abs/2602.11393)|null|
 |**2026-02-11**|**Trajectory-based data-driven predictive control and the state-space predictor**|Levi D. Reyes Premer et.al.|[2602.10936](http://arxiv.org/abs/2602.10936)|null|
 |**2026-02-11**|**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**|Jinqing Zhang et.al.|[2602.10884](http://arxiv.org/abs/2602.10884)|null|
 |**2026-02-11**|**Boundary-Aware Multi-Behavior Dynamic Graph Transformer for Sequential Recommendation**|Jingsong Su et.al.|[2602.10493](http://arxiv.org/abs/2602.10493)|null|
@@ -3997,6 +3998,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Efficient Segment Anything with Depth-Aware Fusion and Limited Training Data**|Yiming Zhou et.al.|[2602.11804](http://arxiv.org/abs/2602.11804)|null|
+|**2026-02-12**|**Electrostatics-Inspired Surface Reconstruction (EISR): Recovering 3D Shapes as a Superposition of Poisson's PDE Solutions**|Diego Patiño et.al.|[2602.11642](http://arxiv.org/abs/2602.11642)|null|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](http://arxiv.org/abs/2602.11323)|null|
 |**2026-02-11**|**(MGS) $^2$ -Net: Unifying Micro-Geometric Scale and Macro-Geometric Structure for Cross-View Geo-Localization**|Minglei Li et.al.|[2602.10704](http://arxiv.org/abs/2602.10704)|null|
 |**2026-02-09**|**Graph-Loc: Robust Graph-Based LiDAR Pose Tracking with Compact Structural Map Priors under Low Observability and Occlusion**|Wentao Zhao et.al.|[2602.08417](http://arxiv.org/abs/2602.08417)|null|
 |**2026-02-06**|**Continuum Robot Localization using Distributed Time-of-Flight Sensors**|Spencer Teetaert et.al.|[2602.07209](http://arxiv.org/abs/2602.07209)|null|

@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Continuous Diffusion Models Can Obey Formal Syntax**|Jinwoo Kim et.al.|[2602.12468](http://arxiv.org/abs/2602.12468)|null|
 |**2026-02-12**|**Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation**|Jie Jiang et.al.|[2602.10699](http://arxiv.org/abs/2602.10699)|null|
 |**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
 |**2026-02-11**|**Driving Reaction Trajectories via Latent Flow Matching**|Yili Shen et.al.|[2602.10476](http://arxiv.org/abs/2602.10476)|null|
@@ -20,7 +21,7 @@ layout: default
 |**2026-02-02**|**Manifold-Constrained Energy-Based Transition Models for Offline Reinforcement Learning**|Zeyu Fang et.al.|[2602.02900](http://arxiv.org/abs/2602.02900)|null|
 |**2026-02-02**|**Cost-Aware Bayesian Optimization for Prototyping Interactive Devices**|Thomas Langerak et.al.|[2602.01774](http://arxiv.org/abs/2602.01774)|null|
 |**2026-02-02**|**Finite and Corruption-Robust Regret Bounds in Online Inverse Linear Optimization under M-Convex Action Sets**|Taihei Oki et.al.|[2602.01682](http://arxiv.org/abs/2602.01682)|null|
-|**2026-01-31**|**Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization**|Jatan Shrestha et.al.|[2602.00737](http://arxiv.org/abs/2602.00737)|null|
+|**2026-02-13**|**Pareto-Conditioned Diffusion Models for Offline Multi-Objective Optimization**|Jatan Shrestha et.al.|[2602.00737](http://arxiv.org/abs/2602.00737)|null|
 |**2026-01-31**|**Small Shifts, Large Gains: Unlocking Traditional TSP Heuristic Guided-Sampling via Unsupervised Neural Instance Modification**|Wei Huang et.al.|[2602.00580](http://arxiv.org/abs/2602.00580)|null|
 |**2026-01-29**|**Influence Guided Sampling for Domain Adaptation of Text Retrievers**|Meet Doshi et.al.|[2601.21759](http://arxiv.org/abs/2601.21759)|null|
 |**2026-01-28**|**PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments**|Zhuang Chen et.al.|[2601.20330](http://arxiv.org/abs/2601.20330)|null|
@@ -1309,6 +1310,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Eva-Tracker: ESDF-update-free, Visibility-aware Planning with Target Reacquisition for Robust Aerial Tracking**|Yue Lin et.al.|[2602.12549](http://arxiv.org/abs/2602.12549)|null|
 |**2026-02-11**|**Human Preference Modeling Using Visual Motion Prediction Improves Robot Skill Learning from Egocentric Human Video**|Mrinal Verghese et.al.|[2602.11393](http://arxiv.org/abs/2602.11393)|null|
 |**2026-02-11**|**Trajectory-based data-driven predictive control and the state-space predictor**|Levi D. Reyes Premer et.al.|[2602.10936](http://arxiv.org/abs/2602.10936)|null|
 |**2026-02-11**|**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**|Jinqing Zhang et.al.|[2602.10884](http://arxiv.org/abs/2602.10884)|null|
@@ -4414,10 +4416,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**Neural Evolutionary Kernel Method: A Knowledge-Guided Framework for Solving Evolutionary PDEs**|Shuo Ling et.al.|[2602.12872](http://arxiv.org/abs/2602.12872)|null|
+|**2026-02-13**|**RAT-Bench: A Comprehensive Benchmark for Text Anonymization**|Nataša Krčo et.al.|[2602.12806](http://arxiv.org/abs/2602.12806)|null|
 |**2026-02-09**|**Beyond the Unit Hypersphere: Embedding Magnitude in Contrastive Learning**|Xincan Feng et.al.|[2602.09229](http://arxiv.org/abs/2602.09229)|null|
 |**2026-02-09**|**Discrete Bridges for Mutual Information Estimation**|Iryna Zabarianska et.al.|[2602.08894](http://arxiv.org/abs/2602.08894)|null|
 |**2026-02-09**|**Amortising Inference and Meta-Learning Priors in Neural Networks**|Tommy Rochussen et.al.|[2602.08782](http://arxiv.org/abs/2602.08782)|null|
-|**2026-02-09**|**Improved Conditional Logistic Regression using Information in Concordant Pairs with Software**|Jacob Tennenbaum et.al.|[2602.08212](http://arxiv.org/abs/2602.08212)|null|
+|**2026-02-13**|**Improved Conditional Logistic Regression using Information in Concordant Pairs with Software**|Jacob Tennenbaum et.al.|[2602.08212](http://arxiv.org/abs/2602.08212)|null|
 |**2026-02-07**|**HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology**|Yixin Chen et.al.|[2602.07608](http://arxiv.org/abs/2602.07608)|null|
 |**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
 |**2026-02-06**|**Multiple timescales in collective motion: daily and intraday upstream fish migration focusing on Feller condition**|Hidekazu Yoshioka et.al.|[2602.06606](http://arxiv.org/abs/2602.06606)|null|

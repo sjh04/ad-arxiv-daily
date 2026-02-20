@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -4424,6 +4424,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
 |**2026-02-13**|**Neural Evolutionary Kernel Method: A Knowledge-Guided Framework for Solving Evolutionary PDEs**|Shuo Ling et.al.|[2602.12872](http://arxiv.org/abs/2602.12872)|null|
 |**2026-02-13**|**RAT-Bench: A Comprehensive Benchmark for Text Anonymization**|Nataša Krčo et.al.|[2602.12806](http://arxiv.org/abs/2602.12806)|null|
 |**2026-02-09**|**Beyond the Unit Hypersphere: Embedding Magnitude in Contrastive Learning**|Xincan Feng et.al.|[2602.09229](http://arxiv.org/abs/2602.09229)|null|

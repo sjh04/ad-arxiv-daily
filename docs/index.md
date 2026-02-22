@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.21
+## Updated on 2026.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1311,6 +1311,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**HiMAP: History-aware Map-occupancy Prediction with Fallback**|Yiming Xu et.al.|[2602.17231](http://arxiv.org/abs/2602.17231)|null|
 |**2026-02-17**|**SpecFuse: A Spectral-Temporal Fusion Predictive Control Framework for UAV Landing on Oscillating Marine Platforms**|Haichao Liu et.al.|[2602.15633](http://arxiv.org/abs/2602.15633)|null|
 |**2026-02-16**|**ROSA: Roundabout Optimized Speed Advisory with Multi-Agent Trajectory Prediction in Multimodal Traffic**|Anna-Lena Schlamp et.al.|[2602.14780](http://arxiv.org/abs/2602.14780)|null|
 |**2026-02-16**|**Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks**|Lukas Struppek et.al.|[2602.14689](http://arxiv.org/abs/2602.14689)|null|
@@ -4007,6 +4008,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
+|**2026-02-18**|**A Residual-Aware Theory of Position Bias in Transformers**|Hanna Herasimchyk et.al.|[2602.16837](http://arxiv.org/abs/2602.16837)|null|
 |**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
 |**2026-02-12**|**Efficient Segment Anything with Depth-Aware Fusion and Limited Training Data**|Yiming Zhou et.al.|[2602.11804](http://arxiv.org/abs/2602.11804)|null|
 |**2026-02-12**|**Electrostatics-Inspired Surface Reconstruction (EISR): Recovering 3D Shapes as a Superposition of Poisson's PDE Solutions**|Diego Patiño et.al.|[2602.11642](http://arxiv.org/abs/2602.11642)|null|
@@ -4424,6 +4427,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Variational Grey-Box Dynamics Matching**|Gurjeet Sangra Singh et.al.|[2602.17477](http://arxiv.org/abs/2602.17477)|null|
+|**2026-02-19**|**PartRAG: Retrieval-Augmented Part-Level 3D Generation and Editing**|Peize Li et.al.|[2602.17033](http://arxiv.org/abs/2602.17033)|null|
+|**2026-02-18**|**Fast pre-merger detection of massive black-hole binaries in LISA based on time-frequency excess power**|Francesco Nobili et.al.|[2602.16792](http://arxiv.org/abs/2602.16792)|null|
 |**2026-02-18**|**Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge**|Jiaming Liu et.al.|[2602.16664](http://arxiv.org/abs/2602.16664)|null|
 |**2026-02-13**|**Neural Evolutionary Kernel Method: A Knowledge-Guided Framework for Solving Evolutionary PDEs**|Shuo Ling et.al.|[2602.12872](http://arxiv.org/abs/2602.12872)|null|
 |**2026-02-13**|**RAT-Bench: A Comprehensive Benchmark for Text Anonymization**|Nataša Krčo et.al.|[2602.12806](http://arxiv.org/abs/2602.12806)|null|

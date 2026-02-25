@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
+|**2026-02-21**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
 |**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
 |**2026-02-17**|**Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation**|Xikai Yang et.al.|[2602.15359](http://arxiv.org/abs/2602.15359)|null|
 |**2026-02-12**|**Continuous Diffusion Models Can Obey Formal Syntax**|Jinwoo Kim et.al.|[2602.12468](http://arxiv.org/abs/2602.12468)|null|
@@ -1312,6 +1314,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation**|Kun Yang et.al.|[2602.20093](http://arxiv.org/abs/2602.20093)|null|
+|**2026-02-23**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
+|**2026-02-21**|**Learning to Localize Reference Trajectories in Image-Space for Visual Navigation**|Finn Lukas Busch et.al.|[2602.18803](http://arxiv.org/abs/2602.18803)|null|
 |**2026-02-20**|**Homotopic information gain for sparse active target tracking**|Jennifer Wakulicz et.al.|[2602.17926](http://arxiv.org/abs/2602.17926)|null|
 |**2026-02-19**|**Hybrid ABBA-GMRES for Unmatched Backprojectors in Large Scale X-Ray Computerized Tomography**|Ryan Bentley et.al.|[2602.17892](http://arxiv.org/abs/2602.17892)|null|
 |**2026-02-19**|**HiMAP: History-aware Map-occupancy Prediction with Fallback**|Yiming Xu et.al.|[2602.17231](http://arxiv.org/abs/2602.17231)|null|
@@ -4011,6 +4016,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Latent Introspection: Models Can Detect Prior Concept Injections**|Theia Pearson-Vogel et.al.|[2602.20031](http://arxiv.org/abs/2602.20031)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-18**|**A Residual-Aware Theory of Position Bias in Transformers**|Hanna Herasimchyk et.al.|[2602.16837](http://arxiv.org/abs/2602.16837)|null|
 |**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
@@ -4430,6 +4436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-21**|**Bayesian calendar-time survival analysis with epidemic curve priors and variant-specific infection hazards**|Angela M Dahl et.al.|[2602.18677](http://arxiv.org/abs/2602.18677)|null|
 |**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
 |**2026-02-20**|**Hybrid Non-informative and Informative Prior Model-assisted Designs for Mid-trial Dose Insertion**|Kana Yamada et.al.|[2602.17995](http://arxiv.org/abs/2602.17995)|null|
 |**2026-02-19**|**Neural Prior Estimation: Learning Class Priors from Latent Representations**|Masoud Yavari et.al.|[2602.17853](http://arxiv.org/abs/2602.17853)|null|

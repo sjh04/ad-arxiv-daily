@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1314,8 +1314,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2602.20923](http://arxiv.org/abs/2602.20923)|null|
+|**2026-02-24**|**VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**|Jie Wang et.al.|[2602.20794](http://arxiv.org/abs/2602.20794)|null|
+|**2026-02-23**|**MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning**|Wall Kim et.al.|[2602.20223](http://arxiv.org/abs/2602.20223)|null|
 |**2026-02-23**|**ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation**|Kun Yang et.al.|[2602.20093](http://arxiv.org/abs/2602.20093)|null|
-|**2026-02-23**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
+|**2026-02-24**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
 |**2026-02-21**|**Learning to Localize Reference Trajectories in Image-Space for Visual Navigation**|Finn Lukas Busch et.al.|[2602.18803](http://arxiv.org/abs/2602.18803)|null|
 |**2026-02-20**|**Homotopic information gain for sparse active target tracking**|Jennifer Wakulicz et.al.|[2602.17926](http://arxiv.org/abs/2602.17926)|null|
 |**2026-02-19**|**Hybrid ABBA-GMRES for Unmatched Backprojectors in Large Scale X-Ray Computerized Tomography**|Ryan Bentley et.al.|[2602.17892](http://arxiv.org/abs/2602.17892)|null|
@@ -4016,6 +4019,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity**|Juil Koo et.al.|[2602.20666](http://arxiv.org/abs/2602.20666)|null|
+|**2026-02-24**|**Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching**|Jintu Zheng et.al.|[2602.20496](http://arxiv.org/abs/2602.20496)|null|
 |**2026-02-23**|**Latent Introspection: Models Can Detect Prior Concept Injections**|Theia Pearson-Vogel et.al.|[2602.20031](http://arxiv.org/abs/2602.20031)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-18**|**A Residual-Aware Theory of Position Bias in Transformers**|Hanna Herasimchyk et.al.|[2602.16837](http://arxiv.org/abs/2602.16837)|null|
@@ -4436,6 +4441,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**Using Prior Studies to Design Experiments: An Empirical Bayes Approach**|Zhiheng You et.al.|[2602.20581](http://arxiv.org/abs/2602.20581)|null|
+|**2026-02-24**|**PhyGHT: Physics-Guided HyperGraph Transformer for Signal Purification at the HL-LHC**|Mohammed Rakib et.al.|[2602.20475](http://arxiv.org/abs/2602.20475)|null|
+|**2026-02-23**|**DMCD: Semantic-Statistical Framework for Causal Discovery**|Samarth KaPatel et.al.|[2602.20333](http://arxiv.org/abs/2602.20333)|null|
+|**2026-02-22**|**Global Prior Meets Local Consistency: Dual-Memory Augmented Vision-Language-Action Model for Efficient Robotic Manipulation**|Zaijing Li et.al.|[2602.20200](http://arxiv.org/abs/2602.20200)|null|
 |**2026-02-21**|**Bayesian calendar-time survival analysis with epidemic curve priors and variant-specific infection hazards**|Angela M Dahl et.al.|[2602.18677](http://arxiv.org/abs/2602.18677)|null|
 |**2026-02-20**|**Rethinking Flow and Diffusion Bridge Models for Speech Enhancement**|Dahan Wang et.al.|[2602.18355](http://arxiv.org/abs/2602.18355)|null|
 |**2026-02-20**|**Hybrid Non-informative and Informative Prior Model-assisted Designs for Mid-trial Dose Insertion**|Kana Yamada et.al.|[2602.17995](http://arxiv.org/abs/2602.17995)|null|

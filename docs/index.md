@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1314,9 +1314,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
+|**2026-02-25**|**Bridging Through Absence: How Comeback Researchers Bridge Knowledge Gaps Through Structural Re-emergence**|Somyajit Chakraborty et.al.|[2602.21926](http://arxiv.org/abs/2602.21926)|null|
+|**2026-02-24**|**Uncertainty-Aware Diffusion Model for Multimodal Highway Trajectory Prediction via DDIM Sampling**|Marion Neumeier et.al.|[2602.21319](http://arxiv.org/abs/2602.21319)|null|
 |**2026-02-24**|**ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models**|Jiarong Wei et.al.|[2602.20923](http://arxiv.org/abs/2602.20923)|null|
 |**2026-02-24**|**VGGDrive: Empowering Vision-Language Models with Cross-View Geometric Grounding for Autonomous Driving**|Jie Wang et.al.|[2602.20794](http://arxiv.org/abs/2602.20794)|null|
-|**2026-02-23**|**MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning**|Wall Kim et.al.|[2602.20223](http://arxiv.org/abs/2602.20223)|null|
+|**2026-02-25**|**MultiModalPFN: Extending Prior-Data Fitted Networks for Multimodal Tabular Learning**|Wall Kim et.al.|[2602.20223](http://arxiv.org/abs/2602.20223)|null|
 |**2026-02-23**|**ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation**|Kun Yang et.al.|[2602.20093](http://arxiv.org/abs/2602.20093)|null|
 |**2026-02-24**|**TraceVision: Trajectory-Aware Vision-Language Model for Human-Like Spatial Understanding**|Fan Yang et.al.|[2602.19768](http://arxiv.org/abs/2602.19768)|null|
 |**2026-02-21**|**Learning to Localize Reference Trajectories in Image-Space for Visual Navigation**|Finn Lukas Busch et.al.|[2602.18803](http://arxiv.org/abs/2602.18803)|null|
@@ -4019,6 +4022,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**The accretion discs in WZ Sge-type stars in deep quiescence. How do they outburst?**|Vitaly Neustroev et.al.|[2602.21850](http://arxiv.org/abs/2602.21850)|null|
+|**2026-02-25**|**Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction**|Changqing Zhou et.al.|[2602.21552](http://arxiv.org/abs/2602.21552)|null|
 |**2026-02-24**|**BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity**|Juil Koo et.al.|[2602.20666](http://arxiv.org/abs/2602.20666)|null|
 |**2026-02-24**|**Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching**|Jintu Zheng et.al.|[2602.20496](http://arxiv.org/abs/2602.20496)|null|
 |**2026-02-23**|**Latent Introspection: Models Can Detect Prior Concept Injections**|Theia Pearson-Vogel et.al.|[2602.20031](http://arxiv.org/abs/2602.20031)|null|
@@ -4441,6 +4446,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|
+|**2026-02-25**|**D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching**|Meet Hemant Parikh et.al.|[2602.21469](http://arxiv.org/abs/2602.21469)|null|
 |**2026-02-24**|**Using Prior Studies to Design Experiments: An Empirical Bayes Approach**|Zhiheng You et.al.|[2602.20581](http://arxiv.org/abs/2602.20581)|null|
 |**2026-02-24**|**PhyGHT: Physics-Guided HyperGraph Transformer for Signal Purification at the HL-LHC**|Mohammed Rakib et.al.|[2602.20475](http://arxiv.org/abs/2602.20475)|null|
 |**2026-02-23**|**DMCD: Semantic-Statistical Framework for Causal Discovery**|Samarth KaPatel et.al.|[2602.20333](http://arxiv.org/abs/2602.20333)|null|

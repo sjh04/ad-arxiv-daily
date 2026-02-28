@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.27
+## Updated on 2026.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1314,6 +1314,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Robust Human Trajectory Prediction via Self-Supervised Skeleton Representation Learning**|Taishu Arashima et.al.|[2602.22791](http://arxiv.org/abs/2602.22791)|null|
 |**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**Bridging Through Absence: How Comeback Researchers Bridge Knowledge Gaps Through Structural Re-emergence**|Somyajit Chakraborty et.al.|[2602.21926](http://arxiv.org/abs/2602.21926)|null|
 |**2026-02-24**|**Uncertainty-Aware Diffusion Model for Multimodal Highway Trajectory Prediction via DDIM Sampling**|Marion Neumeier et.al.|[2602.21319](http://arxiv.org/abs/2602.21319)|null|
@@ -4026,7 +4027,7 @@ layout: default
 |**2026-02-25**|**Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction**|Changqing Zhou et.al.|[2602.21552](http://arxiv.org/abs/2602.21552)|null|
 |**2026-02-24**|**BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity**|Juil Koo et.al.|[2602.20666](http://arxiv.org/abs/2602.20666)|null|
 |**2026-02-24**|**Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching**|Jintu Zheng et.al.|[2602.20496](http://arxiv.org/abs/2602.20496)|null|
-|**2026-02-23**|**Latent Introspection: Models Can Detect Prior Concept Injections**|Theia Pearson-Vogel et.al.|[2602.20031](http://arxiv.org/abs/2602.20031)|null|
+|**2026-02-26**|**Latent Introspection: Models Can Detect Prior Concept Injections**|Theia Pearson-Vogel et.al.|[2602.20031](http://arxiv.org/abs/2602.20031)|null|
 |**2026-02-19**|**4D Monocular Surgical Reconstruction under Arbitrary Camera Motions**|Jiwei Shan et.al.|[2602.17473](http://arxiv.org/abs/2602.17473)|null|
 |**2026-02-18**|**A Residual-Aware Theory of Position Bias in Transformers**|Hanna Herasimchyk et.al.|[2602.16837](http://arxiv.org/abs/2602.16837)|null|
 |**2026-02-17**|**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**|Manav Nitin Kapadnis et.al.|[2602.15758](http://arxiv.org/abs/2602.15758)|null|
@@ -4446,6 +4447,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation**|Ruochen Yang et.al.|[2602.23132](http://arxiv.org/abs/2602.23132)|null|
 |**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|
 |**2026-02-25**|**D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching**|Meet Hemant Parikh et.al.|[2602.21469](http://arxiv.org/abs/2602.21469)|null|
 |**2026-02-24**|**Using Prior Studies to Design Experiments: An Empirical Bayes Approach**|Zhiheng You et.al.|[2602.20581](http://arxiv.org/abs/2602.20581)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -4023,6 +4023,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
 |**2026-02-25**|**The accretion discs in WZ Sge-type stars in deep quiescence. How do they outburst?**|Vitaly Neustroev et.al.|[2602.21850](http://arxiv.org/abs/2602.21850)|null|
 |**2026-02-25**|**Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction**|Changqing Zhou et.al.|[2602.21552](http://arxiv.org/abs/2602.21552)|null|
 |**2026-02-24**|**BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity**|Juil Koo et.al.|[2602.20666](http://arxiv.org/abs/2602.20666)|null|
@@ -4447,6 +4448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|
 |**2026-02-26**|**From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation**|Ruochen Yang et.al.|[2602.23132](http://arxiv.org/abs/2602.23132)|null|
 |**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|
 |**2026-02-25**|**D-Flow SGLD: Source-Space Posterior Sampling for Scientific Inverse Problems with Flow Matching**|Meet Hemant Parikh et.al.|[2602.21469](http://arxiv.org/abs/2602.21469)|null|

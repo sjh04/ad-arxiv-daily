@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](http://arxiv.org/abs/2603.02012)|null|
+|**2026-03-02**|**Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes**|Hongkun Dou et.al.|[2603.01837](http://arxiv.org/abs/2603.01837)|null|
+|**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
+|**2026-03-01**|**Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models**|Francesco Brandolin et.al.|[2603.01231](http://arxiv.org/abs/2603.01231)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
 |**2026-02-21**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
 |**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
@@ -1314,6 +1318,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Event-Only Drone Trajectory Forecasting with RPM-Modulated Kalman Filtering**|Hari Prasanth S. M. et.al.|[2603.01997](http://arxiv.org/abs/2603.01997)|null|
+|**2026-03-02**|**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**|Alexander Prutsch et.al.|[2603.01864](http://arxiv.org/abs/2603.01864)|null|
+|**2026-03-01**|**FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration**|Yizhou Huang et.al.|[2603.01284](http://arxiv.org/abs/2603.01284)|null|
+|**2026-03-01**|**DriveCode: Domain Specific Numerical Encoding for LLM-Based Autonomous Driving**|Zhiye Wang et.al.|[2603.00919](http://arxiv.org/abs/2603.00919)|null|
 |**2026-02-26**|**Robust Human Trajectory Prediction via Self-Supervised Skeleton Representation Learning**|Taishu Arashima et.al.|[2602.22791](http://arxiv.org/abs/2602.22791)|null|
 |**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](http://arxiv.org/abs/2602.22091)|null|
 |**2026-02-25**|**Bridging Through Absence: How Comeback Researchers Bridge Knowledge Gaps Through Structural Re-emergence**|Somyajit Chakraborty et.al.|[2602.21926](http://arxiv.org/abs/2602.21926)|null|
@@ -4023,6 +4031,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**|Austin Stone et.al.|[2603.02114](http://arxiv.org/abs/2603.02114)|null|
+|**2026-03-02**|**PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts**|Xianqi Wang et.al.|[2603.01650](http://arxiv.org/abs/2603.01650)|null|
 |**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
 |**2026-02-25**|**The accretion discs in WZ Sge-type stars in deep quiescence. How do they outburst?**|Vitaly Neustroev et.al.|[2602.21850](http://arxiv.org/abs/2602.21850)|null|
 |**2026-02-25**|**Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction**|Changqing Zhou et.al.|[2602.21552](http://arxiv.org/abs/2602.21552)|null|
@@ -4448,6 +4458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Surgical Post-Training: Cutting Errors, Keeping Knowledge**|Wenye Lin et.al.|[2603.01683](http://arxiv.org/abs/2603.01683)|null|
+|**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|null|
 |**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|
 |**2026-02-26**|**From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation**|Ruochen Yang et.al.|[2602.23132](http://arxiv.org/abs/2602.23132)|null|
 |**2026-02-25**|**Function-Space Empirical Bayes Regularisation with Student's t Priors**|Pengcheng Hao et.al.|[2602.22015](http://arxiv.org/abs/2602.22015)|null|

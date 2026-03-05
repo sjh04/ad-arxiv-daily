@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**ReCo-Diff: Residual-Conditioned Deterministic Sampling for Cold Diffusion in Sparse-View CT**|Yong Eun Choi et.al.|[2603.02691](http://arxiv.org/abs/2603.02691)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](http://arxiv.org/abs/2603.02012)|null|
 |**2026-03-02**|**Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes**|Hongkun Dou et.al.|[2603.01837](http://arxiv.org/abs/2603.01837)|null|
 |**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
@@ -1318,6 +1319,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Data-Driven Prediction of Chaotic Transition in Periapsis Poincaré Maps**|Shanshan Pan et.al.|[2603.02940](http://arxiv.org/abs/2603.02940)|null|
+|**2026-03-03**|**ShipTraj-R1: Reinforcing Ship Trajectory Prediction in Large Language Models via Group Relative Policy Optimization**|Yang Zhan et.al.|[2603.02939](http://arxiv.org/abs/2603.02939)|null|
 |**2026-03-02**|**Event-Only Drone Trajectory Forecasting with RPM-Modulated Kalman Filtering**|Hari Prasanth S. M. et.al.|[2603.01997](http://arxiv.org/abs/2603.01997)|null|
 |**2026-03-02**|**Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling**|Alexander Prutsch et.al.|[2603.01864](http://arxiv.org/abs/2603.01864)|null|
 |**2026-03-01**|**FoSS: Modeling Long Range Dependencies and Multimodal Uncertainty in Trajectory Prediction via Fourier State Space Integration**|Yizhou Huang et.al.|[2603.01284](http://arxiv.org/abs/2603.01284)|null|
@@ -4031,8 +4034,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[2603.03026](http://arxiv.org/abs/2603.03026)|null|
+|**2026-03-03**|**Harmonic Beltrami Signature Network: a Shape Prior Module in Deep Learning Framework**|Chenran Lin et.al.|[2603.02907](http://arxiv.org/abs/2603.02907)|null|
 |**2026-03-02**|**Real-Time Thermal-Inertial Odometry on Embedded Hardware for High-Speed GPS-Denied Flight**|Austin Stone et.al.|[2603.02114](http://arxiv.org/abs/2603.02114)|null|
-|**2026-03-02**|**PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts**|Xianqi Wang et.al.|[2603.01650](http://arxiv.org/abs/2603.01650)|null|
+|**2026-03-03**|**PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts**|Xianqi Wang et.al.|[2603.01650](http://arxiv.org/abs/2603.01650)|null|
 |**2026-02-27**|**Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates**|Yingxuan You et.al.|[2602.24043](http://arxiv.org/abs/2602.24043)|null|
 |**2026-02-25**|**The accretion discs in WZ Sge-type stars in deep quiescence. How do they outburst?**|Vitaly Neustroev et.al.|[2602.21850](http://arxiv.org/abs/2602.21850)|null|
 |**2026-02-25**|**Generalizing Visual Geometry Priors to Sparse Gaussian Occupancy Prediction**|Changqing Zhou et.al.|[2602.21552](http://arxiv.org/abs/2602.21552)|null|
@@ -4458,6 +4463,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity**|Shogo Noguchi et.al.|[2603.03190](http://arxiv.org/abs/2603.03190)|null|
+|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Surgical Post-Training: Cutting Errors, Keeping Knowledge**|Wenye Lin et.al.|[2603.01683](http://arxiv.org/abs/2603.01683)|null|
 |**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|null|
 |**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|

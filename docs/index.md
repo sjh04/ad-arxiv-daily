@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1322,6 +1322,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**TaPD: Temporal-adaptive Progressive Distillation for Observation-Adaptive Trajectory Forecasting in Autonomous Driving**|Mingyu Fan et.al.|[2603.06231](http://arxiv.org/abs/2603.06231)|null|
+|**2026-03-04**|**Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections**|Kuo-Yi Chao et.al.|[2603.05546](http://arxiv.org/abs/2603.05546)|null|
 |**2026-03-05**|**U-OBCA: Uncertainty-Aware Optimization-Based Collision Avoidance via Wasserstein Distributionally Robust Chance Constraints**|Zehao Wang et.al.|[2603.04914](http://arxiv.org/abs/2603.04914)|null|
 |**2026-03-05**|**Selecting Spots by Explicitly Predicting Intention from Motion History Improves Performance in Autonomous Parking**|Long Kiu Chung et.al.|[2603.04695](http://arxiv.org/abs/2603.04695)|null|
 |**2026-03-04**|**Towards Explainable Deep Learning for Ship Trajectory Prediction in Inland Waterways**|Tom Legel et.al.|[2603.04472](http://arxiv.org/abs/2603.04472)|null|
@@ -4471,10 +4473,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Any to Full: Prompting Depth Anything for Depth Completion in One Stage**|Zhiyuan Zhou et.al.|[2603.05711](http://arxiv.org/abs/2603.05711)|null|
 |**2026-03-04**|**Oracle-efficient Hybrid Learning with Constrained Adversaries**|Princewill Okoroafor et.al.|[2603.04546](http://arxiv.org/abs/2603.04546)|null|
 |**2026-03-04**|**Universal Pansharpening Foundation Model**|Hebaixu Wang et.al.|[2603.03831](http://arxiv.org/abs/2603.03831)|null|
 |**2026-03-03**|**Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity**|Shogo Noguchi et.al.|[2603.03190](http://arxiv.org/abs/2603.03190)|null|
-|**2026-03-02**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
+|**2026-03-06**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Surgical Post-Training: Cutting Errors, Keeping Knowledge**|Wenye Lin et.al.|[2603.01683](http://arxiv.org/abs/2603.01683)|null|
 |**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|null|
 |**2026-02-27**|**Spin stiffness and resilience phase transition in a noisy toric-rotor code**|Morteza Zarei et.al.|[2602.23751](http://arxiv.org/abs/2602.23751)|null|

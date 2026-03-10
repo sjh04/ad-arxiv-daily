@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -18,7 +18,7 @@ layout: default
 |**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
 |**2026-03-01**|**Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models**|Francesco Brandolin et.al.|[2603.01231](http://arxiv.org/abs/2603.01231)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
-|**2026-02-21**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
+|**2026-03-06**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
 |**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
 |**2026-02-17**|**Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation**|Xikai Yang et.al.|[2602.15359](http://arxiv.org/abs/2602.15359)|null|
 |**2026-02-12**|**Continuous Diffusion Models Can Obey Formal Syntax**|Jinwoo Kim et.al.|[2602.12468](http://arxiv.org/abs/2602.12468)|null|
@@ -1322,6 +1322,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](http://arxiv.org/abs/2603.07338)|null|
+|**2026-03-07**|**Towards Scalable Probabilistic Human Motion Prediction with Gaussian Processes for Safe Human-Robot Collaboration**|Jinger Chong et.al.|[2603.07096](http://arxiv.org/abs/2603.07096)|null|
+|**2026-03-06**|**A prior information informed learning architecture for flying trajectory prediction**|Xianda Huang et.al.|[2603.06863](http://arxiv.org/abs/2603.06863)|null|
 |**2026-03-06**|**TaPD: Temporal-adaptive Progressive Distillation for Observation-Adaptive Trajectory Forecasting in Autonomous Driving**|Mingyu Fan et.al.|[2603.06231](http://arxiv.org/abs/2603.06231)|null|
 |**2026-03-04**|**Digital-Twin Losses for Lane-Compliant Trajectory Prediction at Urban Intersections**|Kuo-Yi Chao et.al.|[2603.05546](http://arxiv.org/abs/2603.05546)|null|
 |**2026-03-05**|**U-OBCA: Uncertainty-Aware Optimization-Based Collision Avoidance via Wasserstein Distributionally Robust Chance Constraints**|Zehao Wang et.al.|[2603.04914](http://arxiv.org/abs/2603.04914)|null|
@@ -4473,6 +4476,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression**|Haoxuan Xiong et.al.|[2603.06766](http://arxiv.org/abs/2603.06766)|null|
+|**2026-03-06**|**EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track**|Zhenyuan Chen et.al.|[2603.06753](http://arxiv.org/abs/2603.06753)|null|
 |**2026-03-05**|**Any to Full: Prompting Depth Anything for Depth Completion in One Stage**|Zhiyuan Zhou et.al.|[2603.05711](http://arxiv.org/abs/2603.05711)|null|
 |**2026-03-04**|**Oracle-efficient Hybrid Learning with Constrained Adversaries**|Princewill Okoroafor et.al.|[2603.04546](http://arxiv.org/abs/2603.04546)|null|
 |**2026-03-04**|**Universal Pansharpening Foundation Model**|Hebaixu Wang et.al.|[2603.03831](http://arxiv.org/abs/2603.03831)|null|

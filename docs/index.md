@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1322,6 +1322,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**MetaDAT: Generalizable Trajectory Prediction via Meta Pre-training and Data-Adaptive Test-Time Updating**|Yuning Wang et.al.|[2603.09419](http://arxiv.org/abs/2603.09419)|null|
+|**2026-03-09**|**Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking**|Xian Wu et.al.|[2603.08199](http://arxiv.org/abs/2603.08199)|null|
 |**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](http://arxiv.org/abs/2603.07338)|null|
 |**2026-03-07**|**Towards Scalable Probabilistic Human Motion Prediction with Gaussian Processes for Safe Human-Robot Collaboration**|Jinger Chong et.al.|[2603.07096](http://arxiv.org/abs/2603.07096)|null|
 |**2026-03-06**|**A prior information informed learning architecture for flying trajectory prediction**|Xianda Huang et.al.|[2603.06863](http://arxiv.org/abs/2603.06863)|null|
@@ -4046,6 +4048,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](http://arxiv.org/abs/2603.08611)|null|
+|**2026-03-09**|**Edged USLAM: Edge-Aware Event-Based SLAM with Learning-Based Depth Priors**|Şebnem Sarıözkan et.al.|[2603.08150](http://arxiv.org/abs/2603.08150)|null|
 |**2026-03-05**|**On the Necessity of Learnable Sheaf Laplacians**|Ferran Hernandez Caralt et.al.|[2603.05395](http://arxiv.org/abs/2603.05395)|null|
 |**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[2603.03026](http://arxiv.org/abs/2603.03026)|null|
 |**2026-03-03**|**Harmonic Beltrami Signature Network: a Shape Prior Module in Deep Learning Framework**|Chenran Lin et.al.|[2603.02907](http://arxiv.org/abs/2603.02907)|null|
@@ -4476,6 +4480,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams**|Piyush Gupta et.al.|[2603.08814](http://arxiv.org/abs/2603.08814)|null|
+|**2026-03-09**|**An objective non-local prior for skew-symmetric models**|F. J. Rubio et.al.|[2603.08285](http://arxiv.org/abs/2603.08285)|null|
+|**2026-03-08**|**Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation**|Junkun Jiang et.al.|[2603.07697](http://arxiv.org/abs/2603.07697)|null|
 |**2026-03-06**|**HiDE: Hierarchical Dictionary-Based Entropy Modeling for Learned Image Compression**|Haoxuan Xiong et.al.|[2603.06766](http://arxiv.org/abs/2603.06766)|null|
 |**2026-03-06**|**EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track**|Zhenyuan Chen et.al.|[2603.06753](http://arxiv.org/abs/2603.06753)|null|
 |**2026-03-05**|**Any to Full: Prompting Depth Anything for Depth Completion in One Stage**|Zhiyuan Zhou et.al.|[2603.05711](http://arxiv.org/abs/2603.05711)|null|
@@ -4605,6 +4612,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-08**|**PARSE: Part-Aware Relational Spatial Modeling**|Yinuo Bai et.al.|[2603.07704](http://arxiv.org/abs/2603.07704)|null|
+|**2026-03-08**|**DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding**|Yuchuan Wu et.al.|[2603.07494](http://arxiv.org/abs/2603.07494)|null|
 |**2026-03-04**|**Learning Surgical Robotic Manipulation with 3D Spatial Priors**|Yu Sheng et.al.|[2603.03798](http://arxiv.org/abs/2603.03798)|null|
 |**2026-02-06**|**User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search**|Hongcheng Wang et.al.|[2602.06459](http://arxiv.org/abs/2602.06459)|null|
 |**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](http://arxiv.org/abs/2601.10117)|null|

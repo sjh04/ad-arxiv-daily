@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1322,6 +1322,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction**|Julian F. Schumann et.al.|[2603.10821](http://arxiv.org/abs/2603.10821)|null|
+|**2026-03-11**|**Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction**|Hao Zhou et.al.|[2603.10597](http://arxiv.org/abs/2603.10597)|null|
+|**2026-03-11**|**Rethinking Gaussian Trajectory Predictors: Calibrated Uncertainty for Safe Planning**|Fatemeh Cheraghi Pouria et.al.|[2603.10407](http://arxiv.org/abs/2603.10407)|null|
+|**2026-03-10**|**From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning**|Zhanyi Sun et.al.|[2603.10263](http://arxiv.org/abs/2603.10263)|null|
 |**2026-03-10**|**MetaDAT: Generalizable Trajectory Prediction via Meta Pre-training and Data-Adaptive Test-Time Updating**|Yuning Wang et.al.|[2603.09419](http://arxiv.org/abs/2603.09419)|null|
 |**2026-03-09**|**Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking**|Xian Wu et.al.|[2603.08199](http://arxiv.org/abs/2603.08199)|null|
 |**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](http://arxiv.org/abs/2603.07338)|null|
@@ -4480,6 +4484,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT**|Peng Sun et.al.|[2603.09715](http://arxiv.org/abs/2603.09715)|null|
 |**2026-03-09**|**Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams**|Piyush Gupta et.al.|[2603.08814](http://arxiv.org/abs/2603.08814)|null|
 |**2026-03-09**|**An objective non-local prior for skew-symmetric models**|F. J. Rubio et.al.|[2603.08285](http://arxiv.org/abs/2603.08285)|null|
 |**2026-03-08**|**Learning Context-Adaptive Motion Priors for Masked Motion Diffusion Models with Efficient Kinematic Attention Aggregation**|Junkun Jiang et.al.|[2603.07697](http://arxiv.org/abs/2603.07697)|null|

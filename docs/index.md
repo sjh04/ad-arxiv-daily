@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Towards Trustworthy Selective Generation: Reliability-Guided Diffusion for Ultra-Low-Field to High-Field MRI Synthesis**|Zhenxuan Zhang et.al.|[2603.11325](http://arxiv.org/abs/2603.11325)|null|
 |**2026-03-05**|**Particle-Guided Diffusion for Gas-Phase Reaction Kinetics**|Andrew Millard et.al.|[2603.05139](http://arxiv.org/abs/2603.05139)|null|
 |**2026-03-04**|**Learning Hip Exoskeleton Control Policy via Predictive Neuromusculoskeletal Simulation**|Ilseung Park et.al.|[2603.04166](http://arxiv.org/abs/2603.04166)|null|
 |**2026-03-04**|**Interaction-Aware Whole-Body Control for Compliant Object Transport**|Hao Zhang et.al.|[2603.03751](http://arxiv.org/abs/2603.03751)|null|
@@ -4484,6 +4485,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](http://arxiv.org/abs/2603.10947)|null|
+|**2026-03-12**|**Historical Consensus: Preventing Posterior Collapse via Iterative Selection of Gaussian Mixture Priors**|Zegu Zhang et.al.|[2603.10935](http://arxiv.org/abs/2603.10935)|null|
 |**2026-03-10**|**Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT**|Peng Sun et.al.|[2603.09715](http://arxiv.org/abs/2603.09715)|null|
 |**2026-03-09**|**Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams**|Piyush Gupta et.al.|[2603.08814](http://arxiv.org/abs/2603.08814)|null|
 |**2026-03-09**|**An objective non-local prior for skew-symmetric models**|F. J. Rubio et.al.|[2603.08285](http://arxiv.org/abs/2603.08285)|null|
@@ -4493,7 +4496,7 @@ layout: default
 |**2026-03-05**|**Any to Full: Prompting Depth Anything for Depth Completion in One Stage**|Zhiyuan Zhou et.al.|[2603.05711](http://arxiv.org/abs/2603.05711)|null|
 |**2026-03-04**|**Oracle-efficient Hybrid Learning with Constrained Adversaries**|Princewill Okoroafor et.al.|[2603.04546](http://arxiv.org/abs/2603.04546)|null|
 |**2026-03-04**|**Universal Pansharpening Foundation Model**|Hebaixu Wang et.al.|[2603.03831](http://arxiv.org/abs/2603.03831)|null|
-|**2026-03-03**|**Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity**|Shogo Noguchi et.al.|[2603.03190](http://arxiv.org/abs/2603.03190)|null|
+|**2026-03-12**|**Expectation and Acoustic Neural Network Representations Enhance Music Identification from Brain Activity**|Shogo Noguchi et.al.|[2603.03190](http://arxiv.org/abs/2603.03190)|null|
 |**2026-03-06**|**Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles**|Zhanghan Ni et.al.|[2603.02406](http://arxiv.org/abs/2603.02406)|null|
 |**2026-03-02**|**Surgical Post-Training: Cutting Errors, Keeping Knowledge**|Wenye Lin et.al.|[2603.01683](http://arxiv.org/abs/2603.01683)|null|
 |**2026-02-19**|**Position: AI Agents Are Not (Yet) a Panacea for Social Simulation**|Yiming Li et.al.|[2603.00113](http://arxiv.org/abs/2603.00113)|null|
@@ -4617,6 +4620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning**|Jiwon Jeon et.al.|[2603.11691](http://arxiv.org/abs/2603.11691)|null|
 |**2026-03-08**|**PARSE: Part-Aware Relational Spatial Modeling**|Yinuo Bai et.al.|[2603.07704](http://arxiv.org/abs/2603.07704)|null|
 |**2026-03-08**|**DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding**|Yuchuan Wu et.al.|[2603.07494](http://arxiv.org/abs/2603.07494)|null|
 |**2026-03-04**|**Learning Surgical Robotic Manipulation with 3D Spatial Priors**|Yu Sheng et.al.|[2603.03798](http://arxiv.org/abs/2603.03798)|null|

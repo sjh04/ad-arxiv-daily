@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -21,7 +21,7 @@ layout: default
 |**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
 |**2026-03-01**|**Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models**|Francesco Brandolin et.al.|[2603.01231](http://arxiv.org/abs/2603.01231)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
-|**2026-03-06**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
+|**2026-03-15**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
 |**2026-02-20**|**Flow Matching with Injected Noise for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2602.18117](http://arxiv.org/abs/2602.18117)|null|
 |**2026-02-17**|**Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation**|Xikai Yang et.al.|[2602.15359](http://arxiv.org/abs/2602.15359)|null|
 |**2026-02-12**|**Continuous Diffusion Models Can Obey Formal Syntax**|Jinwoo Kim et.al.|[2602.12468](http://arxiv.org/abs/2602.12468)|null|
@@ -1325,6 +1325,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**PanguMotion: Continuous Driving Motion Forecasting with Pangu Transformers**|Quanhao Ren et.al.|[2603.16196](http://arxiv.org/abs/2603.16196)|null|
+|**2026-03-17**|**SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry**|Gunhee Shin et.al.|[2603.16118](http://arxiv.org/abs/2603.16118)|null|
+|**2026-03-16**|**ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors**|Zifan Xu et.al.|[2603.15956](http://arxiv.org/abs/2603.15956)|null|
+|**2026-03-16**|**TrajMamba: An Ego-Motion-Guided Mamba Model for Pedestrian Trajectory Prediction from an Egocentric Perspective**|Yusheng Peng et.al.|[2603.14739](http://arxiv.org/abs/2603.14739)|null|
+|**2026-03-15**|**CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports**|Peng Ren et.al.|[2603.14605](http://arxiv.org/abs/2603.14605)|null|
+|**2026-03-15**|**Latent Dynamics-Aware OOD Monitoring for Trajectory Prediction with Provable Guarantees**|Tongfei Guo et.al.|[2603.14603](http://arxiv.org/abs/2603.14603)|null|
+|**2026-03-15**|**Nonholonomic constraints at finite temperature**|Eduardo A. Jagla et.al.|[2603.14424](http://arxiv.org/abs/2603.14424)|null|
+|**2026-03-15**|**WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems**|Yuchen Wang et.al.|[2603.14392](http://arxiv.org/abs/2603.14392)|null|
 |**2026-03-14**|**TransDex: Pre-training Visuo-Tactile Policy with Point Cloud Reconstruction for Dexterous Manipulation of Transparent Objects**|Fengguan Li et.al.|[2603.13869](http://arxiv.org/abs/2603.13869)|null|
 |**2026-03-13**|**CognitionCapturerPro: Towards High-Fidelity Visual Decoding from EEG/MEG via Multi-modal Information and Asymmetric Alignment**|Kaifan Zhang et.al.|[2603.12722](http://arxiv.org/abs/2603.12722)|null|
 |**2026-03-12**|**A Neuro-Symbolic Framework Combining Inductive and Deductive Reasoning for Autonomous Driving Planning**|Hongyan Wei et.al.|[2603.12421](http://arxiv.org/abs/2603.12421)|null|
@@ -4490,6 +4498,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Field-Level Inference from Galaxies: BAO Reconstruction**|Adrian E. Bayer et.al.|[2603.15732](http://arxiv.org/abs/2603.15732)|null|
+|**2026-03-16**|**Neural Network-Based Time-Frequency-Bin-Wise Linear Combination of Beamformers for Underdetermined Target Source Extraction**|Changda Chen et.al.|[2603.15288](http://arxiv.org/abs/2603.15288)|null|
+|**2026-03-16**|**Scalable Text-Embedding-informed Cognitive Diagnosis of Large Language Models**|Jia Liu et.al.|[2603.14676](http://arxiv.org/abs/2603.14676)|null|
 |**2026-03-14**|**Solving physics-constrained inverse problems with conditional flow matching**|Agnimitra Dasgupta et.al.|[2603.14135](http://arxiv.org/abs/2603.14135)|null|
 |**2026-03-14**|**LDHP: Library-Driven Hierarchical Planning for Non-prehensile Dexterous Manipulation**|Tierui He et.al.|[2603.13844](http://arxiv.org/abs/2603.13844)|null|
 |**2026-03-13**|**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**|Wei W. Xing et.al.|[2603.13092](http://arxiv.org/abs/2603.13092)|null|

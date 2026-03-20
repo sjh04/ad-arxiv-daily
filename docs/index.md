@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite**|Samuel Del Fré et.al.|[2603.18864](http://arxiv.org/abs/2603.18864)|null|
 |**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
 |**2026-03-13**|**Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**|Dayou Li et.al.|[2603.13615](http://arxiv.org/abs/2603.13615)|null|
 |**2026-03-11**|**Towards Trustworthy Selective Generation: Reliability-Guided Diffusion for Ultra-Low-Field to High-Field MRI Synthesis**|Zhenxuan Zhang et.al.|[2603.11325](http://arxiv.org/abs/2603.11325)|null|
@@ -1325,6 +1326,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Motion-o: Trajectory-Grounded Video Reasoning**|Bishoy Galoaa et.al.|[2603.18856](http://arxiv.org/abs/2603.18856)|null|
+|**2026-03-18**|**Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering**|Antonius Bima Murti Wijaya et.al.|[2603.18166](http://arxiv.org/abs/2603.18166)|null|
+|**2026-03-18**|**Predicting Trajectories of Long COVID in Adult Women: The Critical Role of Causal Disentanglement**|Jing Wang et.al.|[2603.17722](http://arxiv.org/abs/2603.17722)|null|
+|**2026-03-18**|**Real-Time Online Learning for Model Predictive Control using a Spatio-Temporal Gaussian Process Approximation**|Lars Bartels et.al.|[2603.17632](http://arxiv.org/abs/2603.17632)|null|
+|**2026-03-18**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240](http://arxiv.org/abs/2603.17240)|null|
+|**2026-03-17**|**ASCENT: Transformer-Based Aircraft Trajectory Prediction in Non-Towered Terminal Airspace**|Alexander Prutsch et.al.|[2603.16550](http://arxiv.org/abs/2603.16550)|null|
 |**2026-03-17**|**PanguMotion: Continuous Driving Motion Forecasting with Pangu Transformers**|Quanhao Ren et.al.|[2603.16196](http://arxiv.org/abs/2603.16196)|null|
 |**2026-03-17**|**SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry**|Gunhee Shin et.al.|[2603.16118](http://arxiv.org/abs/2603.16118)|null|
 |**2026-03-16**|**ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors**|Zifan Xu et.al.|[2603.15956](http://arxiv.org/abs/2603.15956)|null|
@@ -4498,10 +4505,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](http://arxiv.org/abs/2603.18309)|null|
+|**2026-03-18**|**Gaussian Process Limit Reveals Structural Benefits of Graph Transformers**|Nil Ayday et.al.|[2603.17569](http://arxiv.org/abs/2603.17569)|null|
 |**2026-03-16**|**Field-Level Inference from Galaxies: BAO Reconstruction**|Adrian E. Bayer et.al.|[2603.15732](http://arxiv.org/abs/2603.15732)|null|
 |**2026-03-16**|**Neural Network-Based Time-Frequency-Bin-Wise Linear Combination of Beamformers for Underdetermined Target Source Extraction**|Changda Chen et.al.|[2603.15288](http://arxiv.org/abs/2603.15288)|null|
 |**2026-03-16**|**Scalable Text-Embedding-informed Cognitive Diagnosis of Large Language Models**|Jia Liu et.al.|[2603.14676](http://arxiv.org/abs/2603.14676)|null|
-|**2026-03-14**|**Solving physics-constrained inverse problems with conditional flow matching**|Agnimitra Dasgupta et.al.|[2603.14135](http://arxiv.org/abs/2603.14135)|null|
+|**2026-03-17**|**Solving physics-constrained inverse problems with conditional flow matching**|Agnimitra Dasgupta et.al.|[2603.14135](http://arxiv.org/abs/2603.14135)|null|
 |**2026-03-14**|**LDHP: Library-Driven Hierarchical Planning for Non-prehensile Dexterous Manipulation**|Tierui He et.al.|[2603.13844](http://arxiv.org/abs/2603.13844)|null|
 |**2026-03-13**|**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**|Wei W. Xing et.al.|[2603.13092](http://arxiv.org/abs/2603.13092)|null|
 |**2026-03-11**|**Regularizing INR with diffusion prior self-supervised 3D reconstruction of neutron computed tomography data**|Maliha Hossain et.al.|[2603.10947](http://arxiv.org/abs/2603.10947)|null|
@@ -4639,6 +4648,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774](http://arxiv.org/abs/2603.18774)|null|
+|**2026-03-19**|**SR-Nav: Spatial Relationships Matter for Zero-shot Object Goal Navigation**|Leyuan Fang et.al.|[2603.18443](http://arxiv.org/abs/2603.18443)|null|
 |**2026-03-12**|**STAIRS-Former: Spatio-Temporal Attention with Interleaved Recursive Structure Transformer for Offline Multi-task Multi-agent Reinforcement Learning**|Jiwon Jeon et.al.|[2603.11691](http://arxiv.org/abs/2603.11691)|null|
 |**2026-03-08**|**PARSE: Part-Aware Relational Spatial Modeling**|Yinuo Bai et.al.|[2603.07704](http://arxiv.org/abs/2603.07704)|null|
 |**2026-03-08**|**DocCogito: Aligning Layout Cognition and Step-Level Grounded Reasoning for Document Understanding**|Yuchuan Wu et.al.|[2603.07494](http://arxiv.org/abs/2603.07494)|null|

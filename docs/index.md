@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.20
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1326,6 +1326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
 |**2026-03-19**|**Motion-o: Trajectory-Grounded Video Reasoning**|Bishoy Galoaa et.al.|[2603.18856](http://arxiv.org/abs/2603.18856)|null|
 |**2026-03-18**|**Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering**|Antonius Bima Murti Wijaya et.al.|[2603.18166](http://arxiv.org/abs/2603.18166)|null|
 |**2026-03-18**|**Predicting Trajectories of Long COVID in Adult Women: The Critical Role of Causal Disentanglement**|Jing Wang et.al.|[2603.17722](http://arxiv.org/abs/2603.17722)|null|
@@ -4505,6 +4506,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models**|Riccardo Saporiti et.al.|[2603.18907](http://arxiv.org/abs/2603.18907)|null|
 |**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](http://arxiv.org/abs/2603.18309)|null|
 |**2026-03-18**|**Gaussian Process Limit Reveals Structural Benefits of Graph Transformers**|Nil Ayday et.al.|[2603.17569](http://arxiv.org/abs/2603.17569)|null|
 |**2026-03-16**|**Field-Level Inference from Galaxies: BAO Reconstruction**|Adrian E. Bayer et.al.|[2603.15732](http://arxiv.org/abs/2603.15732)|null|

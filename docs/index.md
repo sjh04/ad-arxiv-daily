@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1326,6 +1326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
+|**2026-03-20**|**Eye Gaze-Informed and Context-Aware Pedestrian Trajectory Prediction in Shared Spaces with Automated Shuttles: A Virtual Reality Study**|Danya Li et.al.|[2603.19812](http://arxiv.org/abs/2603.19812)|null|
+|**2026-03-20**|**One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment**|Wen Yin et.al.|[2603.19779](http://arxiv.org/abs/2603.19779)|null|
 |**2026-03-19**|**Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting**|Yiren Lu et.al.|[2603.19193](http://arxiv.org/abs/2603.19193)|null|
 |**2026-03-19**|**Motion-o: Trajectory-Grounded Video Reasoning**|Bishoy Galoaa et.al.|[2603.18856](http://arxiv.org/abs/2603.18856)|null|
 |**2026-03-18**|**Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering**|Antonius Bima Murti Wijaya et.al.|[2603.18166](http://arxiv.org/abs/2603.18166)|null|
@@ -4506,6 +4509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**On the role of memorization in learned priors for geophysical inverse problems**|Ali Siahkoohi et.al.|[2603.19629](http://arxiv.org/abs/2603.19629)|null|
 |**2026-03-19**|**Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models**|Riccardo Saporiti et.al.|[2603.18907](http://arxiv.org/abs/2603.18907)|null|
 |**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](http://arxiv.org/abs/2603.18309)|null|
 |**2026-03-18**|**Gaussian Process Limit Reveals Structural Benefits of Graph Transformers**|Nil Ayday et.al.|[2603.17569](http://arxiv.org/abs/2603.17569)|null|

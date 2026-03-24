@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-21**|**Fast and Robust Deformable 3D Gaussian Splatting**|Han Jiao et.al.|[2603.20857](http://arxiv.org/abs/2603.20857)|null|
 |**2026-03-19**|**Data-driven construction of machine-learning-based interatomic potentials for gas-surface scattering dynamics: the case of NO on graphite**|Samuel Del Fré et.al.|[2603.18864](http://arxiv.org/abs/2603.18864)|null|
 |**2026-03-14**|**PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment**|Zhexiao Xiong et.al.|[2603.13770](http://arxiv.org/abs/2603.13770)|null|
 |**2026-03-13**|**Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis**|Dayou Li et.al.|[2603.13615](http://arxiv.org/abs/2603.13615)|null|
@@ -1326,6 +1327,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|null|
+|**2026-03-21**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|null|
+|**2026-03-19**|**kRAIG: A Natural Language-Driven Agent for Automated DataOps Pipeline Generation**|Rohan Siva et.al.|[2603.20311](http://arxiv.org/abs/2603.20311)|null|
+|**2026-03-20**|**Uncertainty Matters: Structured Probabilistic Online Mapping for Motion Prediction in Autonomous Driving**|Pritom Gogoi et.al.|[2603.20076](http://arxiv.org/abs/2603.20076)|null|
 |**2026-03-20**|**Investigating a Policy-Based Formulation for Endoscopic Camera Pose Recovery**|Jan Emily Mangulabnan et.al.|[2603.20045](http://arxiv.org/abs/2603.20045)|null|
 |**2026-03-20**|**Eye Gaze-Informed and Context-Aware Pedestrian Trajectory Prediction in Shared Spaces with Automated Shuttles: A Virtual Reality Study**|Danya Li et.al.|[2603.19812](http://arxiv.org/abs/2603.19812)|null|
 |**2026-03-20**|**One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment**|Wen Yin et.al.|[2603.19779](http://arxiv.org/abs/2603.19779)|null|
@@ -1334,7 +1339,7 @@ layout: default
 |**2026-03-18**|**Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering**|Antonius Bima Murti Wijaya et.al.|[2603.18166](http://arxiv.org/abs/2603.18166)|null|
 |**2026-03-18**|**Predicting Trajectories of Long COVID in Adult Women: The Critical Role of Causal Disentanglement**|Jing Wang et.al.|[2603.17722](http://arxiv.org/abs/2603.17722)|null|
 |**2026-03-18**|**Real-Time Online Learning for Model Predictive Control using a Spatio-Temporal Gaussian Process Approximation**|Lars Bartels et.al.|[2603.17632](http://arxiv.org/abs/2603.17632)|null|
-|**2026-03-18**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240](http://arxiv.org/abs/2603.17240)|null|
+|**2026-03-21**|**GigaWorld-Policy: An Efficient Action-Centered World--Action Model**|Angen Ye et.al.|[2603.17240](http://arxiv.org/abs/2603.17240)|null|
 |**2026-03-17**|**ASCENT: Transformer-Based Aircraft Trajectory Prediction in Non-Towered Terminal Airspace**|Alexander Prutsch et.al.|[2603.16550](http://arxiv.org/abs/2603.16550)|null|
 |**2026-03-17**|**PanguMotion: Continuous Driving Motion Forecasting with Pangu Transformers**|Quanhao Ren et.al.|[2603.16196](http://arxiv.org/abs/2603.16196)|null|
 |**2026-03-17**|**SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry**|Gunhee Shin et.al.|[2603.16118](http://arxiv.org/abs/2603.16118)|null|
@@ -4509,6 +4514,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-21**|**Causally-Guided Diffusion for Stable Feature Selection**|Arun Vignesh Malarkkan et.al.|[2603.20930](http://arxiv.org/abs/2603.20930)|null|
+|**2026-03-21**|**Discriminative Representation Learning for Clinical Prediction**|Yang Zhang et.al.|[2603.20921](http://arxiv.org/abs/2603.20921)|null|
+|**2026-03-21**|**Generative Diffusion Model for Risk-Neutral Derivative Pricing**|Nilay Tiwari et.al.|[2603.20582](http://arxiv.org/abs/2603.20582)|null|
+|**2026-03-20**|**DCG-Net: Dual Cross-Attention with Concept-Value Graph Reasoning for Interpretable Medical Diagnosis**|Getamesay Dagnaw et.al.|[2603.20325](http://arxiv.org/abs/2603.20325)|null|
 |**2026-03-20**|**On the role of memorization in learned priors for geophysical inverse problems**|Ali Siahkoohi et.al.|[2603.19629](http://arxiv.org/abs/2603.19629)|null|
 |**2026-03-19**|**Neural Galerkin Normalizing Flow for Transition Probability Density Functions of Diffusion Models**|Riccardo Saporiti et.al.|[2603.18907](http://arxiv.org/abs/2603.18907)|null|
 |**2026-03-18**|**Unrolled Reconstruction with Integrated Super-Resolution for Accelerated 3D LGE MRI**|Md Hasibul Husain Hisham et.al.|[2603.18309](http://arxiv.org/abs/2603.18309)|null|

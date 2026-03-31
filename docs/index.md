@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**SJD-VP: Speculative Jacobi Decoding with Verification Prediction for Autoregressive Image Generation**|Bingqi Shan et.al.|[2603.27115](http://arxiv.org/abs/2603.27115)|null|
 |**2026-03-24**|**FG-Portrait: 3D Flow Guided Editable Portrait Animation**|Yating Xu et.al.|[2603.23381](http://arxiv.org/abs/2603.23381)|null|
 |**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159](http://arxiv.org/abs/2603.23159)|null|
 |**2026-03-21**|**Fast and Robust Deformable 3D Gaussian Splatting**|Han Jiao et.al.|[2603.20857](http://arxiv.org/abs/2603.20857)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2026-03-03**|**ReCo-Diff: Residual-Conditioned Deterministic Sampling for Cold Diffusion in Sparse-View CT**|Yong Eun Choi et.al.|[2603.02691](http://arxiv.org/abs/2603.02691)|null|
 |**2026-03-02**|**MAP-Diff: Multi-Anchor Guided Diffusion for Progressive 3D Whole-Body Low-Dose PET Denoising**|Peiyuan Jing et.al.|[2603.02012](http://arxiv.org/abs/2603.02012)|null|
 |**2026-03-02**|**Constrained Particle Seeking: Solving Diffusion Inverse Problems with Just Forward Passes**|Hongkun Dou et.al.|[2603.01837](http://arxiv.org/abs/2603.01837)|null|
-|**2026-03-02**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
+|**2026-03-28**|**Evaluating and Understanding Scheming Propensity in LLM Agents**|Mia Hopman et.al.|[2603.01608](http://arxiv.org/abs/2603.01608)|null|
 |**2026-03-01**|**Velocity Model Building and Editing with Guided Denoising Diffusion Implicit Models**|Francesco Brandolin et.al.|[2603.01231](http://arxiv.org/abs/2603.01231)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
 |**2026-03-15**|**Conditionally Site-Independent Neural Evolution of Antibody Sequences**|Stephen Zhewen Lu et.al.|[2602.18982](http://arxiv.org/abs/2602.18982)|null|
@@ -1329,6 +1330,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Predictive Modeling in AUV Navigation: A Perspective from Kalman Filtering**|Zizhan Tang et.al.|[2603.27422](http://arxiv.org/abs/2603.27422)|null|
+|**2026-03-28**|**Online Inertia Tensor Identification for Non-Cooperative Spacecraft via Augmented UKF**|Batu Candan et.al.|[2603.27361](http://arxiv.org/abs/2603.27361)|null|
+|**2026-03-23**|**Language-Conditioned World Modeling for Visual Navigation**|Yifei Dong et.al.|[2603.26741](http://arxiv.org/abs/2603.26741)|null|
+|**2026-03-27**|**Tunable Soft Equivariance with Guarantees**|Md Ashiqur Rahman et.al.|[2603.26657](http://arxiv.org/abs/2603.26657)|null|
+|**2026-03-27**|**DTP-Attack: A decision-based black-box adversarial attack on trajectory prediction**|Jiaxiang Li et.al.|[2603.26462](http://arxiv.org/abs/2603.26462)|null|
 |**2026-03-26**|**UMBRELLA: Uncertainty-aware Multi-robot Reactive Coordination under Dynamic Temporal Logic Tasks**|Qisheng Zhao et.al.|[2603.25395](http://arxiv.org/abs/2603.25395)|null|
 |**2026-03-25**|**Goal-Oriented Reactive Simulation for Closed-Loop Trajectory Prediction**|Harsh Yadav et.al.|[2603.24155](http://arxiv.org/abs/2603.24155)|null|
 |**2026-03-25**|**6D Movable Antenna for Internet of Vehicles: CSI-Free Dynamic Antenna Configuration**|Maoxin Ji et.al.|[2603.23991](http://arxiv.org/abs/2603.23991)|null|
@@ -1336,7 +1342,7 @@ layout: default
 |**2026-03-23**|**Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning**|Jihyun Janice Ahn et.al.|[2603.22619](http://arxiv.org/abs/2603.22619)|null|
 |**2026-03-23**|**ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model**|Haichao Zhang et.al.|[2603.22281](http://arxiv.org/abs/2603.22281)|null|
 |**2026-03-23**|**Future-Interactions-Aware Trajectory Prediction via Braid Theory**|Caio Azevedo et.al.|[2603.22035](http://arxiv.org/abs/2603.22035)|null|
-|**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
+|**2026-03-28**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
 |**2026-03-22**|**KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction**|Wenhan Wu et.al.|[2603.21327](http://arxiv.org/abs/2603.21327)|null|
 |**2026-03-22**|**Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving**|Haixi Zhang et.al.|[2603.21061](http://arxiv.org/abs/2603.21061)|null|
 |**2026-03-24**|**GHOST: Ground-projected Hypotheses from Observed Structure-from-Motion Trajectories**|Tomasz Frelek et.al.|[2603.20583](http://arxiv.org/abs/2603.20583)|null|
@@ -4529,6 +4535,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**$\texttt{Exoformer}$ : Accelerating Bayesian atmospheric retrievals with transformer neural networks**|L. Pagliaro et.al.|[2603.27623](http://arxiv.org/abs/2603.27623)|null|
+|**2026-03-28**|**Greedy Is a Strong Default: Agents as Iterative Optimizers**|Yitao Li et.al.|[2603.27415](http://arxiv.org/abs/2603.27415)|null|
+|**2026-03-27**|**Generative Shape Reconstruction with Geometry-Guided Langevin Dynamics**|Linus Härenstam-Nielsen et.al.|[2603.27016](http://arxiv.org/abs/2603.27016)|null|
+|**2026-03-27**|**Bayesian analysis of the causal reference-based model for missing data in clinical trials, accommodating partially observed post-intercurrent event data**|Brendah Nansereko et.al.|[2603.27010](http://arxiv.org/abs/2603.27010)|null|
 |**2026-03-25**|**On the Use of Bagging for Local Intrinsic Dimensionality Estimation**|Kristóf Péter et.al.|[2603.24384](http://arxiv.org/abs/2603.24384)|null|
 |**2026-03-25**|**Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection**|Jielun Peng et.al.|[2603.23960](http://arxiv.org/abs/2603.23960)|null|
 |**2026-03-24**|**Multitask-Informed Prior for In-Context Learning on Tabular Data: Application to Steel Property Prediction**|Dimitrios Sinodinos et.al.|[2603.22738](http://arxiv.org/abs/2603.22738)|null|
@@ -4683,6 +4693,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/abs/2603.26837)|null|
 |**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Wei Zhang et.al.|[2603.21887](http://arxiv.org/abs/2603.21887)|null|
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774](http://arxiv.org/abs/2603.18774)|null|
 |**2026-03-19**|**SR-Nav: Spatial Relationships Matter for Zero-shot Object Goal Navigation**|Leyuan Fang et.al.|[2603.18443](http://arxiv.org/abs/2603.18443)|null|

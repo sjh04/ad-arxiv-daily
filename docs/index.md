@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts**|Sha Li et.al.|[2604.00901](http://arxiv.org/abs/2604.00901)|null|
 |**2026-03-31**|**Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance**|Shanxian Lin et.al.|[2603.29774](http://arxiv.org/abs/2603.29774)|null|
 |**2026-03-31**|**SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving**|Wenchao Sun et.al.|[2603.29163](http://arxiv.org/abs/2603.29163)|null|
 |**2026-03-30**|**AXON: An Automated Netlist Optimization Framework for High-Speed Adders**|Tiantian Yang et.al.|[2603.28184](http://arxiv.org/abs/2603.28184)|null|
@@ -1333,6 +1334,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**COTTA: Context-Aware Transfer Adaptation for Trajectory Prediction in Autonomous Driving**|Seohyoung Park et.al.|[2604.00402](http://arxiv.org/abs/2604.00402)|null|
 |**2026-03-31**|**Communication Outage-Resistant UUV State Estimation: A Variational History Distillation Approach**|Shuyue Li et.al.|[2603.29512](http://arxiv.org/abs/2603.29512)|null|
 |**2026-03-31**|**Uncertainty-Aware Trajectory Prediction: A Unified Framework Harnessing Positional and Semantic Uncertainties**|Jintao Sun et.al.|[2603.29362](http://arxiv.org/abs/2603.29362)|null|
 |**2026-03-29**|**Data is All You Need: Markov Chain Car-Following (MC-CF) Model**|Sungyong Chung et.al.|[2603.27909](http://arxiv.org/abs/2603.27909)|null|
@@ -4543,6 +4545,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture**|Yiming Ren et.al.|[2604.00857](http://arxiv.org/abs/2604.00857)|null|
+|**2026-04-01**|**Learning Humanoid Navigation from Human Data**|Weizhuo Wang et.al.|[2604.00416](http://arxiv.org/abs/2604.00416)|null|
 |**2026-03-29**|**$\texttt{Exoformer}$ : Accelerating Bayesian atmospheric retrievals with transformer neural networks**|L. Pagliaro et.al.|[2603.27623](http://arxiv.org/abs/2603.27623)|null|
 |**2026-03-28**|**Greedy Is a Strong Default: Agents as Iterative Optimizers**|Yitao Li et.al.|[2603.27415](http://arxiv.org/abs/2603.27415)|null|
 |**2026-03-27**|**Generative Shape Reconstruction with Geometry-Guided Langevin Dynamics**|Linus Härenstam-Nielsen et.al.|[2603.27016](http://arxiv.org/abs/2603.27016)|null|

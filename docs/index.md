@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing**|Thinh Dao et.al.|[2604.01715](http://arxiv.org/abs/2604.01715)|null|
 |**2026-04-01**|**Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts**|Sha Li et.al.|[2604.00901](http://arxiv.org/abs/2604.00901)|null|
 |**2026-03-31**|**Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance**|Shanxian Lin et.al.|[2603.29774](http://arxiv.org/abs/2603.29774)|null|
 |**2026-03-31**|**SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving**|Wenchao Sun et.al.|[2603.29163](http://arxiv.org/abs/2603.29163)|null|
@@ -4107,6 +4108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding**|Fusang Wang et.al.|[2604.01388](http://arxiv.org/abs/2604.01388)|null|
 |**2026-03-30**|**Label-efficient Training Updates for Malware Detection over Time**|Luca Minnei et.al.|[2603.28396](http://arxiv.org/abs/2603.28396)|null|
 |**2026-03-30**|**Bayesian Model Comparison of $R_h=ct$ versus $Λ$ CDM using HII galaxy Hubble diagram**|Yuva Himanshu Pallam et.al.|[2603.28019](http://arxiv.org/abs/2603.28019)|null|
 |**2026-03-24**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al.|[2603.23766](http://arxiv.org/abs/2603.23766)|null|
@@ -4705,6 +4707,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|
+|**2026-04-02**|**Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching**|Virmarie Maquiling et.al.|[2604.01909](http://arxiv.org/abs/2604.01909)|null|
 |**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/abs/2603.26837)|null|
 |**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Wei Zhang et.al.|[2603.21887](http://arxiv.org/abs/2603.21887)|null|
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774](http://arxiv.org/abs/2603.18774)|null|

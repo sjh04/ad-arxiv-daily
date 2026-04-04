@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.03
+## Updated on 2026.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -4547,6 +4547,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images**|Jamie S. J. Stirling et.al.|[2604.01843](http://arxiv.org/abs/2604.01843)|null|
+|**2026-04-02**|**AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation**|Jia Syuen Lim et.al.|[2604.01567](http://arxiv.org/abs/2604.01567)|null|
 |**2026-04-01**|**Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture**|Yiming Ren et.al.|[2604.00857](http://arxiv.org/abs/2604.00857)|null|
 |**2026-04-01**|**Learning Humanoid Navigation from Human Data**|Weizhuo Wang et.al.|[2604.00416](http://arxiv.org/abs/2604.00416)|null|
 |**2026-03-29**|**$\texttt{Exoformer}$ : Accelerating Bayesian atmospheric retrievals with transformer neural networks**|L. Pagliaro et.al.|[2603.27623](http://arxiv.org/abs/2603.27623)|null|

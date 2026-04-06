@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**SentiAvatar: Towards Expressive and Interactive Digital Humans**|Chuhao Jin et.al.|[2604.02908](http://arxiv.org/abs/2604.02908)|null|
 |**2026-04-02**|**SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing**|Thinh Dao et.al.|[2604.01715](http://arxiv.org/abs/2604.01715)|null|
-|**2026-04-01**|**Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts**|Sha Li et.al.|[2604.00901](http://arxiv.org/abs/2604.00901)|null|
+|**2026-04-02**|**Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts**|Sha Li et.al.|[2604.00901](http://arxiv.org/abs/2604.00901)|null|
 |**2026-03-31**|**Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance**|Shanxian Lin et.al.|[2603.29774](http://arxiv.org/abs/2603.29774)|null|
 |**2026-03-31**|**SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving**|Wenchao Sun et.al.|[2603.29163](http://arxiv.org/abs/2603.29163)|null|
 |**2026-03-30**|**AXON: An Automated Netlist Optimization Framework for High-Speed Adders**|Tiantian Yang et.al.|[2603.28184](http://arxiv.org/abs/2603.28184)|null|
@@ -1335,8 +1336,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Joint Prediction of Human Motions and Actions in Human-Robot Collaboration**|Alessandra Bulanti et.al.|[2604.03065](http://arxiv.org/abs/2604.03065)|null|
+|**2026-04-03**|**GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes**|Mijeong Kim et.al.|[2604.02915](http://arxiv.org/abs/2604.02915)|null|
+|**2026-04-03**|**STDDN: A Physics-Guided Deep Learning Framework for Crowd Simulation**|Zijin Liu et.al.|[2604.02756](http://arxiv.org/abs/2604.02756)|null|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Zihao Sheng et.al.|[2604.02714](http://arxiv.org/abs/2604.02714)|null|
+|**2026-04-02**|**PlayGen-MoG: Framework for Diverse Multi-Agent Play Generation via Mixture-of-Gaussians Trajectory Prediction**|Kevin Song et.al.|[2604.02447](http://arxiv.org/abs/2604.02447)|null|
+|**2026-04-01**|**What Are Adversaries Doing? Automating Tactics, Techniques, and Procedures Extraction: A Systematic Review**|Mahzabin Tamanna et.al.|[2604.02377](http://arxiv.org/abs/2604.02377)|null|
 |**2026-04-01**|**COTTA: Context-Aware Transfer Adaptation for Trajectory Prediction in Autonomous Driving**|Seohyoung Park et.al.|[2604.00402](http://arxiv.org/abs/2604.00402)|null|
-|**2026-03-31**|**Communication Outage-Resistant UUV State Estimation: A Variational History Distillation Approach**|Shuyue Li et.al.|[2603.29512](http://arxiv.org/abs/2603.29512)|null|
+|**2026-04-03**|**Communication Outage-Resistant UUV State Estimation: A Variational History Distillation Approach**|Shuyue Li et.al.|[2603.29512](http://arxiv.org/abs/2603.29512)|null|
 |**2026-03-31**|**Uncertainty-Aware Trajectory Prediction: A Unified Framework Harnessing Positional and Semantic Uncertainties**|Jintao Sun et.al.|[2603.29362](http://arxiv.org/abs/2603.29362)|null|
 |**2026-03-29**|**Data is All You Need: Markov Chain Car-Following (MC-CF) Model**|Sungyong Chung et.al.|[2603.27909](http://arxiv.org/abs/2603.27909)|null|
 |**2026-03-28**|**Predictive Modeling in AUV Navigation: A Perspective from Kalman Filtering**|Zizhan Tang et.al.|[2603.27422](http://arxiv.org/abs/2603.27422)|null|
@@ -4111,7 +4118,7 @@ layout: default
 |**2026-04-01**|**LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding**|Fusang Wang et.al.|[2604.01388](http://arxiv.org/abs/2604.01388)|null|
 |**2026-03-30**|**Label-efficient Training Updates for Malware Detection over Time**|Luca Minnei et.al.|[2603.28396](http://arxiv.org/abs/2603.28396)|null|
 |**2026-03-30**|**Bayesian Model Comparison of $R_h=ct$ versus $Λ$ CDM using HII galaxy Hubble diagram**|Yuva Himanshu Pallam et.al.|[2603.28019](http://arxiv.org/abs/2603.28019)|null|
-|**2026-03-24**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al.|[2603.23766](http://arxiv.org/abs/2603.23766)|null|
+|**2026-04-02**|**Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection**|Ning Zhu et.al.|[2603.23766](http://arxiv.org/abs/2603.23766)|null|
 |**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324](http://arxiv.org/abs/2603.23324)|null|
 |**2026-03-24**|**CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection**|Yuchen Wu et.al.|[2603.23276](http://arxiv.org/abs/2603.23276)|null|
 |**2026-03-23**|**From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy**|Bi'an Du et.al.|[2603.21557](http://arxiv.org/abs/2603.21557)|null|
@@ -4547,6 +4554,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Rethinking Forward Processes for Score-Based Data Assimilation in High Dimensions**|Eunbi Yoon et.al.|[2604.02889](http://arxiv.org/abs/2604.02889)|null|
 |**2026-04-02**|**Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images**|Jamie S. J. Stirling et.al.|[2604.01843](http://arxiv.org/abs/2604.01843)|null|
 |**2026-04-02**|**AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation**|Jia Syuen Lim et.al.|[2604.01567](http://arxiv.org/abs/2604.01567)|null|
 |**2026-04-01**|**Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture**|Yiming Ren et.al.|[2604.00857](http://arxiv.org/abs/2604.00857)|null|
@@ -4709,7 +4717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-02**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|
+|**2026-04-03**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|
 |**2026-04-02**|**Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching**|Virmarie Maquiling et.al.|[2604.01909](http://arxiv.org/abs/2604.01909)|null|
 |**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/abs/2603.26837)|null|
 |**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Wei Zhang et.al.|[2603.21887](http://arxiv.org/abs/2603.21887)|null|

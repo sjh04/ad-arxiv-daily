@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1336,6 +1336,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-04**|**ART: Adaptive Relational Transformer for Pedestrian Trajectory Prediction with Temporal-Aware Relations**|Ruochen Li et.al.|[2604.03649](http://arxiv.org/abs/2604.03649)|null|
+|**2026-04-03**|**Super Agents and Confounders: Influence of surrounding agents on vehicle trajectory prediction**|Daniel Jost et.al.|[2604.03463](http://arxiv.org/abs/2604.03463)|null|
 |**2026-04-03**|**Joint Prediction of Human Motions and Actions in Human-Robot Collaboration**|Alessandra Bulanti et.al.|[2604.03065](http://arxiv.org/abs/2604.03065)|null|
 |**2026-04-03**|**GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes**|Mijeong Kim et.al.|[2604.02915](http://arxiv.org/abs/2604.02915)|null|
 |**2026-04-03**|**STDDN: A Physics-Guided Deep Learning Framework for Crowd Simulation**|Zijin Liu et.al.|[2604.02756](http://arxiv.org/abs/2604.02756)|null|
@@ -4115,6 +4117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**DINO-VO: Learning Where to Focus for Enhanced State Estimation**|Qi Chen et.al.|[2604.04055](http://arxiv.org/abs/2604.04055)|null|
 |**2026-04-01**|**LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding**|Fusang Wang et.al.|[2604.01388](http://arxiv.org/abs/2604.01388)|null|
 |**2026-03-30**|**Label-efficient Training Updates for Malware Detection over Time**|Luca Minnei et.al.|[2603.28396](http://arxiv.org/abs/2603.28396)|null|
 |**2026-03-30**|**Bayesian Model Comparison of $R_h=ct$ versus $Λ$ CDM using HII galaxy Hubble diagram**|Yuva Himanshu Pallam et.al.|[2603.28019](http://arxiv.org/abs/2603.28019)|null|
@@ -4554,6 +4557,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-05**|**Primitive-based Truncated Diffusion for Efficient Trajectory Generation of Differential Drive Mobile Manipulators**|Long Xu et.al.|[2604.04166](http://arxiv.org/abs/2604.04166)|null|
+|**2026-04-04**|**Imagine Before Concentration: Diffusion-Guided Registers Enhance Partially Relevant Video Retrieval**|Jun Li et.al.|[2604.03653](http://arxiv.org/abs/2604.03653)|null|
 |**2026-04-03**|**Rethinking Forward Processes for Score-Based Data Assimilation in High Dimensions**|Eunbi Yoon et.al.|[2604.02889](http://arxiv.org/abs/2604.02889)|null|
 |**2026-04-02**|**Investigating Permutation-Invariant Discrete Representation Learning for Spatially Aligned Images**|Jamie S. J. Stirling et.al.|[2604.01843](http://arxiv.org/abs/2604.01843)|null|
 |**2026-04-02**|**AnchorVLA: Anchored Diffusion for Efficient End-to-End Mobile Manipulation**|Jia Syuen Lim et.al.|[2604.01567](http://arxiv.org/abs/2604.01567)|null|

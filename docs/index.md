@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.08
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1337,6 +1337,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction**|Diyi Liu et.al.|[2604.07126](http://arxiv.org/abs/2604.07126)|null|
+|**2026-04-08**|**SCT-MOT: Enhancing Air-to-Air Multiple UAVs Tracking with Swarm-Coupled Motion and Trajectory Guidance**|Zhaochen Chu et.al.|[2604.06883](http://arxiv.org/abs/2604.06883)|null|
+|**2026-04-08**|**Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G**|Hang Zou et.al.|[2604.06882](http://arxiv.org/abs/2604.06882)|null|
+|**2026-04-08**|**FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching**|Junchao Yi et.al.|[2604.06757](http://arxiv.org/abs/2604.06757)|null|
 |**2026-04-07**|**ExpressMM: Expressive Mobile Manipulation Behaviors in Human-Robot Interactions**|Souren Pashangpour et.al.|[2604.05320](http://arxiv.org/abs/2604.05320)|null|
 |**2026-04-06**|**SAIL: Scene-aware Adaptive Iterative Learning for Long-Tail Trajectory Prediction in Autonomous Vehicles**|Bin Rao et.al.|[2604.04573](http://arxiv.org/abs/2604.04573)|null|
 |**2026-04-04**|**ART: Adaptive Relational Transformer for Pedestrian Trajectory Prediction with Temporal-Aware Relations**|Ruochen Li et.al.|[2604.03649](http://arxiv.org/abs/2604.03649)|null|
@@ -4561,6 +4565,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**NLP-Informed Dynamic Cognitive Diagnosis Modelling**|Yawen Ma et.al.|[2604.07179](http://arxiv.org/abs/2604.07179)|null|
+|**2026-04-08**|**A Data-Informed Variational Clustering Framework for Noisy High-Dimensional Data**|Wan Ping Chen et.al.|[2604.06864](http://arxiv.org/abs/2604.06864)|null|
+|**2026-04-07**|**HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models**|Reihaneh Zohrabi et.al.|[2604.06165](http://arxiv.org/abs/2604.06165)|null|
 |**2026-04-07**|**Analogical Reasoning as a Doctor: A Foundation Model for Gastrointestinal Endoscopy Diagnosis**|Peixi Peng et.al.|[2604.05649](http://arxiv.org/abs/2604.05649)|null|
 |**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
 |**2026-04-06**|**FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation**|Ke Shi et.al.|[2604.04427](http://arxiv.org/abs/2604.04427)|null|
@@ -4731,7 +4738,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-07**|**Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**|Zhihan Zeng et.al.|[2604.05788](http://arxiv.org/abs/2604.05788)|null|
 |**2026-04-07**|**Improving Controllable Generation: Faster Training and Better Performance via $x_0$ -Supervision**|Amadou S. Sangare et.al.|[2604.05761](http://arxiv.org/abs/2604.05761)|null|
-|**2026-04-03**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|
+|**2026-04-08**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|
 |**2026-04-02**|**Night Eyes: A Reproducible Framework for Constellation-Based Corneal Reflection Matching**|Virmarie Maquiling et.al.|[2604.01909](http://arxiv.org/abs/2604.01909)|null|
 |**2026-03-27**|**SpatialAnt: Autonomous Zero-Shot Robot Navigation via Active Scene Reconstruction and Visual Anticipation**|Jiwen Zhang et.al.|[2603.26837](http://arxiv.org/abs/2603.26837)|null|
 |**2026-03-23**|**IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments**|Wei Zhang et.al.|[2603.21887](http://arxiv.org/abs/2603.21887)|null|

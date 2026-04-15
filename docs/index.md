@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1341,6 +1341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Forecasting the Past: Gradient-Based Distribution Shift Detection in Trajectory Prediction**|Michele De Vita et.al.|[2604.12425](http://arxiv.org/abs/2604.12425)|null|
+|**2026-04-13**|**EagleVision: A Multi-Task Benchmark for Cross-Domain Perception in High-Speed Autonomous Racing**|Zakhar Yagudin et.al.|[2604.11400](http://arxiv.org/abs/2604.11400)|null|
+|**2026-04-13**|**Simulator Adaptation for Sim-to-Real Learning of Legged Locomotion via Proprioceptive Distribution Matching**|Jeremy Dao et.al.|[2604.11090](http://arxiv.org/abs/2604.11090)|null|
 |**2026-04-11**|**COSMIK-MPPI: Scaling Constrained Model Predictive Control to Collision Avoidance in Close-Proximity Dynamic Human Environments**|Ege Gursoy et.al.|[2604.10358](http://arxiv.org/abs/2604.10358)|null|
 |**2026-04-11**|**MAVEN-T: Multi-Agent enVironment-aware Enhanced Neural Trajectory predictor with Reinforcement Learning**|Wenchang Duan et.al.|[2604.10169](http://arxiv.org/abs/2604.10169)|null|
 |**2026-04-10**|**Envisioning the Future, One Step at a Time**|Stefan Andreas Baumann et.al.|[2604.09527](http://arxiv.org/abs/2604.09527)|null|
@@ -4134,6 +4137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors**|Rong Wang et.al.|[2604.12309](http://arxiv.org/abs/2604.12309)|null|
 |**2026-04-11**|**A Comparison of Multi-View Stereo Methods for Photogrammetric 3D Reconstruction: From Traditional to Learning-Based Approaches**|Yawen Li et.al.|[2604.10246](http://arxiv.org/abs/2604.10246)|null|
 |**2026-04-10**|**Process Reward Agents for Steering Knowledge-Intensive Reasoning**|Jiwoong Sohn et.al.|[2604.09482](http://arxiv.org/abs/2604.09482)|null|
 |**2026-04-09**|**Sampling-Aware 3D Spatial Analysis in Multiplexed Imaging**|Ido Harlev et.al.|[2604.07890](http://arxiv.org/abs/2604.07890)|null|
@@ -4578,6 +4582,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising**|Xuelin Xie et.al.|[2604.12600](http://arxiv.org/abs/2604.12600)|null|
+|**2026-04-14**|**Spatially Resolved Kinematics of SLACS Lens Galaxies. II: Breaking Degeneracies with Lensing and Dynamical Models**|Shawn Knabel et.al.|[2604.12155](http://arxiv.org/abs/2604.12155)|null|
+|**2026-04-14**|**Nonlinear Stochastic Optimal Control and Optimal Stopping using the Fokker-Planck Transformation**|Akan Selim et.al.|[2604.12153](http://arxiv.org/abs/2604.12153)|null|
+|**2026-04-13**|**Predictive Bayesian Arbitration: A Scalable Noisy-OR Model with Service Criticality Awareness**|Anil Jangam et.al.|[2604.11989](http://arxiv.org/abs/2604.11989)|null|
+|**2026-04-13**|**Channel-Aware Preemptive Scheduling for Semantic Communication with Truncated Diffusion and Path Compensation**|Chengyang Liang et.al.|[2604.11849](http://arxiv.org/abs/2604.11849)|null|
+|**2026-04-13**|**HDR Video Generation via Latent Alignment with Logarithmic Encoding**|Naomi Ken Korem et.al.|[2604.11788](http://arxiv.org/abs/2604.11788)|null|
+|**2026-04-13**|**Inferring Change Points in Regression via Sample Weighting**|Gabriel Arpino et.al.|[2604.11746](http://arxiv.org/abs/2604.11746)|null|
+|**2026-04-13**|**Energy-oriented Diffusion Bridge for Image Restoration with Foundational Diffusion Models**|Jinhui Hou et.al.|[2604.10983](http://arxiv.org/abs/2604.10983)|null|
 |**2026-04-12**|**Probing the Origin of Magnetar X-ray Polarization Diversity: A Multi-wavelength Geometrical Study of 1E 1547.0-5408 and 1E 2259+586**|Biao-Peng Li et.al.|[2604.10477](http://arxiv.org/abs/2604.10477)|null|
 |**2026-04-10**|**Noise-Aware In-Context Learning for Hallucination Mitigation in ALLMs**|Qixuan Huang et.al.|[2604.09021](http://arxiv.org/abs/2604.09021)|null|
 |**2026-04-08**|**NLP-Informed Dynamic Cognitive Diagnosis Modelling**|Yawen Ma et.al.|[2604.07179](http://arxiv.org/abs/2604.07179)|null|
@@ -4751,6 +4763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-13**|**Naka-GS: A Bionics-inspired Dual-Branch Naka Correction and Progressive Point Pruning for Low-Light 3DGS**|Runyu Zhu et.al.|[2604.11142](http://arxiv.org/abs/2604.11142)|null|
 |**2026-04-07**|**Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**|Zhihan Zeng et.al.|[2604.05788](http://arxiv.org/abs/2604.05788)|null|
 |**2026-04-07**|**Improving Controllable Generation: Faster Training and Better Performance via $x_0$ -Supervision**|Amadou S. Sangare et.al.|[2604.05761](http://arxiv.org/abs/2604.05761)|null|
 |**2026-04-08**|**SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions**|Jie Feng et.al.|[2604.01972](http://arxiv.org/abs/2604.01972)|null|

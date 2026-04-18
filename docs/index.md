@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.04.17
+## Updated on 2026.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-10**|**Performance of weakly-supervised electronic health record-based phenotyping methods in rare-outcome settings**|Yunjing Hong et.al.|[2604.09913](http://arxiv.org/abs/2604.09913)|null|
 |**2026-04-10**|**EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure**|Junyeong Ahn et.al.|[2604.09405](http://arxiv.org/abs/2604.09405)|null|
-|**2026-04-10**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
+|**2026-04-16**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
 |**2026-04-09**|**StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning**|Ivo Nowak et.al.|[2604.08620](http://arxiv.org/abs/2604.08620)|null|
 |**2026-04-06**|**Active Measurement of Two-Point Correlations**|Max Hamilton et.al.|[2604.05227](http://arxiv.org/abs/2604.05227)|null|
 |**2026-04-03**|**SentiAvatar: Towards Expressive and Interactive Digital Humans**|Chuhao Jin et.al.|[2604.02908](http://arxiv.org/abs/2604.02908)|null|
@@ -1341,6 +1342,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221](http://arxiv.org/abs/2604.15221)|null|
+|**2026-04-16**|**Predicting Power-System Dynamic Trajectories with Foundation Models**|Haoran Li et.al.|[2604.14991](http://arxiv.org/abs/2604.14991)|null|
+|**2026-04-15**|**Seeing Through Experts Eyes A Foundational Vision Language Model Trained on Radiologists Gaze and Reasoning**|Kinhei Lee et.al.|[2604.14316](http://arxiv.org/abs/2604.14316)|null|
 |**2026-04-14**|**Forecasting the Past: Gradient-Based Distribution Shift Detection in Trajectory Prediction**|Michele De Vita et.al.|[2604.12425](http://arxiv.org/abs/2604.12425)|null|
 |**2026-04-13**|**EagleVision: A Multi-Task Benchmark for Cross-Domain Perception in High-Speed Autonomous Racing**|Zakhar Yagudin et.al.|[2604.11400](http://arxiv.org/abs/2604.11400)|null|
 |**2026-04-13**|**Simulator Adaptation for Sim-to-Real Learning of Legged Locomotion via Proprioceptive Distribution Matching**|Jeremy Dao et.al.|[2604.11090](http://arxiv.org/abs/2604.11090)|null|
@@ -4137,6 +4141,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Improved Multiscale Structural Mapping with Supervertex Vision Transformer for the Detection of Alzheimer's Disease Neurodegeneration**|Geonwoo Baek et.al.|[2604.14837](http://arxiv.org/abs/2604.14837)|null|
+|**2026-04-15**|**DRG-Font: Dynamic Reference-Guided Few-shot Font Generation via Contrastive Style-Content Disentanglement**|Rejoy Chakraborty et.al.|[2604.13797](http://arxiv.org/abs/2604.13797)|null|
 |**2026-04-14**|**Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors**|Rong Wang et.al.|[2604.12309](http://arxiv.org/abs/2604.12309)|null|
 |**2026-04-11**|**A Comparison of Multi-View Stereo Methods for Photogrammetric 3D Reconstruction: From Traditional to Learning-Based Approaches**|Yawen Li et.al.|[2604.10246](http://arxiv.org/abs/2604.10246)|null|
 |**2026-04-10**|**Process Reward Agents for Steering Knowledge-Intensive Reasoning**|Jiwoong Sohn et.al.|[2604.09482](http://arxiv.org/abs/2604.09482)|null|
@@ -4582,6 +4588,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[2604.15239](http://arxiv.org/abs/2604.15239)|null|
+|**2026-04-14**|**3DRealHead: Few-Shot Detailed Head Avatar**|Jalees Nehvi et.al.|[2604.13171](http://arxiv.org/abs/2604.13171)|null|
 |**2026-04-14**|**Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising**|Xuelin Xie et.al.|[2604.12600](http://arxiv.org/abs/2604.12600)|null|
 |**2026-04-14**|**Spatially Resolved Kinematics of SLACS Lens Galaxies. II: Breaking Degeneracies with Lensing and Dynamical Models**|Shawn Knabel et.al.|[2604.12155](http://arxiv.org/abs/2604.12155)|null|
 |**2026-04-14**|**Nonlinear Stochastic Optimal Control and Optimal Stopping using the Fokker-Planck Transformation**|Akan Selim et.al.|[2604.12153](http://arxiv.org/abs/2604.12153)|null|

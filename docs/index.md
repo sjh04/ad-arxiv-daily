@@ -2,21 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models**|Tingzheng Jia et.al.|[2604.17787](http://arxiv.org/abs/2604.17787)|null|
+|**2026-04-19**|**Safer Trajectory Planning with CBF-guided Diffusion Model for Unmanned Aerial Vehicles**|Peiwen Yang et.al.|[2604.17527](http://arxiv.org/abs/2604.17527)|null|
 |**2026-04-08**|**Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling**|Andrew Millard et.al.|[2604.16461](http://arxiv.org/abs/2604.16461)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-10**|**Performance of weakly-supervised electronic health record-based phenotyping methods in rare-outcome settings**|Yunjing Hong et.al.|[2604.09913](http://arxiv.org/abs/2604.09913)|null|
 |**2026-04-10**|**EGLOCE: Training-Free Energy-Guided Latent Optimization for Concept Erasure**|Junyeong Ahn et.al.|[2604.09405](http://arxiv.org/abs/2604.09405)|null|
 |**2026-04-16**|**Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence**|Junchao Liao et.al.|[2604.09057](http://arxiv.org/abs/2604.09057)|null|
-|**2026-04-09**|**StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning**|Ivo Nowak et.al.|[2604.08620](http://arxiv.org/abs/2604.08620)|null|
+|**2026-04-19**|**StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning**|Ivo Nowak et.al.|[2604.08620](http://arxiv.org/abs/2604.08620)|null|
 |**2026-04-06**|**Active Measurement of Two-Point Correlations**|Max Hamilton et.al.|[2604.05227](http://arxiv.org/abs/2604.05227)|null|
-|**2026-04-03**|**SentiAvatar: Towards Expressive and Interactive Digital Humans**|Chuhao Jin et.al.|[2604.02908](http://arxiv.org/abs/2604.02908)|null|
+|**2026-04-19**|**SentiAvatar: Towards Expressive and Interactive Digital Humans**|Chuhao Jin et.al.|[2604.02908](http://arxiv.org/abs/2604.02908)|null|
 |**2026-04-02**|**SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing**|Thinh Dao et.al.|[2604.01715](http://arxiv.org/abs/2604.01715)|null|
 |**2026-04-02**|**Experience as a Compass: Multi-agent RAG with Evolving Orchestration and Agent Prompts**|Sha Li et.al.|[2604.00901](http://arxiv.org/abs/2604.00901)|null|
 |**2026-03-31**|**Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance**|Shanxian Lin et.al.|[2603.29774](http://arxiv.org/abs/2603.29774)|null|
@@ -1343,6 +1345,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
+|**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126](http://arxiv.org/abs/2604.18126)|null|
+|**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
 |**2026-04-18**|**NaviFormer: A Deep Reinforcement Learning Transformer-like Model to Holistically Solve the Navigation Problem**|Daniel Fuertes et.al.|[2604.16967](http://arxiv.org/abs/2604.16967)|null|
 |**2026-04-18**|**EdgeVTP: Exploration of Latency-efficient Trajectory Prediction for Edge-based Embedded Vision Applications**|Seungjin Kim et.al.|[2604.16783](http://arxiv.org/abs/2604.16783)|null|
 |**2026-04-16**|**Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees**|Jakob Thumm et.al.|[2604.15221](http://arxiv.org/abs/2604.15221)|null|
@@ -4144,6 +4149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**CrossPan: A Comprehensive Benchmark for Cross-Sequence Pancreas MRI Segmentation and Generalization**|Linkai Peng et.al.|[2604.18797](http://arxiv.org/abs/2604.18797)|null|
+|**2026-04-20**|**Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation**|Jiamin Zheng et.al.|[2604.18336](http://arxiv.org/abs/2604.18336)|null|
+|**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
 |**2026-04-16**|**Improved Multiscale Structural Mapping with Supervertex Vision Transformer for the Detection of Alzheimer's Disease Neurodegeneration**|Geonwoo Baek et.al.|[2604.14837](http://arxiv.org/abs/2604.14837)|null|
 |**2026-04-15**|**DRG-Font: Dynamic Reference-Guided Few-shot Font Generation via Contrastive Style-Content Disentanglement**|Rejoy Chakraborty et.al.|[2604.13797](http://arxiv.org/abs/2604.13797)|null|
 |**2026-04-14**|**Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors**|Rong Wang et.al.|[2604.12309](http://arxiv.org/abs/2604.12309)|null|
@@ -4591,6 +4599,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**Early Prediction of Student Performance Using Bayesian Updating with Informative Priors Across Cohorts**|Jakob Schwerter et.al.|[2604.19279](http://arxiv.org/abs/2604.19279)|null|
 |**2026-04-17**|**A Bayesian Updating Framework for Long-term Multi-Environment Trial Data in Plant Breeding**|Stephan Bark et.al.|[2604.16203](http://arxiv.org/abs/2604.16203)|null|
 |**2026-04-16**|**Evaluating LLM Simulators as Differentially Private Data Generators**|Nassima M. Bouzid et.al.|[2604.15461](http://arxiv.org/abs/2604.15461)|null|
 |**2026-04-16**|**TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens**|Jiawei Ren et.al.|[2604.15239](http://arxiv.org/abs/2604.15239)|null|

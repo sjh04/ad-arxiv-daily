@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
+|**2026-04-21**|**FASTER: Value-Guided Sampling for Fast RL**|Perry Dong et.al.|[2604.19730](http://arxiv.org/abs/2604.19730)|null|
 |**2026-04-20**|**AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models**|Tingzheng Jia et.al.|[2604.17787](http://arxiv.org/abs/2604.17787)|null|
 |**2026-04-19**|**Safer Trajectory Planning with CBF-guided Diffusion Model for Unmanned Aerial Vehicles**|Peiwen Yang et.al.|[2604.17527](http://arxiv.org/abs/2604.17527)|null|
 |**2026-04-08**|**Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling**|Andrew Millard et.al.|[2604.16461](http://arxiv.org/abs/2604.16461)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.24
+## Updated on 2026.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1347,6 +1347,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
 |**2026-04-20**|**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**|Jinghui Lu et.al.|[2604.18486](http://arxiv.org/abs/2604.18486)|null|
 |**2026-04-20**|**Chatting about Conditional Trajectory Prediction**|Yuxiang Zhao et.al.|[2604.18126](http://arxiv.org/abs/2604.18126)|null|
 |**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
@@ -4601,6 +4603,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Informative Priors on Primordial Non-Gaussianity Bias $b_φ$ From Galaxy Formation**|Anne Moore et.al.|[2604.21790](http://arxiv.org/abs/2604.21790)|null|
+|**2026-04-23**|**From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges**|Yiming Zhong et.al.|[2604.21391](http://arxiv.org/abs/2604.21391)|null|
+|**2026-04-22**|**WFM: 3D Wavelet Flow Matching for Ultrafast Multi-Modal MRI Synthesis**|Yalcin Tur et.al.|[2604.21146](http://arxiv.org/abs/2604.21146)|null|
+|**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
+|**2026-04-21**|**GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction**|Pradyumna YM et.al.|[2604.19624](http://arxiv.org/abs/2604.19624)|null|
 |**2026-04-21**|**Early Prediction of Student Performance Using Bayesian Updating with Informative Priors Across Cohorts**|Jakob Schwerter et.al.|[2604.19279](http://arxiv.org/abs/2604.19279)|null|
 |**2026-04-17**|**A Bayesian Updating Framework for Long-term Multi-Environment Trial Data in Plant Breeding**|Stephan Bark et.al.|[2604.16203](http://arxiv.org/abs/2604.16203)|null|
 |**2026-04-16**|**Evaluating LLM Simulators as Differentially Private Data Generators**|Nassima M. Bouzid et.al.|[2604.15461](http://arxiv.org/abs/2604.15461)|null|

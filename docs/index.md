@@ -2,17 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
+|**2026-04-27**|**Speech Enhancement Based on Drifting Models**|Liang Xu et.al.|[2604.24199](http://arxiv.org/abs/2604.24199)|null|
 |**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
 |**2026-04-21**|**FASTER: Value-Guided Sampling for Fast RL**|Perry Dong et.al.|[2604.19730](http://arxiv.org/abs/2604.19730)|null|
 |**2026-04-20**|**AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models**|Tingzheng Jia et.al.|[2604.17787](http://arxiv.org/abs/2604.17787)|null|
-|**2026-04-19**|**Safer Trajectory Planning with CBF-guided Diffusion Model for Unmanned Aerial Vehicles**|Peiwen Yang et.al.|[2604.17527](http://arxiv.org/abs/2604.17527)|null|
+|**2026-04-26**|**Safer Trajectory Planning with CBF-guided Diffusion Model for Unmanned Aerial Vehicles**|Peiwen Yang et.al.|[2604.17527](http://arxiv.org/abs/2604.17527)|null|
 |**2026-04-08**|**Modelling Gas-Phase Reaction Kinetics with Guided Particle Diffusion Sampling**|Andrew Millard et.al.|[2604.16461](http://arxiv.org/abs/2604.16461)|null|
 |**2026-04-14**|**Generative Refinement Networks for Visual Synthesis**|Jian Han et.al.|[2604.13030](http://arxiv.org/abs/2604.13030)|null|
 |**2026-04-10**|**Performance of weakly-supervised electronic health record-based phenotyping methods in rare-outcome settings**|Yunjing Hong et.al.|[2604.09913](http://arxiv.org/abs/2604.09913)|null|
@@ -1347,6 +1349,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**SceneSelect: Selective Learning for Trajectory Scene Classification and Expert Scheduling**|Xinrun Wang et.al.|[2604.24514](http://arxiv.org/abs/2604.24514)|null|
+|**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|null|
+|**2026-04-26**|**Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model**|Jingni Huang et.al.|[2604.23532](http://arxiv.org/abs/2604.23532)|null|
+|**2026-04-24**|**Within-person prediction of depressive symptom change using year-long Screenome data and CES-D assessments**|Merve Cerit et.al.|[2604.23040](http://arxiv.org/abs/2604.23040)|null|
+|**2026-04-24**|**Collaborative Trajectory Prediction via Late Fusion**|Nadya Abdel Madjid et.al.|[2604.22973](http://arxiv.org/abs/2604.22973)|null|
+|**2026-04-23**|**SketchVLM: Vision language models can annotate images to explain thoughts and guide users**|Brandon Collins et.al.|[2604.22875](http://arxiv.org/abs/2604.22875)|null|
 |**2026-04-24**|**Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions**|Hiroki Yoshida et.al.|[2604.22523](http://arxiv.org/abs/2604.22523)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
 |**2026-04-24**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
@@ -4154,6 +4162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation**|Shuaizhi Cheng et.al.|[2604.23750](http://arxiv.org/abs/2604.23750)|null|
 |**2026-04-20**|**CrossPan: A Comprehensive Benchmark for Cross-Sequence Pancreas MRI Segmentation and Generalization**|Linkai Peng et.al.|[2604.18797](http://arxiv.org/abs/2604.18797)|null|
 |**2026-04-20**|**Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation**|Jiamin Zheng et.al.|[2604.18336](http://arxiv.org/abs/2604.18336)|null|
 |**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
@@ -4604,6 +4613,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Bayesian inference for hidden Markov models under genuine multimodality with application to ecological time series**|Marco A. Gallegos-Herrada et.al.|[2604.24587](http://arxiv.org/abs/2604.24587)|null|
+|**2026-04-27**|**Combined shrinkage of fixed and random effects in linear mixed models using empirical Bayes**|Matteo Amestoy et.al.|[2604.24430](http://arxiv.org/abs/2604.24430)|null|
+|**2026-04-26**|**Rényi Pufferfish Privacy with Gaussian-based Priors: From Single Gaussian to Mixture Model**|Wenjin Yang et.al.|[2604.23649](http://arxiv.org/abs/2604.23649)|null|
+|**2026-04-26**|**Plug-and-Play Consistency Models for MIMO Channel Estimation**|Jinlong Li et.al.|[2604.23595](http://arxiv.org/abs/2604.23595)|null|
 |**2026-04-23**|**Informative Priors on Primordial Non-Gaussianity Bias $b_φ$ From Galaxy Formation**|Anne Moore et.al.|[2604.21790](http://arxiv.org/abs/2604.21790)|null|
 |**2026-04-23**|**From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges**|Yiming Zhong et.al.|[2604.21391](http://arxiv.org/abs/2604.21391)|null|
 |**2026-04-22**|**WFM: 3D Wavelet Flow Matching for Ultrafast Multi-Modal MRI Synthesis**|Yalcin Tur et.al.|[2604.21146](http://arxiv.org/abs/2604.21146)|null|

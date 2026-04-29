@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution**|John P. T. Stenger et.al.|[2604.25715](http://arxiv.org/abs/2604.25715)|null|
 |**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
 |**2026-04-27**|**Speech Enhancement Based on Drifting Models**|Liang Xu et.al.|[2604.24199](http://arxiv.org/abs/2604.24199)|null|
 |**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
@@ -1349,12 +1350,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation**|Yifan Xie et.al.|[2604.24681](http://arxiv.org/abs/2604.24681)|null|
 |**2026-04-27**|**SceneSelect: Selective Learning for Trajectory Scene Classification and Expert Scheduling**|Xinrun Wang et.al.|[2604.24514](http://arxiv.org/abs/2604.24514)|null|
 |**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|null|
 |**2026-04-26**|**Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model**|Jingni Huang et.al.|[2604.23532](http://arxiv.org/abs/2604.23532)|null|
 |**2026-04-24**|**Within-person prediction of depressive symptom change using year-long Screenome data and CES-D assessments**|Merve Cerit et.al.|[2604.23040](http://arxiv.org/abs/2604.23040)|null|
 |**2026-04-24**|**Collaborative Trajectory Prediction via Late Fusion**|Nadya Abdel Madjid et.al.|[2604.22973](http://arxiv.org/abs/2604.22973)|null|
-|**2026-04-23**|**SketchVLM: Vision language models can annotate images to explain thoughts and guide users**|Brandon Collins et.al.|[2604.22875](http://arxiv.org/abs/2604.22875)|null|
+|**2026-04-28**|**SketchVLM: Vision language models can annotate images to explain thoughts and guide users**|Brandon Collins et.al.|[2604.22875](http://arxiv.org/abs/2604.22875)|null|
 |**2026-04-24**|**Magnetoelastic Waves in Ferromagnetic Thin Films Mediated by Dipolar Interactions**|Hiroki Yoshida et.al.|[2604.22523](http://arxiv.org/abs/2604.22523)|null|
 |**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
 |**2026-04-24**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
@@ -4162,6 +4164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
 |**2026-04-26**|**The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation**|Shuaizhi Cheng et.al.|[2604.23750](http://arxiv.org/abs/2604.23750)|null|
 |**2026-04-20**|**CrossPan: A Comprehensive Benchmark for Cross-Sequence Pancreas MRI Segmentation and Generalization**|Linkai Peng et.al.|[2604.18797](http://arxiv.org/abs/2604.18797)|null|
 |**2026-04-20**|**Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation**|Jiamin Zheng et.al.|[2604.18336](http://arxiv.org/abs/2604.18336)|null|

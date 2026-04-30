@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
 |**2026-04-28**|**Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution**|John P. T. Stenger et.al.|[2604.25715](http://arxiv.org/abs/2604.25715)|null|
 |**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
 |**2026-04-27**|**Speech Enhancement Based on Drifting Models**|Liang Xu et.al.|[2604.24199](http://arxiv.org/abs/2604.24199)|null|
@@ -1350,6 +1351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-27**|**Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation**|Yifan Xie et.al.|[2604.24681](http://arxiv.org/abs/2604.24681)|null|
 |**2026-04-27**|**SceneSelect: Selective Learning for Trajectory Scene Classification and Expert Scheduling**|Xinrun Wang et.al.|[2604.24514](http://arxiv.org/abs/2604.24514)|null|
 |**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|null|
@@ -4164,6 +4166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**AlphaJet: Automated Conceptual Aircraft Synthesis via Disentangled Generative Priors and Topology-Preserving Evolutionary Search**|Boris Kriuk et.al.|[2604.26337](http://arxiv.org/abs/2604.26337)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
 |**2026-04-26**|**The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation**|Shuaizhi Cheng et.al.|[2604.23750](http://arxiv.org/abs/2604.23750)|null|
 |**2026-04-20**|**CrossPan: A Comprehensive Benchmark for Cross-Sequence Pancreas MRI Segmentation and Generalization**|Linkai Peng et.al.|[2604.18797](http://arxiv.org/abs/2604.18797)|null|
@@ -4616,6 +4619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-27**|**Bayesian inference for hidden Markov models under genuine multimodality with application to ecological time series**|Marco A. Gallegos-Herrada et.al.|[2604.24587](http://arxiv.org/abs/2604.24587)|null|
 |**2026-04-27**|**Combined shrinkage of fixed and random effects in linear mixed models using empirical Bayes**|Matteo Amestoy et.al.|[2604.24430](http://arxiv.org/abs/2604.24430)|null|
 |**2026-04-26**|**Rényi Pufferfish Privacy with Gaussian-based Priors: From Single Gaussian to Mixture Model**|Wenjin Yang et.al.|[2604.23649](http://arxiv.org/abs/2604.23649)|null|
@@ -4811,6 +4815,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**LATTICE: Evaluating Decision Support Utility of Crypto Agents**|Aaron Chan et.al.|[2604.26235](http://arxiv.org/abs/2604.26235)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|
 |**2026-04-13**|**Naka-GS: A Bionics-inspired Dual-Branch Naka Correction and Progressive Point Pruning for Low-Light 3DGS**|Runyu Zhu et.al.|[2604.11142](http://arxiv.org/abs/2604.11142)|null|
 |**2026-04-07**|**Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**|Zhihan Zeng et.al.|[2604.05788](http://arxiv.org/abs/2604.05788)|null|

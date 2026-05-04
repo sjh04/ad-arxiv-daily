@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning**|Chengshuai Shi et.al.|[2605.00347](http://arxiv.org/abs/2605.00347)|null|
+|**2026-04-30**|**Frequency spreading of internal wave energy by balanced flows in two dimensions**|Nicholas DeFilippis et.al.|[2605.00243](http://arxiv.org/abs/2605.00243)|null|
+|**2026-04-29**|**Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure**|Diego F. Cuadros et.al.|[2605.00055](http://arxiv.org/abs/2605.00055)|null|
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
 |**2026-04-28**|**Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution**|John P. T. Stenger et.al.|[2604.25715](http://arxiv.org/abs/2604.25715)|null|
 |**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
@@ -1351,6 +1354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Deployment-Efficient Short-Term Load Forecasting in AI Data Centers via Sequence-to-Point Knowledge Distillation**|Lei Wang et.al.|[2605.00681](http://arxiv.org/abs/2605.00681)|null|
+|**2026-05-01**|**Time-series Meets Complex Motion Modeling: Robust and Computational-effective Motion Predictor for Multi-object Tracking**|Nhat-Tan Do et.al.|[2605.00362](http://arxiv.org/abs/2605.00362)|null|
+|**2026-04-30**|**Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction**|Wentao Chen et.al.|[2605.00059](http://arxiv.org/abs/2605.00059)|null|
 |**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|null|
 |**2026-04-30**|**Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction**|Mengfei Zhang et.al.|[2604.27491](http://arxiv.org/abs/2604.27491)|null|
 |**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
@@ -4168,6 +4174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
+|**2026-05-01**|**Beyond Independence: on Jointly Normal Priors in Bayesian Inversion**|Ruanui Nicholson et.al.|[2605.00332](http://arxiv.org/abs/2605.00332)|null|
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106](http://arxiv.org/abs/2604.27106)|null|
 |**2026-04-29**|**AlphaJet: Automated Conceptual Aircraft Synthesis via Disentangled Generative Priors and Topology-Preserving Evolutionary Search**|Boris Kriuk et.al.|[2604.26337](http://arxiv.org/abs/2604.26337)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
@@ -4622,6 +4630,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**|Avijit Bera et.al.|[2605.00818](http://arxiv.org/abs/2605.00818)|null|
+|**2026-04-30**|**Provable and scalable quantum Gaussian processes for quantum learning**|Jonas Jäger et.al.|[2605.00099](http://arxiv.org/abs/2605.00099)|null|
 |**2026-04-30**|**Constraining Dipole Radiation with Multiband Gravitational Waves from Eccentric Binary Black Holes**|Han Wang et.al.|[2604.27734](http://arxiv.org/abs/2604.27734)|null|
 |**2026-04-30**|**Martingale Posteriors for Discretely Observed Diffusions**|Jingning Yao et.al.|[2604.27603](http://arxiv.org/abs/2604.27603)|null|
 |**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|

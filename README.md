@@ -1,4 +1,4 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning**|Chengshuai Shi et.al.|[2605.00347](http://arxiv.org/abs/2605.00347)|null|
+|**2026-04-30**|**Frequency spreading of internal wave energy by balanced flows in two dimensions**|Nicholas DeFilippis et.al.|[2605.00243](http://arxiv.org/abs/2605.00243)|null|
+|**2026-04-29**|**Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure**|Diego F. Cuadros et.al.|[2605.00055](http://arxiv.org/abs/2605.00055)|null|
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
 |**2026-04-28**|**Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution**|John P. T. Stenger et.al.|[2604.25715](http://arxiv.org/abs/2604.25715)|null|
 |**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
@@ -1281,7 +1284,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1359,12 +1362,15 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**Deployment-Efficient Short-Term Load Forecasting in AI Data Centers via Sequence-to-Point Knowledge Distillation**|Lei Wang et.al.|[2605.00681](http://arxiv.org/abs/2605.00681)|null|
+|**2026-05-01**|**Time-series Meets Complex Motion Modeling: Robust and Computational-effective Motion Predictor for Multi-object Tracking**|Nhat-Tan Do et.al.|[2605.00362](http://arxiv.org/abs/2605.00362)|null|
+|**2026-04-30**|**Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction**|Wentao Chen et.al.|[2605.00059](http://arxiv.org/abs/2605.00059)|null|
 |**2026-04-30**|**Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements**|Genki Kinoshita et.al.|[2604.28173](http://arxiv.org/abs/2604.28173)|null|
 |**2026-04-30**|**Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction**|Mengfei Zhang et.al.|[2604.27491](http://arxiv.org/abs/2604.27491)|null|
 |**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
@@ -2155,7 +2161,7 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3759,7 +3765,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Simulation
 
@@ -4182,12 +4188,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
+|**2026-05-01**|**Beyond Independence: on Jointly Normal Priors in Bayesian Inversion**|Ruanui Nicholson et.al.|[2605.00332](http://arxiv.org/abs/2605.00332)|null|
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106](http://arxiv.org/abs/2604.27106)|null|
 |**2026-04-29**|**AlphaJet: Automated Conceptual Aircraft Synthesis via Disentangled Generative Priors and Topology-Preserving Evolutionary Search**|Boris Kriuk et.al.|[2604.26337](http://arxiv.org/abs/2604.26337)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
@@ -4638,12 +4646,14 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Diffusion & Priors (General)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-01**|**$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**|Avijit Bera et.al.|[2605.00818](http://arxiv.org/abs/2605.00818)|null|
+|**2026-04-30**|**Provable and scalable quantum Gaussian processes for quantum learning**|Jonas Jäger et.al.|[2605.00099](http://arxiv.org/abs/2605.00099)|null|
 |**2026-04-30**|**Constraining Dipole Radiation with Multiband Gravitational Waves from Eccentric Binary Black Holes**|Han Wang et.al.|[2604.27734](http://arxiv.org/abs/2604.27734)|null|
 |**2026-04-30**|**Martingale Posteriors for Discretely Observed Diffusions**|Jingning Yao et.al.|[2604.27603](http://arxiv.org/abs/2604.27603)|null|
 |**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
@@ -4840,7 +4850,7 @@
 |**2025-11-28**|**Incorporating neutron star physics into gravitational wave inference with neural priors**|Thibeau Wouters et.al.|[2511.22987](http://arxiv.org/abs/2511.22987)|null|
 |**2025-11-27**|**Data-driven informative priors for Bayesian inference with quasi-periodic data**|Javier Lopez-Santiago et.al.|[2511.22296](http://arxiv.org/abs/2511.22296)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 ## Simulation & Generation
 
@@ -4897,7 +4907,7 @@
 |**2025-08-31**|**Look Beyond: Two-Stage Scene View Generation via Panorama and Video Diffusion**|Xueyang Kang et.al.|[2509.00843](http://arxiv.org/abs/2509.00843)|null|
 |**2025-09-25**|**FastTracker: Real-Time and Accurate Visual Tracking**|Hamidreza Hashempoor et.al.|[2508.14370](http://arxiv.org/abs/2508.14370)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1354,6 +1354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
+|**2026-05-04**|**The 2026 ACII Dyadic Conversations (DaiKon) Workshop & Challenge**|Panagiotis Tzirakis et.al.|[2605.02672](http://arxiv.org/abs/2605.02672)|null|
+|**2026-05-02**|**From Stealthy Data Fabrication to Unsafe Driving: Realistic Scenario Attacks on Collaborative Perception**|Qingzhao Zhang et.al.|[2605.01301](http://arxiv.org/abs/2605.01301)|null|
 |**2026-05-01**|**Deployment-Efficient Short-Term Load Forecasting in AI Data Centers via Sequence-to-Point Knowledge Distillation**|Lei Wang et.al.|[2605.00681](http://arxiv.org/abs/2605.00681)|null|
 |**2026-05-01**|**Time-series Meets Complex Motion Modeling: Robust and Computational-effective Motion Predictor for Multi-object Tracking**|Nhat-Tan Do et.al.|[2605.00362](http://arxiv.org/abs/2605.00362)|null|
 |**2026-04-30**|**Dynamic-TD3: A Novel Algorithm for UAV Path Planning with Dynamic Obstacle Trajectory Prediction**|Wentao Chen et.al.|[2605.00059](http://arxiv.org/abs/2605.00059)|null|
@@ -4174,6 +4177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
 |**2026-05-01**|**2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction**|Prajwal Gupta C. R. et.al.|[2605.00569](http://arxiv.org/abs/2605.00569)|null|
 |**2026-05-01**|**Beyond Independence: on Jointly Normal Priors in Bayesian Inversion**|Ruanui Nicholson et.al.|[2605.00332](http://arxiv.org/abs/2605.00332)|null|
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106](http://arxiv.org/abs/2604.27106)|null|
@@ -4832,6 +4836,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-02**|**Auditing demographic bias in AI-based emergency police dispatch: a cross-lingual evaluation of eleven large language models**|William Guey et.al.|[2605.01451](http://arxiv.org/abs/2605.01451)|null|
 |**2026-04-30**|**Robust Lightweight Crack Classification for Real-Time UAV Bridge Inspection**|Wei Li et.al.|[2604.27617](http://arxiv.org/abs/2604.27617)|null|
 |**2026-04-29**|**LATTICE: Evaluating Decision Support Utility of Crypto Agents**|Aaron Chan et.al.|[2604.26235](http://arxiv.org/abs/2604.26235)|null|
 |**2026-04-14**|**SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**|Kathakoli Sengupta et.al.|[2604.13035](http://arxiv.org/abs/2604.13035)|null|

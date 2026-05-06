@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory**|Yuhui Wang et.al.|[2605.03228](http://arxiv.org/abs/2605.03228)|null|
+|**2026-05-03**|**Remote Action Generation: Remote Control with Minimal Communication**|Szymon Kobus et.al.|[2605.01833](http://arxiv.org/abs/2605.01833)|null|
 |**2026-05-01**|**Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning**|Chengshuai Shi et.al.|[2605.00347](http://arxiv.org/abs/2605.00347)|null|
 |**2026-04-30**|**Frequency spreading of internal wave energy by balanced flows in two dimensions**|Nicholas DeFilippis et.al.|[2605.00243](http://arxiv.org/abs/2605.00243)|null|
 |**2026-04-29**|**Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure**|Diego F. Cuadros et.al.|[2605.00055](http://arxiv.org/abs/2605.00055)|null|
@@ -4634,11 +4636,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Improved estimation of positive powers of scale parameters of exponential distributions under a prior information**|Somnath Mondal et.al.|[2605.03754](http://arxiv.org/abs/2605.03754)|null|
+|**2026-05-05**|**DECKER: Domain-invariant Embedding for Cross-Keyboard Extraction and Recognition**|Bikrant Bikram Pratap Maurya et.al.|[2605.03384](http://arxiv.org/abs/2605.03384)|null|
+|**2026-05-03**|**Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges**|Eitan Kosman et.al.|[2605.02973](http://arxiv.org/abs/2605.02973)|null|
+|**2026-05-04**|**Prior elicitation for Bayesian estimation of single-subject connectivity networks**|Yiye Jiang et.al.|[2605.02587](http://arxiv.org/abs/2605.02587)|null|
+|**2026-05-04**|**Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection**|Fuyun Wang et.al.|[2605.02438](http://arxiv.org/abs/2605.02438)|null|
+|**2026-05-03**|**PRCD-MAP: Learning How Much to Trust Imperfect Priors in Causal Discovery**|Xihang Shan et.al.|[2605.01669](http://arxiv.org/abs/2605.01669)|null|
+|**2026-05-02**|**Unifying Deep Stochastic Processes for Image Enhancement**|Wojciech Kozłowski et.al.|[2605.01568](http://arxiv.org/abs/2605.01568)|null|
+|**2026-05-01**|**Pi-Change: A Prior-Informed Multiple Change Point Detection Algorithm**|Jonathon Jacobs et.al.|[2605.01003](http://arxiv.org/abs/2605.01003)|null|
 |**2026-05-01**|**$4\times3$ Point Correlation Functions in Galaxy Surveys: Impact of Baryonic Feedback**|Avijit Bera et.al.|[2605.00818](http://arxiv.org/abs/2605.00818)|null|
 |**2026-04-30**|**Provable and scalable quantum Gaussian processes for quantum learning**|Jonas Jäger et.al.|[2605.00099](http://arxiv.org/abs/2605.00099)|null|
 |**2026-04-30**|**Constraining Dipole Radiation with Multiband Gravitational Waves from Eccentric Binary Black Holes**|Han Wang et.al.|[2604.27734](http://arxiv.org/abs/2604.27734)|null|
 |**2026-04-30**|**Martingale Posteriors for Discretely Observed Diffusions**|Jingning Yao et.al.|[2604.27603](http://arxiv.org/abs/2604.27603)|null|
-|**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
+|**2026-05-05**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
 |**2026-04-30**|**Personalizing Cancer Models under Data Scarcity via Parameter Decomposition**|Logan Rose et.al.|[2604.27408](http://arxiv.org/abs/2604.27408)|null|
 |**2026-04-28**|**FlowS: One-Step Motion Prediction via Local Transport Conditioning**|Leandro Di Bella et.al.|[2604.26065](http://arxiv.org/abs/2604.26065)|null|
 |**2026-04-30**|**Bayesian inference for hidden Markov models under genuine multimodality with application to ecological time series**|Marco A. Gallegos-Herrada et.al.|[2604.24587](http://arxiv.org/abs/2604.24587)|null|

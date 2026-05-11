@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1357,7 +1357,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**Entropy-Regularized Adjoint Matching for Offline RL**|Abdelghani Ghanem et.al.|[2605.06156](http://arxiv.org/abs/2605.06156)|null|
+|**2026-05-07**|**Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation**|Andrew Stratton et.al.|[2605.06863](http://arxiv.org/abs/2605.06863)|null|
+|**2026-05-07**|**PAMPOS: Causal Transformer-based Trajectory Prediction for Attack-Agnostic Misbehavior Detection in V2X Networks**|Konstantinos Kalogiannis et.al.|[2605.06833](http://arxiv.org/abs/2605.06833)|null|
+|**2026-05-08**|**Entropy-Regularized Adjoint Matching for Offline Reinforcement Learning**|Abdelghani Ghanem et.al.|[2605.06156](http://arxiv.org/abs/2605.06156)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784](http://arxiv.org/abs/2605.02784)|null|
 |**2026-05-04**|**The 2026 ACII Dyadic Conversations (DaiKon) Workshop & Challenge**|Panagiotis Tzirakis et.al.|[2605.02672](http://arxiv.org/abs/2605.02672)|null|
 |**2026-05-02**|**From Stealthy Data Fabrication to Unsafe Driving: Realistic Scenario Attacks on Collaborative Perception**|Qingzhao Zhang et.al.|[2605.01301](http://arxiv.org/abs/2605.01301)|null|
@@ -4181,6 +4183,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
+|**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
+|**2026-05-08**|**DPG-CD: Depth-Prior-Guided Cross-Modal Joint 2D-3D Change Detection**|Luqi Zhang et.al.|[2605.07151](http://arxiv.org/abs/2605.07151)|null|
+|**2026-05-07**|**Partitioning Neural Co-Variability**|Skyler Thomas et.al.|[2605.06995](http://arxiv.org/abs/2605.06995)|null|
 |**2026-05-07**|**Agentic AIs Are the Missing Paradigm for Out-of-Distribution Generalization in Foundation Models**|Xin Wang et.al.|[2605.06522](http://arxiv.org/abs/2605.06522)|null|
 |**2026-05-04**|**A Partition-Based Generating Function for Row-Convex Polyominoes**|Vincenzo M. Scarrica et.al.|[2605.03203](http://arxiv.org/abs/2605.03203)|null|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
@@ -4640,6 +4646,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means**|Valentin Kilian et.al.|[2605.07964](http://arxiv.org/abs/2605.07964)|null|
+|**2026-05-08**|**Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR**|Tao Wang et.al.|[2605.07114](http://arxiv.org/abs/2605.07114)|null|
+|**2026-05-07**|**Conservative Flows: A New Paradigm of Generative Models**|Eshed Gal et.al.|[2605.06905](http://arxiv.org/abs/2605.06905)|null|
 |**2026-05-07**|**Market-Alignment Risk in Pricing Agents: Trace Diagnostics and Trace-Prior RL under Hidden Competitor State**|Peiying Zhu et.al.|[2605.06529](http://arxiv.org/abs/2605.06529)|null|
 |**2026-05-07**|**Two-mode geometry controls multiscale organization in bipartite systems**|Ottavia Falconi et.al.|[2605.06208](http://arxiv.org/abs/2605.06208)|null|
 |**2026-05-07**|**DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation**|Sankarshana Venugopal et.al.|[2605.05889](http://arxiv.org/abs/2605.05889)|null|

@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094](http://arxiv.org/abs/2605.10094)|null|
+|**2026-05-09**|**Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion**|Jianhui Chen et.al.|[2605.08804](http://arxiv.org/abs/2605.08804)|null|
+|**2026-05-09**|**From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation**|Bohan Li et.al.|[2605.08712](http://arxiv.org/abs/2605.08712)|null|
+|**2026-05-09**|**Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes**|Yeon-Ji Song et.al.|[2605.08635](http://arxiv.org/abs/2605.08635)|null|
 |**2026-05-06**|**SEI-SHIELD: Robust Specific Emitter Identification Under Label Noise Via Self-Supervised Filtering and Iterative Rescue**|Ruixiang Zhang et.al.|[2605.04721](http://arxiv.org/abs/2605.04721)|null|
 |**2026-05-04**|**MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory**|Yuhui Wang et.al.|[2605.03228](http://arxiv.org/abs/2605.03228)|null|
 |**2026-05-03**|**Remote Action Generation: Remote Control with Minimal Communication**|Szymon Kobus et.al.|[2605.01833](http://arxiv.org/abs/2605.01833)|null|
@@ -1357,6 +1361,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**MoPO: Incorporating Motion Prior for Occluded Human Mesh Recovery**|Tao Tang et.al.|[2605.09856](http://arxiv.org/abs/2605.09856)|null|
+|**2026-05-10**|**SAMOFT: Robust Multi-Object Tracking via Region and Flow**|Yanchao Wang et.al.|[2605.09417](http://arxiv.org/abs/2605.09417)|null|
+|**2026-05-09**|**Latency Analysis and Optimization of Alpamayo 1 via Efficient Trajectory Generation**|Yunseong Jeon et.al.|[2605.08975](http://arxiv.org/abs/2605.08975)|null|
+|**2026-05-09**|**DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding**|Xiang Feng et.al.|[2605.08888](http://arxiv.org/abs/2605.08888)|null|
+|**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830](http://arxiv.org/abs/2605.08830)|null|
+|**2026-05-09**|**Enhancing Consistency Models for Multi-Agent Trajectory Prediction**|Alen Mrdovic et.al.|[2605.08572](http://arxiv.org/abs/2605.08572)|null|
 |**2026-05-07**|**Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation**|Andrew Stratton et.al.|[2605.06863](http://arxiv.org/abs/2605.06863)|null|
 |**2026-05-07**|**PAMPOS: Causal Transformer-based Trajectory Prediction for Attack-Agnostic Misbehavior Detection in V2X Networks**|Konstantinos Kalogiannis et.al.|[2605.06833](http://arxiv.org/abs/2605.06833)|null|
 |**2026-05-08**|**Entropy-Regularized Adjoint Matching for Offline Reinforcement Learning**|Abdelghani Ghanem et.al.|[2605.06156](http://arxiv.org/abs/2605.06156)|null|
@@ -4183,6 +4193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**When Normality Shifts: Risk-Aware Test-Time Adaptation for Unsupervised Tabular Anomaly Detection**|Wei Huang et.al.|[2605.10242](http://arxiv.org/abs/2605.10242)|null|
 |**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
 |**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
 |**2026-05-08**|**DPG-CD: Depth-Prior-Guided Cross-Modal Joint 2D-3D Change Detection**|Luqi Zhang et.al.|[2605.07151](http://arxiv.org/abs/2605.07151)|null|
@@ -4646,7 +4657,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-08**|**Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means**|Valentin Kilian et.al.|[2605.07964](http://arxiv.org/abs/2605.07964)|null|
+|**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|null|
+|**2026-05-11**|**Supercharging Bayesian Inference with Reliable AI-Informed Priors**|Jongwoo Choi et.al.|[2605.09834](http://arxiv.org/abs/2605.09834)|null|
+|**2026-05-10**|**FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**|Junkang Zhou et.al.|[2605.09430](http://arxiv.org/abs/2605.09430)|null|
+|**2026-05-09**|**Lost in Volume: The CT-SpatialVQA Benchmark for Evaluating Semantic-Spatial Understanding of 3D Medical Vision-Language Models**|Mashrafi Monon et.al.|[2605.08787](http://arxiv.org/abs/2605.08787)|null|
+|**2026-05-08**|**Improving Parameter-Efficient Federated Learning with Differentially Private Refactorization**|Linh Tran et.al.|[2605.08443](http://arxiv.org/abs/2605.08443)|null|
+|**2026-05-07**|**Multimodal Emotion Recognition via Causal-Diffusion Bridge (Affect-Diff)**|Ankit Sanjyal et.al.|[2605.08252](http://arxiv.org/abs/2605.08252)|null|
+|**2026-05-11**|**Asymptotically Log-Optimal Bayes-Assisted Confidence Sequences for Bounded Means**|Valentin Kilian et.al.|[2605.07964](http://arxiv.org/abs/2605.07964)|null|
 |**2026-05-08**|**Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR**|Tao Wang et.al.|[2605.07114](http://arxiv.org/abs/2605.07114)|null|
 |**2026-05-07**|**Conservative Flows: A New Paradigm of Generative Models**|Eshed Gal et.al.|[2605.06905](http://arxiv.org/abs/2605.06905)|null|
 |**2026-05-07**|**Market-Alignment Risk in Pricing Agents: Trace Diagnostics and Trace-Prior RL under Hidden Competitor State**|Peiying Zhu et.al.|[2605.06529](http://arxiv.org/abs/2605.06529)|null|
@@ -4865,6 +4882,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-10**|**SKG-VLA: Scene Knowledge Graph Priors for Structured Scene Semantics and Multimodal Reasoning for Decision Making**|Zeyu Li et.al.|[2605.09343](http://arxiv.org/abs/2605.09343)|null|
+|**2026-05-09**|**simpleposter: a simple baseline for product poster generation**|Benlei Cui et.al.|[2605.08784](http://arxiv.org/abs/2605.08784)|null|
 |**2026-05-07**|**DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification**|Lei Tan et.al.|[2605.06637](http://arxiv.org/abs/2605.06637)|null|
 |**2026-05-02**|**Auditing demographic bias in AI-based emergency police dispatch: a cross-lingual evaluation of eleven large language models**|William Guey et.al.|[2605.01451](http://arxiv.org/abs/2605.01451)|null|
 |**2026-04-30**|**Robust Lightweight Crack Classification for Real-Time UAV Bridge Inspection**|Wei Li et.al.|[2604.27617](http://arxiv.org/abs/2604.27617)|null|

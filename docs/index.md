@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-11**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094](http://arxiv.org/abs/2605.10094)|null|
-|**2026-05-09**|**Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion**|Jianhui Chen et.al.|[2605.08804](http://arxiv.org/abs/2605.08804)|null|
+|**2026-05-12**|**Retrieve-then-Steer: Online Success Memory for Test-Time Adaptation of Generative VLAs**|Jianchao Zhao et.al.|[2605.10094](http://arxiv.org/abs/2605.10094)|null|
+|**2026-05-12**|**Constraint-Aware Diffusion Priors for High-Fidelity and Versatile Quadruped Locomotion**|Jianhui Chen et.al.|[2605.08804](http://arxiv.org/abs/2605.08804)|null|
 |**2026-05-09**|**From Articulated Kinematics to Routed Visual Control for Action-Conditioned Surgical Video Generation**|Bohan Li et.al.|[2605.08712](http://arxiv.org/abs/2605.08712)|null|
 |**2026-05-09**|**Kinematics-Driven Gaussian Shape Deformation for Blurry Monocular Dynamic Scenes**|Yeon-Ji Song et.al.|[2605.08635](http://arxiv.org/abs/2605.08635)|null|
 |**2026-05-06**|**SEI-SHIELD: Robust Specific Emitter Identification Under Label Noise Via Self-Supervised Filtering and Iterative Rescue**|Ruixiang Zhang et.al.|[2605.04721](http://arxiv.org/abs/2605.04721)|null|
@@ -22,7 +22,7 @@ layout: default
 |**2026-04-29**|**$\text{PKS}^4$ :Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding**|Lingjie Zeng et.al.|[2604.26461](http://arxiv.org/abs/2604.26461)|null|
 |**2026-04-28**|**Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution**|John P. T. Stenger et.al.|[2604.25715](http://arxiv.org/abs/2604.25715)|null|
 |**2026-04-27**|**Mitigating Error Amplification in Fast Adversarial Training**|Mengnan Zhao et.al.|[2604.24332](http://arxiv.org/abs/2604.24332)|null|
-|**2026-04-27**|**Speech Enhancement Based on Drifting Models**|Liang Xu et.al.|[2604.24199](http://arxiv.org/abs/2604.24199)|null|
+|**2026-05-11**|**Speech Enhancement Based on Drifting Models**|Liang Xu et.al.|[2604.24199](http://arxiv.org/abs/2604.24199)|null|
 |**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
 |**2026-04-21**|**FASTER: Value-Guided Sampling for Fast RL**|Perry Dong et.al.|[2604.19730](http://arxiv.org/abs/2604.19730)|null|
 |**2026-04-20**|**AnchorRefine: Synergy-Manipulation Based on Trajectory Anchor and Residual Refinement for Vision-Language-Action Models**|Tingzheng Jia et.al.|[2604.17787](http://arxiv.org/abs/2604.17787)|null|
@@ -1361,6 +1361,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Causality-Aware End-to-End Autonomous Driving via Ego-Centric Joint Scene Modeling**|Seokha Moon et.al.|[2605.13646](http://arxiv.org/abs/2605.13646)|null|
+|**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
+|**2026-05-13**|**Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes**|Julien Martinelli et.al.|[2605.13088](http://arxiv.org/abs/2605.13088)|null|
+|**2026-05-12**|**Still Camouflage, Moving Illusion: View-Induced Trajectory Manipulation in Autonomous Driving**|Shuo Ju et.al.|[2605.12743](http://arxiv.org/abs/2605.12743)|null|
+|**2026-05-13**|**Lane-Aware Graph Attention Network for Multi-Vehicle Trajectory Prediction in Expressway Merge Zones**|Eni Solomon Laughter et.al.|[2605.11940](http://arxiv.org/abs/2605.11940)|null|
+|**2026-05-12**|**Encore: Conditioning Trajectory Forecasting via Biased Ego Rehearsals**|Conghao Wong et.al.|[2605.11463](http://arxiv.org/abs/2605.11463)|null|
+|**2026-05-12**|**JACoP: Joint Alignment for Compliant Multi-Agent Prediction**|Qingze Liu et.al.|[2605.11385](http://arxiv.org/abs/2605.11385)|null|
+|**2026-05-11**|**Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction**|Yumao Liu et.al.|[2605.10388](http://arxiv.org/abs/2605.10388)|null|
+|**2026-05-11**|**SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation**|Niyati Rawal et.al.|[2605.10376](http://arxiv.org/abs/2605.10376)|null|
 |**2026-05-11**|**MoPO: Incorporating Motion Prior for Occluded Human Mesh Recovery**|Tao Tang et.al.|[2605.09856](http://arxiv.org/abs/2605.09856)|null|
 |**2026-05-10**|**SAMOFT: Robust Multi-Object Tracking via Region and Flow**|Yanchao Wang et.al.|[2605.09417](http://arxiv.org/abs/2605.09417)|null|
 |**2026-05-09**|**Latency Analysis and Optimization of Alpamayo 1 via Efficient Trajectory Generation**|Yunseong Jeon et.al.|[2605.08975](http://arxiv.org/abs/2605.08975)|null|
@@ -4193,8 +4202,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-13**|**Three-Stage Learning Unlocks Strong Performance in Simple Models for Long-Term Time Series Forecasting**|Zhenan Yu et.al.|[2605.13678](http://arxiv.org/abs/2605.13678)|null|
 |**2026-05-11**|**When Normality Shifts: Risk-Aware Test-Time Adaptation for Unsupervised Tabular Anomaly Detection**|Wei Huang et.al.|[2605.10242](http://arxiv.org/abs/2605.10242)|null|
-|**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
+|**2026-05-11**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
 |**2026-05-08**|**NoiseGate: Learning Per-Latent Timestep Schedules as Information Gating in World Action Models**|Wen Huang et.al.|[2605.07794](http://arxiv.org/abs/2605.07794)|null|
 |**2026-05-08**|**DPG-CD: Depth-Prior-Guided Cross-Modal Joint 2D-3D Change Detection**|Luqi Zhang et.al.|[2605.07151](http://arxiv.org/abs/2605.07151)|null|
 |**2026-05-07**|**Partitioning Neural Co-Variability**|Skyler Thomas et.al.|[2605.06995](http://arxiv.org/abs/2605.06995)|null|
@@ -4206,7 +4216,7 @@ layout: default
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106](http://arxiv.org/abs/2604.27106)|null|
 |**2026-04-29**|**AlphaJet: Automated Conceptual Aircraft Synthesis via Disentangled Generative Priors and Topology-Preserving Evolutionary Search**|Boris Kriuk et.al.|[2604.26337](http://arxiv.org/abs/2604.26337)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
-|**2026-04-26**|**The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation**|Shuaizhi Cheng et.al.|[2604.23750](http://arxiv.org/abs/2604.23750)|null|
+|**2026-05-11**|**The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation**|Shuaizhi Cheng et.al.|[2604.23750](http://arxiv.org/abs/2604.23750)|null|
 |**2026-04-20**|**CrossPan: A Comprehensive Benchmark for Cross-Sequence Pancreas MRI Segmentation and Generalization**|Linkai Peng et.al.|[2604.18797](http://arxiv.org/abs/2604.18797)|null|
 |**2026-05-06**|**Enhancing Glass Surface Reconstruction via Depth Prior for Robot Navigation**|Jiamin Zheng et.al.|[2604.18336](http://arxiv.org/abs/2604.18336)|null|
 |**2026-04-20**|**CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement**|Pan Wang et.al.|[2604.18032](http://arxiv.org/abs/2604.18032)|null|
@@ -4657,9 +4667,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration**|Davide Evangelista et.al.|[2605.12573](http://arxiv.org/abs/2605.12573)|null|
+|**2026-05-12**|**A Line--Search--Based Stochastic Gradient Method for 3D Computed Tomography**|Tatiana A. Bubba et.al.|[2605.12085](http://arxiv.org/abs/2605.12085)|null|
+|**2026-05-12**|**Sharpen Your Flow: Sharpness-Aware Sampling for Flow Matching**|Aditi Gupta et.al.|[2605.11547](http://arxiv.org/abs/2605.11547)|null|
+|**2026-05-11**|**Composing diffusion priors with explicit physical context via generative Gibbs sampling**|Weizhou Wang et.al.|[2605.10642](http://arxiv.org/abs/2605.10642)|null|
 |**2026-05-11**|**Learning to Align Generative Appearance Priors for Fine-grained Image Retrieval**|Shijie Wang et.al.|[2605.09859](http://arxiv.org/abs/2605.09859)|null|
 |**2026-05-11**|**Supercharging Bayesian Inference with Reliable AI-Informed Priors**|Jongwoo Choi et.al.|[2605.09834](http://arxiv.org/abs/2605.09834)|null|
-|**2026-05-10**|**FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**|Junkang Zhou et.al.|[2605.09430](http://arxiv.org/abs/2605.09430)|null|
+|**2026-05-12**|**FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**|Junkang Zhou et.al.|[2605.09430](http://arxiv.org/abs/2605.09430)|null|
 |**2026-05-09**|**Lost in Volume: The CT-SpatialVQA Benchmark for Evaluating Semantic-Spatial Understanding of 3D Medical Vision-Language Models**|Mashrafi Monon et.al.|[2605.08787](http://arxiv.org/abs/2605.08787)|null|
 |**2026-05-08**|**Improving Parameter-Efficient Federated Learning with Differentially Private Refactorization**|Linh Tran et.al.|[2605.08443](http://arxiv.org/abs/2605.08443)|null|
 |**2026-05-07**|**Multimodal Emotion Recognition via Causal-Diffusion Bridge (Affect-Diff)**|Ankit Sanjyal et.al.|[2605.08252](http://arxiv.org/abs/2605.08252)|null|
@@ -4882,6 +4896,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**PriorVLA: Prior-Preserving Adaptation for Vision-Language-Action Models**|Xinyu Guo et.al.|[2605.10925](http://arxiv.org/abs/2605.10925)|null|
+|**2026-05-11**|**AllocMV: Optimal Resource Allocation for Music Video Generation via Structured Persistent State**|Huimin Wang et.al.|[2605.10723](http://arxiv.org/abs/2605.10723)|null|
 |**2026-05-10**|**SKG-VLA: Scene Knowledge Graph Priors for Structured Scene Semantics and Multimodal Reasoning for Decision Making**|Zeyu Li et.al.|[2605.09343](http://arxiv.org/abs/2605.09343)|null|
 |**2026-05-09**|**simpleposter: a simple baseline for product poster generation**|Benlei Cui et.al.|[2605.08784](http://arxiv.org/abs/2605.08784)|null|
 |**2026-05-07**|**DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification**|Lei Tan et.al.|[2605.06637](http://arxiv.org/abs/2605.06637)|null|

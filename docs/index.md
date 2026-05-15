@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Planning & Control
@@ -1361,6 +1361,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers**|Lukas Schelenz et.al.|[2605.14855](http://arxiv.org/abs/2605.14855)|null|
+|**2026-05-14**|**DT-Transformer: A Foundation Model for Disease Trajectory Prediction on a Real-world Health System**|Yunying Zhu et.al.|[2605.14227](http://arxiv.org/abs/2605.14227)|null|
 |**2026-05-13**|**Causality-Aware End-to-End Autonomous Driving via Ego-Centric Joint Scene Modeling**|Seokha Moon et.al.|[2605.13646](http://arxiv.org/abs/2605.13646)|null|
 |**2026-05-13**|**Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes**|Kaicong Huang et.al.|[2605.13591](http://arxiv.org/abs/2605.13591)|null|
 |**2026-05-13**|**Bayesian Nonparametric Mixed-Effect ODEs with Gaussian Processes**|Julien Martinelli et.al.|[2605.13088](http://arxiv.org/abs/2605.13088)|null|
@@ -1373,7 +1375,7 @@ layout: default
 |**2026-05-11**|**MoPO: Incorporating Motion Prior for Occluded Human Mesh Recovery**|Tao Tang et.al.|[2605.09856](http://arxiv.org/abs/2605.09856)|null|
 |**2026-05-10**|**SAMOFT: Robust Multi-Object Tracking via Region and Flow**|Yanchao Wang et.al.|[2605.09417](http://arxiv.org/abs/2605.09417)|null|
 |**2026-05-09**|**Latency Analysis and Optimization of Alpamayo 1 via Efficient Trajectory Generation**|Yunseong Jeon et.al.|[2605.08975](http://arxiv.org/abs/2605.08975)|null|
-|**2026-05-09**|**DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding**|Xiang Feng et.al.|[2605.08888](http://arxiv.org/abs/2605.08888)|null|
+|**2026-05-14**|**DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding**|Xiang Feng et.al.|[2605.08888](http://arxiv.org/abs/2605.08888)|null|
 |**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830](http://arxiv.org/abs/2605.08830)|null|
 |**2026-05-09**|**Enhancing Consistency Models for Multi-Agent Trajectory Prediction**|Alen Mrdovic et.al.|[2605.08572](http://arxiv.org/abs/2605.08572)|null|
 |**2026-05-07**|**Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation**|Andrew Stratton et.al.|[2605.06863](http://arxiv.org/abs/2605.06863)|null|
@@ -4202,6 +4204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**H-OmniStereo: Zero-Shot Omnidirectional Stereo Matching with Heading-Aligned Normal Priors**|Chenxing Jiang et.al.|[2605.14963](http://arxiv.org/abs/2605.14963)|null|
 |**2026-05-13**|**Three-Stage Learning Unlocks Strong Performance in Simple Models for Long-Term Time Series Forecasting**|Zhenan Yu et.al.|[2605.13678](http://arxiv.org/abs/2605.13678)|null|
 |**2026-05-11**|**When Normality Shifts: Risk-Aware Test-Time Adaptation for Unsupervised Tabular Anomaly Detection**|Wei Huang et.al.|[2605.10242](http://arxiv.org/abs/2605.10242)|null|
 |**2026-05-11**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846](http://arxiv.org/abs/2605.07846)|null|
